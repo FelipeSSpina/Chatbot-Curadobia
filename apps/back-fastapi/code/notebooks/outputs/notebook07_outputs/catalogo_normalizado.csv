@@ -1,0 +1,4 @@
+sku,nome,categoria,preco,cor,tamanhos,tecido,elasticidade,estoque,descricao
+VEST001,Vestido midi alfaiataria,vestido,590.0,preto,"p,m,g",alfaiataria,baixa,12,Vestido midi de alfaiataria para trabalho e eventos
+BLUS002,Blusa cetim gola laço,blusa,329.0,off,"p,m,g,gg",cetim,media,7,"Blusa de cetim leve, ótima para trabalho e jantar"
+CALS003,Calça pantalona linho,calca,489.0,areia,"pp,p,m,g",linho,baixa,5,Pantalona de linho com caimento elegante

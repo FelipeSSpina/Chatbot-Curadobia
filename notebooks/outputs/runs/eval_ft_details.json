@@ -1,0 +1,398 @@
+[
+  {
+    "summary": {
+      "system": "baseline",
+      "n_queries": 20,
+      "precision@1": 0.15,
+      "precision@5": 0.03,
+      "precision@10": 0.015,
+      "mrr": 0.15
+    },
+    "results": [
+      {
+        "query": "jaqueta jeans",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "jaqueta jeans preta",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "vestido midi preto",
+        "relevant": [
+          1
+        ],
+        "top_idx": [
+          1,
+          2,
+          0
+        ]
+      },
+      {
+        "query": "vestido midi evasê",
+        "relevant": [
+          1
+        ],
+        "top_idx": [
+          1,
+          2,
+          0
+        ]
+      },
+      {
+        "query": "blazer linho bege",
+        "relevant": [],
+        "top_idx": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "query": "calça wide leg",
+        "relevant": [
+          2
+        ],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "saia plissada",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "cardigan bege",
+        "relevant": [],
+        "top_idx": [
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "query": "suéter tricot",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "jaqueta puffer",
+        "relevant": [],
+        "top_idx": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "query": "bota couro preta",
+        "relevant": [],
+        "top_idx": [
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "query": "tênis branco",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "sandália tiras",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "mule feminina",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "bolsa tiracolo",
+        "relevant": [],
+        "top_idx": [
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "query": "macacão pantacourt",
+        "relevant": [],
+        "top_idx": [
+          1,
+          2,
+          0
+        ]
+      },
+      {
+        "query": "short alfaiataria",
+        "relevant": [],
+        "top_idx": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "query": "jaqueta couro",
+        "relevant": [],
+        "top_idx": [
+          1,
+          2,
+          0
+        ]
+      },
+      {
+        "query": "chemise jeans",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "polo feminina",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "summary": {
+      "system": "tuned",
+      "n_queries": 20,
+      "precision@1": 0.15,
+      "precision@5": 0.03,
+      "precision@10": 0.015,
+      "mrr": 0.15
+    },
+    "results": [
+      {
+        "query": "jaqueta jeans",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "jaqueta jeans preta",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "vestido midi preto",
+        "relevant": [
+          1
+        ],
+        "top_idx": [
+          1,
+          2,
+          0
+        ]
+      },
+      {
+        "query": "vestido midi evasê",
+        "relevant": [
+          1
+        ],
+        "top_idx": [
+          1,
+          2,
+          0
+        ]
+      },
+      {
+        "query": "blazer linho bege",
+        "relevant": [],
+        "top_idx": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "query": "calça wide leg",
+        "relevant": [
+          2
+        ],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "saia plissada",
+        "relevant": [],
+        "top_idx": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "query": "cardigan bege",
+        "relevant": [],
+        "top_idx": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "query": "suéter tricot",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "jaqueta puffer",
+        "relevant": [],
+        "top_idx": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "query": "bota couro preta",
+        "relevant": [],
+        "top_idx": [
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "query": "tênis branco",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "sandália tiras",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "mule feminina",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "bolsa tiracolo",
+        "relevant": [],
+        "top_idx": [
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "query": "macacão pantacourt",
+        "relevant": [],
+        "top_idx": [
+          1,
+          0,
+          2
+        ]
+      },
+      {
+        "query": "short alfaiataria",
+        "relevant": [],
+        "top_idx": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "query": "jaqueta couro",
+        "relevant": [],
+        "top_idx": [
+          1,
+          0,
+          2
+        ]
+      },
+      {
+        "query": "chemise jeans",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      },
+      {
+        "query": "polo feminina",
+        "relevant": [],
+        "top_idx": [
+          2,
+          1,
+          0
+        ]
+      }
+    ]
+  }
+]

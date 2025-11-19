@@ -1,0 +1,14 @@
+{
+  "inputs": {
+    "dataset_original": "c:\\Users\\win\\Documents\\GitHub\\2025-2A-T07-CC11-G04\\code\\notebooks\\dataset\\dataset_unificado.csv",
+    "fluxos_yaml": "c:\\Users\\win\\Documents\\GitHub\\2025-2A-T07-CC11-G04\\code\\resources\\fluxos.yaml"
+  },
+  "flags": {
+    "enable_backtranslation": false,
+    "enable_active_learning": false,
+    "promoted_official": false,
+    "oov_max_rate": 0.06,
+    "test_ratio": 0.12,
+    "dev_ratio": 0.08
+  }
+}

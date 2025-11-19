@@ -1,0 +1,22 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tokens de cor da marca */
+:root {
+  --brand-fg: #000000;
+  --brand-text: #545454;
+  --brand-bg: #E6E3E4;
+  --brand-bg2: #E5DFD2;
+}
+
+/* Fonte virá do next/font via className no <body>; aqui ficam apenas fallbacks se quiser */
+html, body {
+  color: var(--brand-text);
+}
+
+/* Helpers */
+.bg-brand-bg { background-color: var(--brand-bg); }
+.bg-brand-bg2 { background-color: var(--brand-bg2); }
+.text-brand-text { color: var(--brand-text); }
+.text-brand-fg { color: var(--brand-fg); }

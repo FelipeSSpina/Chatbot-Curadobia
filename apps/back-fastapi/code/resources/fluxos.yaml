@@ -1,0 +1,358 @@
+version: '1.0'
+metadata:
+  project: Fluxos Conversacionais
+  author: CuradoBot
+  locale: pt-BR
+  description: Definição de fluxos conversacionais com estados, transições, intents
+    e slots.
+intents:
+- saudacao
+- despedida
+- agradecimento
+- duvida_tamanho
+- pedido_sugestao
+- disponibilidade
+- onde_comprar
+- cupom_primeira
+- erros_plataforma
+- falar_com_humano
+- outros
+- buscar_produto_por_nome
+- buscar_produto_por_categoria
+- frete_prazo
+- formas_pagamento
+- status_pedido
+- tamanho_modelagem
+- styling_sugestao_look
+- materiais_cuidados
+- troca_devolucao
+entities:
+  produto.nome:
+    type: string
+  categoria:
+    type: string
+    enum:
+    - vestido
+    - blusa
+    - calca
+    - saia
+    - macaquinho
+    - casaco
+    - acessorio
+    - outro
+  marca:
+    type: string
+  preco.max:
+    type: number
+  pedido.id:
+    type: string
+  geo.cep:
+    type: string
+  contato.email:
+    type: string
+  contato.telefone:
+    type: string
+  medidas.busto:
+    type: number
+  medidas.cintura:
+    type: number
+  medidas.quadril:
+    type: number
+  medidas.altura:
+    type: number
+  tamanho_ref:
+    type: string
+  tecido:
+    type: string
+  elasticidade:
+    type: string
+    enum:
+    - baixa
+    - media
+    - alta
+  ocasiao:
+    type: string
+    enum:
+    - trabalho
+    - festa_dia
+    - viagem
+    - casual
+  budget:
+    type: number
+  sku:
+    type: string
+  cor:
+    type: string
+  tamanho:
+    type: string
+templates:
+  boas_vindas: Oi! Eu sou a BIBI da Curadobia. Posso calcular frete, formas de pagamento,
+    tamanho, estoque e mais. Em que te ajudo? ✨
+  agradecimento: Fico feliz em ajudar! 😊
+  encerrar: Foi um prazer ajudar! Se precisar, é só chamar. 👋
+  pedir_cep: 'Pra calcular o frete, me passa seu CEP? Ex.: 01234-567'
+  pedir_pedido_id: Você consegue me passar o número do seu pedido (ou e-mail usado
+    na compra)?
+  outros: Tô quase lá! Quer me dizer de outro jeitinho ou prefere falar com uma pessoa
+    do time? 💛
+  handoff: Pra te ajudar melhor, vou acionar nosso time humano 💛 Qual o melhor contato
+    e horário?
+  fora_horario: Nosso time humano atende de 9h às 18h (seg–sex). Posso abrir um chamado
+    e eles te retornam no próximo expediente.
+  tamanho_prompt: Me diz seu tamanho de referência ou medidas (busto/cintura/quadril/altura)
+    😉
+  tamanho_result: Pelo seu perfil, o tamanho sugerido é **{{tamanho}}**; caimento
+    **{{caimento}}**.
+  styling_prompt: Para qual ocasião e qual peça você quer combinar? Posso sugerir
+    looks completos.
+  styling_result: Aqui vão 2 ideias de look que combinam com {{peca}} para {{ocasiao}}.
+  materiais_result: 'Resumo do tecido e cuidados: {{resposta}}'
+  como_comprar_info: Você pode comprar pelo site ou comigo aqui. Se preferir, te mando
+    o link direto do produto.
+  pagamento_info: Aceitamos PIX, boleto e cartão (com possibilidade de parcelamento).
+  frete_info: Envio em até 2 dias úteis após confirmação + prazo da transportadora.
+    Assim que postar, mando o rastreio.
+  troca_devolucao: Pode me detalhar se é troca, devolução ou defeito?
+  troca_info: Trocas em até 7 dias corridos após recebimento, peça sem uso e com etiqueta.
+    Posso iniciar pra você agora?
+  estoque_info: 'Resultados de estoque para {{consulta}}: {{lista}}'
+  suporte_login_passos: 'Vamos passo a passo: 1) limpe cache/cookies; 2) tente outro
+    navegador; 3) redefina senha. Persistindo, chamo o time.'
+  erros_plataforma: Pode descrever o erro? Assim podemos resolver mais rápido.
+  cupom_primeira: Temos um cupom especial para a sua primeira compra. Quer que eu
+    gere para você?
+  sugestoes_result: 'Separei {{n}} sugestões para você: {{lista_sugestoes}}. Posso
+    te enviar os links? ✨'
+actions:
+- identificar_intencao
+- gerar_sugestoes
+- buscar_produto_por_nome
+- buscar_produto_por_categoria
+- consultar_politica_troca
+- estimar_tamanho
+- sugerir_looks
+- responder_kb_materiais
+- instruir_checkout
+- consultar_catalogo
+- verificar_estoque
+- consultar_preco
+- calcular_prazo_entrega
+- processar_troca
+- fornecer_link_compra
+- gerar_cupom
+- registrar_erro
+- fallback
+- calcular_frete
+- consultar_status_pedido
+- abrir_ticket_humano
+- exibir_resultado
+- cotar_frete
+- consultar_estoque
+states:
+  START:
+    entry:
+      template: boas_vindas
+    transitions:
+    - intent: saudacao
+      next: CAPTURA_INTENCAO
+    - intent: any
+      next: CAPTURA_INTENCAO
+  CAPTURA_INTENCAO:
+    entry:
+      template: boas_vindas
+    transitions:
+    - intent: saudacao
+      next: CAPTURA_INTENCAO
+    - intent: pedido_sugestao
+      action: gerar_sugestoes
+      next: RECOMENDAR
+    - intent: buscar_produto_por_nome
+      action: buscar_produto_por_nome
+      next: BUSCA_PRODUTO
+    - intent: buscar_produto_por_categoria
+      action: buscar_produto_por_categoria
+      next: BUSCA_PRODUTO
+    - intent: disponibilidade
+      action: consultar_estoque
+      next: INFO_ESTOQUE
+    - intent: frete_prazo
+      guard: has(geo.cep)
+      action: cotar_frete
+      next: INFO_FRETE
+    - intent: frete_prazo
+      guard: '!has(geo.cep)'
+      next: FALLBACK_PEDIR_CEP
+    - intent: formas_pagamento
+      next: INFO_PAGAMENTO
+    - intent: status_pedido
+      guard: has(pedido.id)
+      action: consultar_status_pedido
+      next: STATUS_PEDIDO
+    - intent: status_pedido
+      guard: '!has(pedido.id)'
+      next: FALLBACK_PEDIR_PEDIDO
+    - intent: troca_devolucao
+      action: consultar_politica_troca
+      next: POLITICA_TROCA
+    - intent: tamanho_modelagem
+      next: TAMANHO_MODELAGEM
+    - intent: styling_sugestao_look
+      next: STYLING
+    - intent: materiais_cuidados
+      action: responder_kb_materiais
+      next: MATERIAIS
+    - intent: onde_comprar
+      next: COMO_COMPRAR
+    - intent: erros_plataforma
+      next: SUPORTE_LOGIN
+    - intent: falar_com_humano
+      next: FALAR_HUMANO
+    - intent: despedida
+      next: ENCERRAMENTO
+    - intent: agradecimento
+      next: ENCERRAMENTO
+    - intent: outros
+      next: FALLBACK_PEDIR_REFORMULACAO
+    - intent: any
+      next: FALLBACK_PEDIR_REFORMULACAO
+  RECOMENDAR:
+    entry:
+      template: sugestoes_result
+    transitions:
+    - intent: any
+      next: ENCERRAMENTO
+  BUSCA_PRODUTO:
+    transitions:
+    - intent: any
+      next: INFO_ESTOQUE
+  INFO_ESTOQUE:
+    transitions:
+    - intent: any
+      next: ENCERRAMENTO
+  INFO_FRETE:
+    entry:
+      template: frete_info
+    transitions:
+    - intent: any
+      next: ENCERRAMENTO
+  INFO_PAGAMENTO:
+    entry:
+      template: pagamento_info
+    transitions:
+    - intent: any
+      next: ENCERRAMENTO
+  STATUS_PEDIDO:
+    transitions:
+    - intent: any
+      next: ENCERRAMENTO
+  POLITICA_TROCA:
+    entry:
+      template: troca_info
+    transitions:
+    - intent: any
+      next: ENCERRAMENTO
+  TAMANHO_MODELAGEM:
+    entry:
+      template: tamanho_prompt
+    transitions:
+    - intent: any
+      guard: has(tamanho_ref)
+      action: estimar_tamanho
+      next: TAMANHO_MODELAGEM_RESULT
+    - intent: any
+      guard: has(medidas.busto)
+      action: estimar_tamanho
+      next: TAMANHO_MODELAGEM_RESULT
+    - intent: any
+      next: TAMANHO_MODELAGEM
+  TAMANHO_MODELAGEM_RESULT:
+    entry:
+      template: tamanho_result
+    transitions:
+    - intent: any
+      next: ENCERRAMENTO
+  STYLING:
+    entry:
+      template: styling_prompt
+    transitions:
+    - intent: any
+      guard: has(categoria)
+      action: sugerir_looks
+      next: STYLING_RESULT
+    - intent: any
+      guard: has(ocasiao)
+      action: sugerir_looks
+      next: STYLING_RESULT
+    - intent: any
+      next: STYLING
+  STYLING_RESULT:
+    entry:
+      template: styling_result
+    transitions:
+    - intent: any
+      next: ENCERRAMENTO
+  MATERIAIS:
+    entry:
+      template: materiais_result
+    transitions:
+    - intent: any
+      next: ENCERRAMENTO
+  COMO_COMPRAR:
+    entry:
+      template: como_comprar_info
+    transitions:
+    - intent: any
+      next: ENCERRAMENTO
+  SUPORTE_LOGIN:
+    entry:
+      template: suporte_login_passos
+    transitions:
+    - intent: falar_com_humano
+      next: FALAR_HUMANO
+    - intent: any
+      next: ENCERRAMENTO
+  FALLBACK_PEDIR_CEP:
+    entry:
+      template: pedir_cep
+    transitions:
+    - intent: frete_prazo
+      guard: has(geo.cep)
+      action: cotar_frete
+      next: INFO_FRETE
+    - intent: frete_prazo
+      guard: '!has(geo.cep)'
+      next: FALLBACK_PEDIR_CEP
+    - intent: any
+      next: CAPTURA_INTENCAO
+  FALLBACK_PEDIR_PEDIDO:
+    entry:
+      template: pedir_pedido_id
+    transitions:
+    - intent: status_pedido
+      guard: has(pedido.id)
+      action: consultar_status_pedido
+      next: STATUS_PEDIDO
+    - intent: status_pedido
+      guard: '!has(pedido.id)'
+      next: FALLBACK_PEDIR_PEDIDO
+    - intent: any
+      next: CAPTURA_INTENCAO
+  FALLBACK_PEDIR_REFORMULACAO:
+    entry:
+      template: outros
+    transitions:
+    - intent: any
+      next: CAPTURA_INTENCAO
+  FALAR_HUMANO:
+    entry:
+      template: handoff
+    transitions:
+    - intent: any
+      next: ENCERRAMENTO
+  ENCERRAMENTO:
+    entry:
+      template: encerrar
+fallbacks:
+  on_unrecognized_intent:
+    template: outros
+    next: FALLBACK_PEDIR_REFORMULACAO

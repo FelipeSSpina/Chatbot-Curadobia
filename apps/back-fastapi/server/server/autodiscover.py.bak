@@ -1,0 +1,36 @@
+﻿# -*- coding: utf-8 -*-
+"""Autodiscover da BIA � wrapper(**kwargs) e load_pipeline(spec)."""
+from __future__ import annotations
+from typing import Any, Callable, Tuple, Dict
+import inspect as _inspect
+
+def wrapper(call: Callable[[str], Any]) -> Callable[..., Any]:
+    def _wrapped(message: str, **kwargs: Any) -> Any:
+        # repassa TUDO (meta, profile_json, session_id, etc.)
+        return call(message, **kwargs)
+    return _wrapped
+
+def load_pipeline(spec: Any = None) -> Tuple[Callable[..., Any], Dict[str, Any]]:
+    try:
+        from code.fluxos_intencao.chatbot import classify_intent, generate_response  # type: ignore
+        source = "code.fluxos_intencao.chatbot"
+    except Exception:
+        from chatbot import classify_intent, generate_response  # type: ignore
+        source = "chatbot (fallback)"
+
+    def respond(message: str, **kwargs: Any) -> str:
+        meta: dict = kwargs.get("meta") or {}
+        profile_json = meta.get("profile_json", {})
+        pred = classify_intent(message) or {}
+        intent = pred.get("intent") or "nao_entendi"
+
+        params = _inspect.signature(generate_response).parameters
+        call_kwargs: Dict[str, Any] = {}
+        if "meta" in params: call_kwargs["meta"] = meta
+        if "profile_json" in params: call_kwargs["profile_json"] = profile_json
+        if "session_id" in params and "session_id" in kwargs:
+            call_kwargs["session_id"] = kwargs["session_id"]
+        return str(generate_response(intent, message, **call_kwargs))
+
+    return wrapper(respond), {"source": source}
+

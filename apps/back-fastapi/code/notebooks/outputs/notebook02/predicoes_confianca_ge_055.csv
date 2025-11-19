@@ -1,0 +1,309 @@
+ts,autor,texto,origem,label_regra,pred_label,pred_prob
+,,tem body preto tamanho 40?,synthetic,duvida_tamanho,duvida_tamanho,0.7737864018471049
+,,tem vestido verde tamanho 38?,synthetic,duvida_tamanho,duvida_tamanho,0.772386847231338
+,,tem blazer verde tamanho 42?,synthetic,duvida_tamanho,duvida_tamanho,0.7811538758323974
+,,tem jaqueta preto tamanho 40?,synthetic,duvida_tamanho,duvida_tamanho,0.743910666220786
+,,tem body preto tamanho 46?,raw,duvida_tamanho,duvida_tamanho,0.7737864018471049
+,,quero vestido verde 44,raw,duvida_tamanho,duvida_tamanho,0.6818436276195519
+,,tem camisa preto tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.7772595162643368
+,,quero vestido verde 42,raw,duvida_tamanho,duvida_tamanho,0.6818436276195519
+,,tem body verde tamanho P?,raw,duvida_tamanho,duvida_tamanho,0.7841230453141573
+,,tem body verde tamanho 40?,raw,duvida_tamanho,duvida_tamanho,0.7841230453141573
+,,tem camisa verde tamanho GG?,raw,duvida_tamanho,duvida_tamanho,0.6965140529387046
+,,tem vestido verde tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.772386847231338
+,,tem blazer verde tamanho G?,synthetic,duvida_tamanho,duvida_tamanho,0.7811538758323974
+,,tem vestido preto tamanho 46?,synthetic,duvida_tamanho,duvida_tamanho,0.7666746653697418
+,,quero camisa preto 46,raw,duvida_tamanho,duvida_tamanho,0.7040930590573308
+,,quero saia verde M,raw,duvida_tamanho,duvida_tamanho,0.6829114443183715
+,,quero saia verde P,raw,duvida_tamanho,duvida_tamanho,0.6829114443183715
+,,quero saia verde 36,raw,duvida_tamanho,duvida_tamanho,0.6829114443183715
+,,tem camisa verde tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.784383032839313
+,,tem blazer verde tamanho M?,raw,duvida_tamanho,duvida_tamanho,0.7811538758323974
+,,tem blazer preto tamanho 38?,raw,duvida_tamanho,duvida_tamanho,0.7810016471857941
+,,tem camisa preto tamanho 38?,synthetic,duvida_tamanho,duvida_tamanho,0.7772595162643368
+,,quero jaqueta preto GG,raw,duvida_tamanho,duvida_tamanho,0.620824562866488
+,,quero jaqueta verde 42,raw,duvida_tamanho,duvida_tamanho,0.6832934313457918
+,,quero blazer preto M,raw,duvida_tamanho,duvida_tamanho,0.7040330644121816
+,,tem vestido preto tamanho G?,raw,duvida_tamanho,duvida_tamanho,0.7666746653697418
+,,tem camisa verde tamanho M?,raw,duvida_tamanho,duvida_tamanho,0.784383032839313
+,,quero camisa preto P,raw,duvida_tamanho,duvida_tamanho,0.7040930590573308
+,,tem body preto tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.7737864018471049
+,,quero jaqueta preto P,raw,duvida_tamanho,duvida_tamanho,0.6670312694757418
+,,quero vestido preto 46,raw,duvida_tamanho,duvida_tamanho,0.6795654181803399
+,,quero jaqueta preto G,raw,duvida_tamanho,duvida_tamanho,0.6670312694757418
+,,tem vestido verde tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.7021376628758043
+,,quero jaqueta verde 46,raw,duvida_tamanho,duvida_tamanho,0.6832934313457918
+,,quero camisa preto 42,raw,duvida_tamanho,duvida_tamanho,0.7040930590573308
+,,tem saia preto tamanho 40?,raw,duvida_tamanho,duvida_tamanho,0.7459940370064471
+,,quero vestido preto PP,raw,duvida_tamanho,duvida_tamanho,0.6120765270715318
+,,tem blazer preto tamanho G?,raw,duvida_tamanho,duvida_tamanho,0.7810016471857941
+,,tem body preto tamanho GG?,synthetic,duvida_tamanho,duvida_tamanho,0.6897188177034863
+,,tem body preto tamanho P?,raw,duvida_tamanho,duvida_tamanho,0.7737864018471049
+,,tem saia verde tamanho GG?,raw,duvida_tamanho,duvida_tamanho,0.7003425352779904
+,,tem saia verde tamanho 46?,raw,duvida_tamanho,duvida_tamanho,0.7873170172067561
+,,tem camisa verde tamanho G?,synthetic,duvida_tamanho,duvida_tamanho,0.784383032839313
+,,tem vestido verde tamanho P?,raw,duvida_tamanho,duvida_tamanho,0.772386847231338
+,,quero jaqueta preto 36,raw,duvida_tamanho,duvida_tamanho,0.6670312694757418
+,,tem body preto tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.7737864018471049
+,,quero vestido verde PP,raw,duvida_tamanho,duvida_tamanho,0.6234344922472215
+,,quero camisa verde P,raw,duvida_tamanho,duvida_tamanho,0.7088883962178296
+,,quero jaqueta verde 44,raw,duvida_tamanho,duvida_tamanho,0.6832934313457918
+,,tem body preto tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.701572309782963
+,,tem vestido verde tamanho G?,raw,duvida_tamanho,duvida_tamanho,0.772386847231338
+,,quero body preto M,raw,duvida_tamanho,duvida_tamanho,0.6901740036741603
+,,tem camisa preto tamanho 46?,raw,duvida_tamanho,duvida_tamanho,0.7772595162643368
+,,tem blazer preto tamanho 36?,synthetic,duvida_tamanho,duvida_tamanho,0.7810016471857941
+,,tem saia preto tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.7459940370064471
+,,tem vestido preto tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.7666746653697418
+,,quero vestido verde 40,raw,duvida_tamanho,duvida_tamanho,0.6818436276195519
+,,quero blazer verde 46,raw,duvida_tamanho,duvida_tamanho,0.7014575844651567
+,,tem vestido verde tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.772386847231338
+,,tem camisa verde tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.784383032839313
+,,quero body preto 36,raw,duvida_tamanho,duvida_tamanho,0.6901740036741603
+,,quero blazer preto 42,raw,duvida_tamanho,duvida_tamanho,0.7040330644121816
+,,tem body verde tamanho GG?,raw,duvida_tamanho,duvida_tamanho,0.6963457908178523
+,,tem saia verde tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.7122751296754332
+,,tem jaqueta verde tamanho P?,raw,duvida_tamanho,duvida_tamanho,0.7624826975819694
+,,quero saia verde G,raw,duvida_tamanho,duvida_tamanho,0.6829114443183715
+,,tem jaqueta preto tamanho P?,synthetic,duvida_tamanho,duvida_tamanho,0.743910666220786
+,,tem camisa verde tamanho 46?,synthetic,duvida_tamanho,duvida_tamanho,0.784383032839313
+,,quero camisa verde 40,raw,duvida_tamanho,duvida_tamanho,0.7088883962178296
+,,quero jaqueta verde GG,raw,duvida_tamanho,duvida_tamanho,0.6359479794399858
+,,quero camisa preto 40,raw,duvida_tamanho,duvida_tamanho,0.7040930590573308
+,,quero camisa preto 44,raw,duvida_tamanho,duvida_tamanho,0.7040930590573308
+,,tem camisa preto tamanho G?,raw,duvida_tamanho,duvida_tamanho,0.7772595162643368
+,,tem saia preto tamanho M?,raw,duvida_tamanho,duvida_tamanho,0.7459940370064471
+,,tem jaqueta verde tamanho GG?,raw,duvida_tamanho,duvida_tamanho,0.6765529980575884
+,,quero camisa preto PP,raw,duvida_tamanho,duvida_tamanho,0.6252209444951983
+,,tem jaqueta preto tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.6755271074854611
+,,quero saia preto P,raw,duvida_tamanho,duvida_tamanho,0.6446559773055202
+,,quero blazer verde 38,raw,duvida_tamanho,duvida_tamanho,0.7014575844651567
+,,tem vestido verde tamanho M?,raw,duvida_tamanho,duvida_tamanho,0.772386847231338
+,,tem vestido preto tamanho P?,raw,duvida_tamanho,duvida_tamanho,0.7666746653697418
+,,quero jaqueta verde 40,raw,duvida_tamanho,duvida_tamanho,0.6832934313457918
+,,quero body preto G,raw,duvida_tamanho,duvida_tamanho,0.6901740036741603
+,,quero blazer preto G,raw,duvida_tamanho,duvida_tamanho,0.7040330644121816
+,,quero saia verde 42,raw,duvida_tamanho,duvida_tamanho,0.6829114443183715
+,,quero camisa verde 44,raw,duvida_tamanho,duvida_tamanho,0.7088883962178296
+,,quero blazer verde 40,raw,duvida_tamanho,duvida_tamanho,0.7014575844651567
+,,tem body verde tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.7841230453141573
+,,tem camisa verde tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.784383032839313
+,,quero blazer verde G,raw,duvida_tamanho,duvida_tamanho,0.7014575844651567
+,,tem camisa preto tamanho M?,synthetic,duvida_tamanho,duvida_tamanho,0.7772595162643368
+,,quero body verde G,raw,duvida_tamanho,duvida_tamanho,0.6977894720424627
+,,quero jaqueta verde 38,raw,duvida_tamanho,duvida_tamanho,0.6832934313457918
+,,tem blazer verde tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.7097590917973208
+,,quero camisa verde PP,raw,duvida_tamanho,duvida_tamanho,0.6400278679465843
+,,quero jaqueta verde M,raw,duvida_tamanho,duvida_tamanho,0.6832934313457918
+,,tem jaqueta preto tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.743910666220786
+,,quero blazer preto P,raw,duvida_tamanho,duvida_tamanho,0.7040330644121816
+,,tem jaqueta verde tamanho 38?,raw,duvida_tamanho,duvida_tamanho,0.7624826975819694
+,,quero camisa preto M,raw,duvida_tamanho,duvida_tamanho,0.7040930590573308
+,,tem blazer verde tamanho 40?,raw,duvida_tamanho,duvida_tamanho,0.7811538758323974
+,,quero body preto 38,synthetic,duvida_tamanho,duvida_tamanho,0.6901740036741603
+,,tem body verde tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.7841230453141573
+,,quero blazer preto 40,raw,duvida_tamanho,duvida_tamanho,0.7040330644121816
+,,tem camisa preto tamanho 44?,synthetic,duvida_tamanho,duvida_tamanho,0.7772595162643368
+,,quero saia verde 38,raw,duvida_tamanho,duvida_tamanho,0.6829114443183715
+,,tem jaqueta preto tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.743910666220786
+,,tem camisa verde tamanho 40?,raw,duvida_tamanho,duvida_tamanho,0.784383032839313
+,,tem jaqueta preto tamanho G?,raw,duvida_tamanho,duvida_tamanho,0.743910666220786
+,,quero jaqueta verde G,raw,duvida_tamanho,duvida_tamanho,0.6832934313457918
+,,quero blazer verde 42,raw,duvida_tamanho,duvida_tamanho,0.7014575844651567
+,,tem saia verde tamanho 40?,raw,duvida_tamanho,duvida_tamanho,0.7873170172067561
+,,quero camisa verde 46,raw,duvida_tamanho,duvida_tamanho,0.7088883962178296
+,,quero blazer verde GG,raw,duvida_tamanho,duvida_tamanho,0.6535133820483109
+,,quero body verde 40,synthetic,duvida_tamanho,duvida_tamanho,0.6977894720424627
+,,quero body verde 38,raw,duvida_tamanho,duvida_tamanho,0.6977894720424627
+,,quero vestido verde 38,raw,duvida_tamanho,duvida_tamanho,0.6818436276195519
+,,quero vestido preto P,raw,duvida_tamanho,duvida_tamanho,0.6795654181803399
+,,tem saia verde tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.7873170172067561
+,,tem jaqueta preto tamanho M?,raw,duvida_tamanho,duvida_tamanho,0.743910666220786
+,,quero vestido verde 46,raw,duvida_tamanho,duvida_tamanho,0.6818436276195519
+,,na o tem um link de comunicaa a o no whatsapp,raw,disponibilidade,onde_comprar,0.724544455654537
+,,nao temos cupom de desconto no momento,raw,preco_pagamento,preco_pagamento,0.6485690312377207
+,,vcs tem desconto para primeira compra,raw,preco_pagamento,preco_pagamento,0.5886726057454226
+,,na o temos cupom de desconto no momento,raw,preco_pagamento,preco_pagamento,0.6826137002315967
+,,tem cupom de desconto primeira compra,raw,preco_pagamento,preco_pagamento,0.7444235770292287
+,,certo obrigada o prazo de entrega sao <num> dias mesmo,raw,prazo_entrega,prazo_entrega,0.5802806688056346
+,,gabriela entendo sua frustracao e e completamente justificada de fato a marca informou ter tido um pequeno problema de producao que nao devera mais ocorrer e por isso acabou enviando atrasado seu pedido sobre o meio de contato estamos providenciando um numero para atendimento whatsapp por hora estamos apenas com o e mail mas muito em breve ja deixaremos essa opcao mais facil para solucao de qualquer problema,raw,onde_comprar,onde_comprar,0.6401656887534692
+,,certo obrigada o prazo de entrega sa o <num> dias mesmo,raw,prazo_entrega,prazo_entrega,0.5861001261668337
+,,pedimos desculpas pelo ocorrido e pode ter certeza que isso servira para aprimorarmos nosso atendimento e na o deixar que situaa aues como essa ocorram novamente agradea o sua compreensa o e nos disponibilizamos para auxiliar da melhor forma possavel sobre ter ficado um pouco grande o body nos informe se desejar efetuar troca que ja posso agilizar junto a marca essa solicitaa a o,raw,troca_devolucao,troca_devolucao,0.5872388527806003
+,,mto obrigada pelo retorno,raw,agradecimento,agradecimento,0.6008880088603935
+,,pedimos desculpas pelo ocorrido e pode ter certeza que isso servira para aprimorarmos nosso atendimento e nao deixar que situacoes como essa ocorram novamente agradeco sua compreensao e nos disponibilizamos para auxiliar da melhor forma possivel sobre ter ficado um pouco grande o body nos informe se desejar efetuar troca que ja posso agilizar junto a marca essa solicitacao,raw,troca_devolucao,troca_devolucao,0.6061158936951281
+,,tem jaqueta verde no 46?,raw,duvida_tamanho,duvida_tamanho,0.5810775708266357
+,,tem jaqueta verde no 42?,raw,duvida_tamanho,duvida_tamanho,0.5810775708266357
+,,tem vestido preto no G?,raw,duvida_tamanho,duvida_tamanho,0.5960131833157437
+,,tem saia verde no 46?,raw,duvida_tamanho,duvida_tamanho,0.6256599809339227
+,,tem saia verde no P?,raw,duvida_tamanho,duvida_tamanho,0.6256599809339227
+,,tem camisa preto no M?,raw,duvida_tamanho,duvida_tamanho,0.6108434691269252
+,,tem saia preto no 46?,raw,duvida_tamanho,duvida_tamanho,0.5622341579179515
+,,tem body preto no G?,raw,duvida_tamanho,duvida_tamanho,0.6058814314996042
+,,tem vestido preto no 42?,raw,duvida_tamanho,duvida_tamanho,0.5960131833157437
+,,tem saia verde no G?,raw,duvida_tamanho,duvida_tamanho,0.6256599809339227
+,,tem jaqueta verde no G?,raw,duvida_tamanho,duvida_tamanho,0.5810775708266357
+,,tem body verde no 42?,raw,duvida_tamanho,duvida_tamanho,0.619271698483467
+,,tem blazer verde no 38?,raw,duvida_tamanho,duvida_tamanho,0.6154149107484882
+,,tem camisa preto no 44?,raw,duvida_tamanho,duvida_tamanho,0.6108434691269252
+,,tem jaqueta preto no 46?,raw,duvida_tamanho,duvida_tamanho,0.5550548640354576
+,,tem vestido verde no 46?,raw,duvida_tamanho,duvida_tamanho,0.6012247625078998
+,,tem jaqueta preto no 38?,raw,duvida_tamanho,duvida_tamanho,0.5550548640354576
+,,tem camisa preto no 38?,raw,duvida_tamanho,duvida_tamanho,0.6108434691269252
+,,tem blazer verde no 40?,raw,duvida_tamanho,duvida_tamanho,0.6154149107484882
+,,tem body verde no 36?,raw,duvida_tamanho,duvida_tamanho,0.619271698483467
+,,tem blazer preto no 40?,raw,duvida_tamanho,duvida_tamanho,0.6190977379254181
+,,tem vestido preto no P?,raw,duvida_tamanho,duvida_tamanho,0.5960131833157437
+,,tem vestido preto no 44?,raw,duvida_tamanho,duvida_tamanho,0.5960131833157437
+,,tem blazer preto no 42?,raw,duvida_tamanho,duvida_tamanho,0.6190977379254181
+,,tem body verde no 38?,raw,duvida_tamanho,duvida_tamanho,0.619271698483467
+,,tem jaqueta verde no 40?,raw,duvida_tamanho,duvida_tamanho,0.5810775708266357
+,,tem body preto no 42?,raw,duvida_tamanho,duvida_tamanho,0.6058814314996042
+,,tem vestido preto no 38?,raw,duvida_tamanho,duvida_tamanho,0.5960131833157437
+,,tem body preto no 44?,raw,duvida_tamanho,duvida_tamanho,0.6058814314996042
+,,tem saia verde no M?,raw,duvida_tamanho,duvida_tamanho,0.6256599809339227
+,,tem blazer verde no G?,raw,duvida_tamanho,duvida_tamanho,0.6154149107484882
+,,tem saia verde no 42?,raw,duvida_tamanho,duvida_tamanho,0.6256599809339227
+,,tem camisa preto no 36?,raw,duvida_tamanho,duvida_tamanho,0.6108434691269252
+,,tem vestido verde no 42?,raw,duvida_tamanho,duvida_tamanho,0.6012247625078998
+,,tem body verde no 40?,raw,duvida_tamanho,duvida_tamanho,0.619271698483467
+,,tem blazer preto no P?,raw,duvida_tamanho,duvida_tamanho,0.6190977379254181
+,,tem jaqueta preto no 44?,raw,duvida_tamanho,duvida_tamanho,0.5550548640354576
+,,tem jaqueta preto no 40?,raw,duvida_tamanho,duvida_tamanho,0.5550548640354576
+,,tem vestido verde no 38?,raw,duvida_tamanho,duvida_tamanho,0.6012247625078998
+,,tem camisa verde no M?,raw,duvida_tamanho,duvida_tamanho,0.6188961081623306
+,,tem body preto no 38?,raw,duvida_tamanho,duvida_tamanho,0.6058814314996042
+,,tem blazer preto no 36?,raw,duvida_tamanho,duvida_tamanho,0.6190977379254181
+,,tem saia preto no 42?,raw,duvida_tamanho,duvida_tamanho,0.5622341579179515
+,,tem saia preto no 36?,raw,duvida_tamanho,duvida_tamanho,0.5622341579179515
+,,tem body preto no M?,raw,duvida_tamanho,duvida_tamanho,0.6058814314996042
+,,tem jaqueta verde no M?,raw,duvida_tamanho,duvida_tamanho,0.5810775708266357
+,,tem camisa verde no 42?,raw,duvida_tamanho,duvida_tamanho,0.6188961081623306
+,,tem body verde no 46?,raw,duvida_tamanho,duvida_tamanho,0.619271698483467
+,,tem saia verde no 38?,raw,duvida_tamanho,duvida_tamanho,0.6256599809339227
+,,tem vestido preto no 36?,raw,duvida_tamanho,duvida_tamanho,0.5960131833157437
+,,tem camisa verde no P?,raw,duvida_tamanho,duvida_tamanho,0.6188961081623306
+,,tem saia preto no M?,raw,duvida_tamanho,duvida_tamanho,0.5622341579179515
+,,tem body verde no P?,raw,duvida_tamanho,duvida_tamanho,0.619271698483467
+,,tem camisa verde no 46?,raw,duvida_tamanho,duvida_tamanho,0.6188961081623306
+,,tem blazer preto no G?,raw,duvida_tamanho,duvida_tamanho,0.6190977379254181
+,,comprei um body e paguei frete de <num> dias uteis pra levar pra uma viagem agora na sexta,raw,prazo_entrega,prazo_entrega,0.587466890618543
+,,fiz uma compra de um casaco com vcs e nao vestiu bem gostaria de trocar por uma calca fresquinha tamanho m,raw,troca_devolucao,troca_devolucao,0.6125719382870064
+,,sobre a troca da calca que comprei quero trocar por um tamanho menor recebi um e mail de vcs no dia <num> <num> <num> respondi mas dps disso nao tive mais retorno,raw,troca_devolucao,troca_devolucao,0.6643262502769933
+,,aqui a tabela certinha mas ja estamos com o pessoal tecnico corrigindo esse erro,raw,erro_plataforma,erro_plataforma,0.7923730338122402
+,,pensamos que poderia ser a senha criada mas quando ocorre algum ponto nesse aspecto surge uma mensagem abaixo voce se importaria em tentar novamente apenas para checarmos se continua ocorrendo o mesmo erro,raw,erro_plataforma,erro_plataforma,0.7198037358765075
+,,aqui a tabela certinha mas ja estamos com o pessoal ta c cnico corrigindo esse erro,raw,erro_plataforma,erro_plataforma,0.811488584279567
+,,verificamos com a marca responsavel pelo envio a revival o seu pedido sofreu um pequeno atraso que a marca me informou ter lhe comunicado por whatsapp,raw,onde_comprar,onde_comprar,0.6111477440603177
+,,este e meu whatsapp,raw,onde_comprar,onde_comprar,0.5702992134097301
+,,chico neto cd mare mar whatsapp <num> <url>,raw,onde_comprar,onde_comprar,0.6205954609602505
+,,verificamos com a marca responsa vel pelo envio a revival o seu pedido sofreu um pequeno atraso que a marca me informou ter lhe comunicado por whatsapp,raw,onde_comprar,onde_comprar,0.6124529459604912
+,,vou querer a <num> qual e sua chave pix,raw,preco_pagamento,preco_pagamento,0.6364725958162465
+,,vou querer a <num> qual a c sua chave pix,raw,preco_pagamento,preco_pagamento,0.6364725958162465
+,,praticamos sempre o mesmo valor das marcas o que entrara de extra sera o valor do frete que e calculado automaticamente se tiver mais alguma duvida nos avise ok,raw,prazo_entrega,prazo_entrega,0.5792244315310326
+,,ja vi e amei esperando a virada do cartao pra perder os juizo,raw,preco_pagamento,preco_pagamento,0.6209646296558532
+,,praticamos sempre o mesmo valor das marcas o que entrara de extra sera o valor do frete que a c calculado automaticamente se tiver mais alguma daovida nos avise ok,raw,prazo_entrega,prazo_entrega,0.5878411134896592
+,,valor <num>,raw,preco_pagamento,preco_pagamento,0.5531530783302995
+,,valor do frete pro 04012-000?,raw,prazo_entrega,prazo_entrega,0.7652995188684285
+,,chega quando no 01455-022?,raw,prazo_entrega,prazo_entrega,0.5770804265929111
+,,chega quando no 01255-022?,raw,prazo_entrega,prazo_entrega,0.5770804265929111
+,,valor do frete pro 05010-020?,raw,prazo_entrega,prazo_entrega,0.7652995188684284
+,,valor do frete pro 04567-010?,raw,prazo_entrega,prazo_entrega,0.7652995188684284
+,,valor do frete pro 06030-050?,raw,prazo_entrega,prazo_entrega,0.7652995188684284
+,,valor do frete pro 01455-022?,raw,prazo_entrega,prazo_entrega,0.7937612512128186
+,,sobre a questao do frete e possivel unificar ele nas blusas da lounge que voce gostou vou te mandar o link das duas,raw,prazo_entrega,prazo_entrega,0.5535645640394927
+,,ah que otimo monica esperamos que aproveite muito ela e se quiser compartilhar com a gente os looks que criar com ela vamos amar ver,raw,pedido_sugestao,pedido_sugestao,0.7508269965951418
+,,look,raw,pedido_sugestao,pedido_sugestao,0.5934235475570638
+,,mas amei a sugestao ju,raw,pedido_sugestao,pedido_sugestao,0.6635137913176005
+,,gosto muito dos looks mas percebo que ha muito jogo c volumes,raw,pedido_sugestao,pedido_sugestao,0.6009335886990576
+,,que maximo marca a gente nos seus looks muito feliz que esta curtindo a selea a o de pea as logo mais teremos muitas novidades bacanas d,raw,pedido_sugestao,pedido_sugestao,0.750939437876726
+,,ah que a <num> timo monica esperamos que aproveite muito ela e se quiser compartilhar com a gente os looks que criar com ela vamos amar ver,raw,pedido_sugestao,pedido_sugestao,0.7398662330550517
+,,ola van td bem farei um video para vc,raw,saudacao,saudacao,0.7378727225309656
+,,ola renata bom dia que bom receber mensagem tua me chamo ana e faa o parte do time curadobia nesse lindo look da bia na <num> s temos somente a blusa disponavel no curadobia aoi,raw,pedido_sugestao,pedido_sugestao,0.5755182958095957
+,,ola sou o gerente de vendas da pg game platform quero falar com voce sobre parcerias nossa plataforma foi licenciada conjuntamente pelo governo federal brasileiro e pelo governo de curacao em outubro voce pode se juntar a nos e lhe daremos altas comissoes entre em contato comigo pelo whatsapp <num>,raw,onde_comprar,onde_comprar,0.6220605839807962
+,,com relaa a o a outra blusa que vocaa gostou ela esta em processo de lana amento e ainda na o esta a venda no nosso site mas independente desse fator na o seria possavel unificar o frete nesse caso pois o frete sa <num> fica unificado para as pea as da mesma marca,raw,prazo_entrega,prazo_entrega,0.5670073960509012
+,,ola katia tudo bem,raw,saudacao,saudacao,0.832115794422585
+,,oi bia tudo bem me chamo alice sou socia da monti uma marca de moda que preza por estilo atemporal e pecas de qualidade estamos buscando consultoras de imagem parceiras para recomendar nossas pecas aos seus clientes e pensei que poderiamos criar algo bem legal juntas o que acha de agendarmos um papo para te contar mais sobre a nossa historia e a ideia de parceria fico no aguardo,raw,pedido_sugestao,pedido_sugestao,0.5817970660390251
+,,fatima te respondemos no whatsapp mas nao recebemos seu retorno esta tudo bem qualquer coisa sigo aqui a disposicao,raw,onde_comprar,onde_comprar,0.6284315592557754
+,,boa tarde na pagina da regata podrinha cinza eu nao consigo ver as medidas dos tamanhos acima do g que sao justamente o que visto poderia me enviar essas medidas dos tamanhos gg e xgg por favor,raw,erro_plataforma,erro_plataforma,0.6190980544287354
+,,ola kari bom dia tudo bem,raw,saudacao,saudacao,0.832115794422585
+,,oi anna bom dia tudo bem nos desculpe a falta de resposta vou te mandar mensagem via whatsapp para ficar melhor a nossa comunicacao tudo bem mas pode ficar tranquila pois realmente nosso atendimento funciona prioritariamente durante a semana e nao vamos te deixar desamparada,raw,onde_comprar,onde_comprar,0.5650581237805772
+,,oi danuza bom dia tudo bem pode nos informar por aqui a duvida ou se preferir uma comunicacao mais agil pode nos chamar no nosso whatsapp,raw,onde_comprar,onde_comprar,0.6553696134764678
+,,oi karyna bom dia vimos que voce mandou as mesmas mensagens pelo nosso whatsapp vamos dar seguimento por la entao tudo bem obrigada,raw,onde_comprar,onde_comprar,0.564115265941935
+,,bom dia beatriz tudo bem obrigada por ter entrado em contato conosco vamos te encaminhar uma mensagem pelo nosso whatsapp oficial edited,raw,onde_comprar,onde_comprar,0.6252234999858013
+,,ola amanda bom dia pea o desculpas pela demora mas o nosso pessoa ta c cnico ainda na o conseguiu simular um erro igual ao que ocorreu com voce por isso a demora em lhe retornar,raw,erro_plataforma,erro_plataforma,0.6979051599690658
+,,ola dany boa tarde tudo bem sim e com vocaa pea o desculpas por essa demora estou verificando sobre porque ainda na o foi dada sequaancia na troca o processo interno nosso ja foi encaminhado com a troca para o tamanho p,raw,troca_devolucao,troca_devolucao,0.6301653804123041
+,,ola dany boa tarde tudo bem sim e com voce peco desculpas por essa demora estou verificando sobre porque ainda nao foi dada sequencia na troca o processo interno nosso ja foi encaminhado com a troca para o tamanho p,raw,troca_devolucao,troca_devolucao,0.683093012485702
+,,fiz uma compra de um casaco com vcs e na o vestiu bem gostaria de trocar por uma cala a fresquinha tamanho m,raw,troca_devolucao,troca_devolucao,0.5991828433852293
+,,como a c o processo da troca,raw,troca_devolucao,troca_devolucao,0.7154822575561464
+,,nao vou trocar vou tentar reduzir o gancho,raw,troca_devolucao,troca_devolucao,0.6529233422687941
+,,claro pode trocar super,raw,troca_devolucao,troca_devolucao,0.5575599798630239
+,,posso trocar caso eu experimente e prefira uma maior,raw,troca_devolucao,troca_devolucao,0.6577977559389063
+,,como e o processo da troca,raw,troca_devolucao,troca_devolucao,0.7154822575561464
+,,caso na o fique com como funciona a troca,raw,troca_devolucao,troca_devolucao,0.6697827641551927
+,,sobre a troca da cala a que comprei quero trocar por um tamanho menor recebi um e mail de vcs no dia <num> <num> <num> respondi mas dps disso na o tive mais retorno,raw,troca_devolucao,troca_devolucao,0.656831305241177
+,,caso nao fique com como funciona a troca,raw,troca_devolucao,troca_devolucao,0.688186327072999
+,,como proceder p troca,raw,troca_devolucao,troca_devolucao,0.7074411563884552
+,,quero saia preto 46,raw,duvida_tamanho,duvida_tamanho,0.6446559773055202
+,,quero body verde GG,raw,duvida_tamanho,duvida_tamanho,0.6487240535820207
+,,quero blazer preto 46,raw,duvida_tamanho,duvida_tamanho,0.7040330644121816
+,,tem saia preto tamanho G?,raw,duvida_tamanho,duvida_tamanho,0.7459940370064471
+,,tem body verde tamanho 46?,raw,duvida_tamanho,duvida_tamanho,0.7841230453141573
+,,quero vestido preto 36,raw,duvida_tamanho,duvida_tamanho,0.6795654181803399
+,,tem blazer preto tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.7810016471857941
+,,quero body verde P,raw,duvida_tamanho,duvida_tamanho,0.6977894720424627
+,,tem body verde tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.7082578589296025
+,,tem jaqueta preto tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.743910666220786
+,,tem saia verde tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.7873170172067561
+,,tem body preto tamanho M?,raw,duvida_tamanho,duvida_tamanho,0.7737864018471049
+,,quero camisa verde 42,raw,duvida_tamanho,duvida_tamanho,0.7088883962178296
+,,tem camisa preto tamanho P?,raw,duvida_tamanho,duvida_tamanho,0.7772595162643368
+,,tem vestido verde tamanho GG?,raw,duvida_tamanho,duvida_tamanho,0.6897607616875252
+,,tem saia verde tamanho 38?,raw,duvida_tamanho,duvida_tamanho,0.7873170172067561
+,,tem camisa verde tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.7083973826111979
+,,tem camisa preto tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.7034934326723243
+,,quero camisa preto 38,raw,duvida_tamanho,duvida_tamanho,0.7040930590573308
+,,quero body verde 46,raw,duvida_tamanho,duvida_tamanho,0.6977894720424627
+,,tem saia verde tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.7873170172067561
+,,quero saia preto M,raw,duvida_tamanho,duvida_tamanho,0.6446559773055202
+,,quero vestido preto G,raw,duvida_tamanho,duvida_tamanho,0.6795654181803399
+,,quero body verde M,raw,duvida_tamanho,duvida_tamanho,0.6977894720424627
+,,quero body verde 44,raw,duvida_tamanho,duvida_tamanho,0.6977894720424627
+,,tem blazer preto tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.7810016471857941
+,,tem jaqueta verde tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.7624826975819694
+,,tem blazer preto tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.7105497097206305
+,,quero jaqueta verde P,raw,duvida_tamanho,duvida_tamanho,0.6832934313457918
+,,quero blazer verde 36,raw,duvida_tamanho,duvida_tamanho,0.7014575844651567
+,,gabriela entendo sua frustraa a o e a c completamente justificada de fato a marca informou ter tido um pequeno problema de produa a o que na o devera mais ocorrer e por isso acabou enviando atrasado seu pedido sobre o meio de contato estamos providenciando um naomero para atendimento whatsapp por hora estamos apenas com o e mail mas muito em breve ja deixaremos essa opa a o mais fa cil para solua a o de qualquer problema,raw,onde_comprar,onde_comprar,0.5737387666935954
+,,muito obrigada pelo retorno,raw,agradecimento,agradecimento,0.656590383806977
+,,tem vestido verde no M?,raw,duvida_tamanho,duvida_tamanho,0.6012247625078998
+,,tem body preto no 46?,raw,duvida_tamanho,duvida_tamanho,0.6058814314996042
+,,tem camisa verde no 44?,raw,duvida_tamanho,duvida_tamanho,0.6188961081623306
+,,tem jaqueta verde no 36?,raw,duvida_tamanho,duvida_tamanho,0.5810775708266357
+,,tem blazer preto no 44?,raw,duvida_tamanho,duvida_tamanho,0.6190977379254181
+,,tem saia preto no 40?,raw,duvida_tamanho,duvida_tamanho,0.5622341579179515
+,,tem vestido verde no 44?,raw,duvida_tamanho,duvida_tamanho,0.6012247625078998
+,,tem blazer verde no 44?,raw,duvida_tamanho,duvida_tamanho,0.6154149107484882
+,,tem camisa verde no 38?,raw,duvida_tamanho,duvida_tamanho,0.6188961081623306
+,,tem body preto no P?,raw,duvida_tamanho,duvida_tamanho,0.6058814314996042
+,,tem jaqueta preto no G?,raw,duvida_tamanho,duvida_tamanho,0.5550548640354576
+,,tem blazer verde no 36?,raw,duvida_tamanho,duvida_tamanho,0.6154149107484882
+,,tem blazer preto no 38?,raw,duvida_tamanho,duvida_tamanho,0.6190977379254181
+,,tem camisa preto no P?,raw,duvida_tamanho,duvida_tamanho,0.6108434691269252
+,,comprei um body e paguei frete de <num> dias aoteis pra levar pra uma viagem agora na sexta,raw,prazo_entrega,prazo_entrega,0.587466890618543
+,,erro,raw,erro_plataforma,erro_plataforma,0.8211745397583892
+,,chico neto cd mara c mar whatsapp <num> <url>,raw,onde_comprar,onde_comprar,0.6105537364129829
+,,qual o preco,raw,preco_pagamento,preco_pagamento,0.6461609364190638
+,,preco,raw,preco_pagamento,preco_pagamento,0.6461609364190638
+,,ja vi e amei esperando a virada do cartao pra perder os juazo,raw,preco_pagamento,preco_pagamento,0.6209646296558532
+,,valor do frete pro 01255-022?,raw,prazo_entrega,prazo_entrega,0.7937612512128186
+,,que maximo marca a gente nos seus looks muito feliz que esta curtindo a selecao de pecas logo mais teremos muitas novidades bacanas,raw,pedido_sugestao,pedido_sugestao,0.7925961121273053
+,,eu amo todos os seus looks combina <num> com o meu estilo queria ter todas as pecas para mim pena que moro do outro lado do mundo,raw,pedido_sugestao,pedido_sugestao,0.6607800662729663
+,,sugestao,raw,pedido_sugestao,pedido_sugestao,0.6788202017313899
+,,ola muitissimo obrigada,raw,saudacao,saudacao,0.6123049748700296
+,,ola tudo bem estou apaixonada por essa jaqueta bacanuda da foto o prea o de <num> pula pra setecentos e tanto na hora de comprar a isso mesmo entra um valor de comissa o na hora da compra,raw,preco_pagamento,preco_pagamento,0.6034577798308155
+,,ola tudo bem sobre qual funcionamento deseja saber,raw,saudacao,saudacao,0.6255978029640363
+,,ola tentei fazer uma compra e apos entrar com os dados do cartao e senha vem a seguinte tela,raw,erro_plataforma,erro_plataforma,0.6192155077816649
+,,ola tudo bem estou apaixonada por essa jaqueta bacanuda da foto o preco de <num> pula pra setecentos e tanto na hora de comprar e isso mesmo entra um valor de comissao na hora da compra,raw,preco_pagamento,preco_pagamento,0.7190608285458333
+,,ola sou o gerente de vendas da pg game platform quero falar com vocaa sobre parcerias nossa plataforma foi licenciada conjuntamente pelo governo federal brasileiro e pelo governo de curaa ao em outubro vocaa pode se juntar a na <num> s e lhe daremos altas comissaues entre em contato comigo pelo whatsapp <num>,raw,onde_comprar,onde_comprar,0.6028808537524885
+,,oi cristiane bom dia obrigada pela sua mensagem na verdade todos os nossos pedidos sao enviados o email de confirmacao imediatamente porem realmente identificamos um erro no nosso sistema que os ultimos pedidos nao estao recebendo a confirmacao ja estamos em contato com o nosso tecnico para resolver obrigada por ter nos informado,raw,erro_plataforma,erro_plataforma,0.7018274526758173
+,,bom dia beatriz tudo bem obrigada por ter entrado em contato conosco vamos entrar em contato com voce pelo nosso whatsapp oficial,raw,onde_comprar,onde_comprar,0.6365258553634904
+,,na o vou trocar vou tentar reduzir o gancho,raw,troca_devolucao,troca_devolucao,0.6319716121044714

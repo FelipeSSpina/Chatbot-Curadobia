@@ -1,0 +1,17 @@
+real,predito,qtd
+saudacao,outros,48
+onde_comprar,outros,38
+agradecimento,outros,37
+outros,agradecimento,23
+outros,onde_comprar,18
+outros,saudacao,18
+duvida_tamanho,outros,6
+disponibilidade,saudacao,6
+disponibilidade,outros,4
+erro_plataforma,duvida_tamanho,2
+agradecimento,saudacao,2
+duvida_tamanho,agradecimento,2
+outros,duvida_tamanho,2
+outros,disponibilidade,2
+saudacao,disponibilidade,2
+disponibilidade,agradecimento,1

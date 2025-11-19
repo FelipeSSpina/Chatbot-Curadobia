@@ -1,0 +1,18 @@
+{
+  "embedder": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "seed": 42,
+  "threshold": 0.3,
+  "gap_top2": 0.08,
+  "labels": [
+    "agradecimento",
+    "como_comprar",
+    "erros_plataforma",
+    "formas_pagamento",
+    "frete_prazo",
+    "nao_entendi",
+    "pedir_sugestao_produto",
+    "saudacao",
+    "tamanho_modelagem",
+    "troca_devolucao_politica"
+  ]
+}

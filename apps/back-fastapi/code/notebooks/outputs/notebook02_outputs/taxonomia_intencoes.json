@@ -1,0 +1,15 @@
+{
+  "saudacao": "Saudar/iniciar conversa (oi, olá, bom dia, boa tarde, boa noite).",
+  "agradecimento": "Agradecer/elogiar (obrigada, valeu, amei, parabéns).",
+  "despedida": "Encerrar conversa (tchau, até logo, até mais).",
+  "duvida_tamanho": "Perguntas sobre medidas, numeração, servir/caber, PP–GG.",
+  "pedido_sugestao": "Pedir sugestão de looks/combinações/usar com/ideia de.",
+  "disponibilidade": "Estoque/reposição/‘tem?’/tamanho/cor disponível.",
+  "preco_pagamento": "Preço/valor, formas de pagamento (PIX, boleto, cartão, parcelar).",
+  "prazo_entrega": "Prazo/entrega/frete/rastreio/chega quando.",
+  "troca_devolucao": "Troca, devolução, defeito, arrependimento, tamanho errado.",
+  "onde_comprar": "Como/onde comprar (site, Insta, WhatsApp, link).",
+  "cupom_primeira": "Cupom/código de desconto (especialmente 1ª compra).",
+  "erro_plataforma": "Erro/bug, não consigo pagar/logar, travou, etc.",
+  "outros": "Não encaixa em nenhuma das anteriores."
+}

@@ -1,0 +1,108 @@
+"use client";
+import { useEffect, useRef, useState } from "react";
+
+const API_BASE = process.env.NEXT_PUBLIC_API_URL ?? "http://127.0.0.1:8000";
+type Msg = { role: "user" | "assistant"; text: string };
+
+export default function ChatCuradobia() {
+  const [msgs, setMsgs] = useState<Msg[]>([
+    { role: "assistant", text: "Oi! Eu sou a BIA 😊 Como posso ajudar hoje?" },
+  ]);
+  const [input, setInput] = useState("");
+  const [loading, setLoading] = useState(false);
+
+  const endRef = useRef<HTMLDivElement>(null);
+  useEffect(() => { endRef.current?.scrollIntoView({ behavior: "smooth" }); }, [msgs, loading]);
+
+  const esRef = useRef<EventSource | null>(null);
+  useEffect(() => () => { esRef.current?.close(); esRef.current = null; }, []);
+
+  async function handleSend(e?: React.FormEvent) {
+    e?.preventDefault();
+    const prompt = input.trim();
+    if (!prompt) return;
+    setInput("");
+    setMsgs(m => [...m, { role: "user", text: prompt }, { role: "assistant", text: "" }]);
+    setLoading(true);
+    esRef.current?.close(); esRef.current = null;
+
+    try {
+      await new Promise<void>((resolve, reject) => {
+        const es = new EventSource(`${API_BASE}/api/stream?prompt=${encodeURIComponent(prompt)}`);
+        esRef.current = es;
+        let buffer = "";
+        es.onmessage = (ev) => {
+          const data = ev.data ?? "";
+          if (data === "[[DONE]]") { es.close(); esRef.current = null; resolve(); return; }
+          buffer += data;
+          setMsgs(m => {
+            const c = [...m];
+            const last = c[c.length - 1];
+            if (last?.role === "assistant") last.text = buffer;
+            return c;
+          });
+        };
+        es.onerror = (err) => { es.close(); esRef.current = null; reject(err); };
+      });
+    } catch {
+      try {
+        const r = await fetch(`${API_BASE}/api/chat`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ prompt }),
+        });
+        const { reply } = await r.json();
+        setMsgs(m => {
+          const c = [...m];
+          const last = c[c.length - 1];
+          if (last?.role === "assistant") last.text = reply ?? "(sem resposta)";
+          return c;
+        });
+      } catch {
+        setMsgs(m => {
+          const c = [...m];
+          const last = c[c.length - 1];
+          if (last?.role === "assistant") last.text = "Erro ao falar com o servidor.";
+          return c;
+        });
+      }
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  return (
+    <div className="flex h-full flex-col">
+      <div className="flex-1 overflow-y-auto space-y-3 p-3 bg-white">
+        {msgs.map((m, i) => (
+          <div
+            key={i}
+            className={`max-w-[85%] rounded-2xl px-4 py-2 text-[13px] leading-relaxed shadow-sm
+              ${m.role === "user"
+                ? "bg-zinc-100 text-zinc-900 self-end"
+                : "bg-white border border-zinc-200 text-zinc-900 self-start"}`}
+          >
+            {m.text}
+          </div>
+        ))}
+        <div ref={endRef} />
+      </div>
+
+      <form onSubmit={handleSend} className="flex gap-2 border-t p-2 bg-white">
+        <input
+          value={input}
+          onChange={(e) => setInput(e.target.value)}
+          placeholder="Digite sua mensagem..."
+          className="flex-1 rounded-full border border-zinc-300 px-4 py-2 text-sm outline-none focus:border-zinc-400"
+        />
+        <button
+          type="submit"
+          disabled={loading}
+          className="rounded-full px-4 py-2 bg-black text-white text-sm font-medium disabled:opacity-40"
+        >
+          {loading ? "Enviando..." : "Enviar"}
+        </button>
+      </form>
+    </div>
+  );
+}

@@ -1,0 +1,47 @@
+{
+  "saudacao": [
+    "\\boi\\b|\\bol[aá]\\b|bom dia|boa tarde|boa noite|\\beai\\b|\\boii+\\b|\\boie+?\\b"
+  ],
+  "agradecimento": [
+    "\\bobg\\b|obrigad[ao]\\b|valeu\\b|gratid[aã]o|amei\\b|perfeit[oa]\\b|maravilhos[ao]\\b|muito obrigada|mto obg",
+    "\\bajudou\\b|\\bajuda(r|ou)\\b|\\bbrigad[ao]\\b"
+  ],
+  "despedida": [
+    "\\btchau\\b|\\bat[eé]\\s+logo\\b|\\bat[eé]\\s+mais\\b|\\bat[eé]\\b|\\babra[cç]os?\\b|\\babç\\b|\\bbeijos?\\b|\\bbjos?\\b|\\bbjk?s?\\b|\\bboa noite!?$|\\bbom descanso$"
+  ],
+  "duvida_tamanho": [
+    "\\btamanhos?\\b|\\bnumera[cç][aã]o\\b|\\bmedid(?:a|as)\\b|\\bpp\\b|\\bp\\b|\\bm\\b|\\bg\\b|\\bgg\\b|\\bxg+?\\b",
+    "\\bserve(m)?\\b|\\bfic(?:a|ou)\\b|\\bcomprimento\\b|\\blargura\\b|\\bbusto\\b|\\bcintura\\b|\\bquadril\\b",
+    "\\b36\\b|\\b38\\b|\\b40\\b|\\b42\\b|\\b44\\b|\\b46\\b|\\b48\\b",
+    "\\b(tabela|guia)\\s+de\\s+medidas\\b|\\btabela\\s+(pp|p|m|g|gg|xg+)\\b"
+  ],
+  "pedido_sugestao": [
+    "\\bsugest\\w*\\b|\\blook(?:s)?\\b|\\bcombina(?:r|[cç][aã]o|coes|[cç][oõ]es)\\b",
+    "\\busar com\\b|\\bmontar\\b|\\bou?utfit\\b|\\bideia de\\b|\\bcom qual\\b|\\bqual (cal[cç]a|blusa|saia) combina\\b"
+  ],
+  "disponibilidade": [
+    "\\btem\\b|\\bainda tem\\b|\\best[oó]que\\b|\\bdispon[ií]vel\\b|\\breposi(?:c|ç)[aã]o\\b|\\bquando rep[oó]e\\b|\\bvolta quando\\b",
+    "\\btem no tamanho\\b|\\btem na cor\\b|\\bpreta\\b|\\bbranca\\b|\\bnumera[cç][aã]o\\b"
+  ],
+  "preco_pagamento": [
+    "\\bpre[cç]o\\b|\\bvalor\\b|\\bquanto (custa|sai)\\b|\\bpix\\b|\\bboleto\\b|\\bcart[aã]o\\b|\\bparcel\\w+\\b|\\bjuros\\b",
+    "\\bdesconto\\b|\\bprimeira compra\\b|\\bc[oó]digo\\b"
+  ],
+  "prazo_entrega": [
+    "\\bprazo\\b|\\bentrega\\b|\\bfrete\\b|\\bchega quando\\b|\\bquando (chega|entrega)\\b|\\brastre(io|amento)\\b|\\brastrear?\\b"
+  ],
+  "troca_devolucao": [
+    "\\btroca(r)?\\b|\\bdevolu(?:c|ç)[aã]o\\b|\\bdesist[ií]o\\b|\\barrependi(?:mento)?\\b|\\bdefeit[oa]\\b",
+    "\\bficou (grande|pequen[oa]|apertad[oa]|larg[oa])\\b|\\bn[aã]o serviu\\b|\\btamanho errad[oa]\\b"
+  ],
+  "onde_comprar": [
+    "\\bcomo comprar\\b|\\bonde comprar\\b|\\btem no site\\b|\\blink (pra|para) comprar\\b|\\bcomprar aonde\\b|\\bloja\\b|\\bwhats(app)?\\b|\\binsta(gram)?\\b"
+  ],
+  "cupom_primeira": [
+    "\\bcupom\\b|\\bc[oó]digo de desconto\\b|\\bdesconto\\s+primeira\\s+compra\\b"
+  ],
+  "erro_plataforma": [
+    "\\bn[aã]o consigo\\b|\\bnao consigo\\b|\\berro\\b|\\bbug\\b|\\btravou\\b|\\bpagamento n[aã]o (aprova|passa)\\b|\\blogin\\b|\\bsenha\\b|\\bnao finaliza\\b|\\bcheckout\\b",
+    "\\bnao aparece\\s+(tamanho|pre[cç]o|cor|op[cç][aã]o)\\b|\\bnao abre\\b|\\bnao carrega\\b"
+  ]
+}

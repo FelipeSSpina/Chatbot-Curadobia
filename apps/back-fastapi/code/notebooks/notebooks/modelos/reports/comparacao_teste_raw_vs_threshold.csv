@@ -1,0 +1,3 @@
+setup,accuracy,f1_macro,f1_weighted
+CalibratedClassifierCV (raw),0.6891891891891891,0.4186242903262576,0.6758144657592655
+CalibratedClassifierCV (+threshold/gap),0.5608108108108109,0.368074839776807,0.5700229599677598

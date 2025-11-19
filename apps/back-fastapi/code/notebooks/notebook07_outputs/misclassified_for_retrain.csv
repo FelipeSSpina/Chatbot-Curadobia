@@ -1,0 +1,653 @@
+texto,label_true,intent_raw,conf,gap,intent_pred
+perfeito,agradecimento,nao_entendi,0.684656799426739,0.5369174214110357,nao_entendi
+Perfeito,agradecimento,nao_entendi,0.640437177495245,0.46629355973099396,nao_entendi
+que calça maravilhosa,agradecimento,nao_entendi,0.628277414116,0.2886006032271299,nao_entendi
+perfeito! fico no aguardo! abraço,agradecimento,nao_entendi,0.6115293634629188,0.41997525216781184,nao_entendi
+Que calça maravilhosa,agradecimento,nao_entendi,0.5922749080690823,0.2188309587067812,nao_entendi
+nossa . perfeito,agradecimento,nao_entendi,0.5828833074656384,0.20460556285157205,nao_entendi
+lindo o evento! amei,agradecimento,nao_entendi,0.5120448038931092,0.2878508521004446,nao_entendi
+"Perfeito, Ana. Obrigada pelo retorno. 😊",agradecimento,saudacao,0.510423833217765,0.03562791657956155,outros
+"Muito obrigada, elas entraram em contato comigo. Realmente a sandália é linda , mas infelizmente fico um pouco fora $$$ pra mim !",agradecimento,saudacao,0.49701070662650987,0.061548405008500395,outros
+Lindo o evento! Amei,agradecimento,saudacao,0.4917741669943491,0.16556225287392212,outros
+Perfeito! Fico no aguardo! Abraço,agradecimento,nao_entendi,0.48630051962224524,0.14078164532375614,outros
+Nossa . Perfeito,agradecimento,nao_entendi,0.48462863480041857,0.09515514623408683,outros
+obrigada. no aguardo que seja disponibilizado o envio.,agradecimento,agradecimento,0.4800831087602216,0.2989252843410722,outros
+Obrigada Ana!!,agradecimento,saudacao,0.47963190789112903,0.05882015117896422,outros
+"Obrigada pelo retorno, as peças são incríveis! É que me apaixonei por essa calça, então foi ela que me prendeu o olhar! 😉☺️",agradecimento,saudacao,0.4569025886916512,0.13042029823514617,outros
+experimentei essa jaqueta. maravilhosa,agradecimento,nao_entendi,0.4390793386926086,0.10464325399691637,outros
+que legal! vai ajudar muito!,agradecimento,agradecimento,0.4306252208890054,0.1544652603019419,outros
+Bia! Esse seu Curadobia está um arraso! Muito tentador. Parabéns pelo projeto. Uma dúvida: qual a sua altura? Estou interessadíssima nessa calça mas sou baixa (160cm) e geralmente tenho que fazer a barras das calças - o que não é muito fácil com essa… 😅 Obrigada,agradecimento,saudacao,0.4225023246635587,0.12225077502858017,outros
+"obrigada pelo retorno, as peças são incríveis! é que me apaixonei por essa calça, então foi ela que me prendeu o olhar! 😉☺️",agradecimento,saudacao,0.42070192724942784,0.06684989850011369,outros
+"obrigada pelo retorno! namoro o modelo gladiador, me lembro dele, mas quando fui procurar, já não tinha mais 😐",agradecimento,agradecimento,0.40058506776707675,0.15790611624549705,outros
+Experimentei essa jaqueta. Maravilhosa,agradecimento,nao_entendi,0.39323875300075467,0.12069037540137273,outros
+Obrigada. No aguardo que seja disponibilizado o envio.,agradecimento,nao_entendi,0.3602649677029583,0.08243362540088983,outros
+bia! esse seu curadobia está um arraso! muito tentador. parabéns pelo projeto. uma dúvida: qual a sua altura? estou interessadíssima nessa calça mas sou baixa (160cm) e geralmente tenho que fazer a barras das calças - o que não é muito fácil com essa… 😅 obrigada,agradecimento,tamanho_modelagem,0.33837965180057283,0.023385456129959847,outros
+"Obrigada pelo retorno! Namoro o modelo gladiador, me lembro dele, mas quando fui procurar, já não tinha mais 😐",agradecimento,agradecimento,0.31716458384279106,0.016280492889843567,outros
+conseguem me ajudar por aqui?,agradecimento,saudacao,0.7619030484679953,0.6039114385977803,saudacao
+Conseguem me ajudar por aqui?,agradecimento,saudacao,0.7615882323392608,0.6140494613705865,saudacao
+De onde é esse Macacão maravilhoso!!! Amo ❤️,agradecimento,saudacao,0.6714851599037748,0.44784972883613416,saudacao
+de onde é esse macacão maravilhoso!!! amo ❤️,agradecimento,saudacao,0.6354532114452525,0.38654692602492224,saudacao
+Bem e vc Ana!! Muito obrigada,agradecimento,saudacao,0.5937130689569975,0.3157838633909034,saudacao
+"muito obrigada, elas entraram em contato comigo. realmente a sandália é linda , mas infelizmente fico um pouco fora $$$ pra mim !",agradecimento,saudacao,0.5595937213188401,0.21742850333153013,saudacao
+olá! tudo bem? tem cupom para 1a compra?,cupom_primeira,saudacao,0.9250325407749717,0.9027198896476157,saudacao
+Olá! Tudo bem? Tem cupom para 1a compra?,cupom_primeira,saudacao,0.9075867976736803,0.8765870644266058,saudacao
+beijos,despedida,nao_entendi,0.9418855500644193,0.9194198701354778,nao_entendi
+Beijos,despedida,nao_entendi,0.9180884748890342,0.8718855496174283,nao_entendi
+Até agora nada!,despedida,nao_entendi,0.7997480932059094,0.63894578760689,nao_entendi
+até agora nada!,despedida,nao_entendi,0.7732435374851206,0.5890633701741413,nao_entendi
+no e-mail da nota fiscal não tem nada,disponibilidade,formas_pagamento,0.533314352208146,0.11425754087461693,formas_pagamento
+No e-mail da nota fiscal não tem nada,disponibilidade,formas_pagamento,0.5277672707222524,0.1084176684794384,formas_pagamento
+e tem ela preta?,disponibilidade,nao_entendi,0.8920766016418091,0.8432415499016158,nao_entendi
+E tem ela preta?,disponibilidade,nao_entendi,0.8808161903734334,0.8209767311188634,nao_entendi
+eu amei a blusa branca tcharam 🥰,disponibilidade,nao_entendi,0.7747335389089841,0.7003930004463019,nao_entendi
+Eu amei a blusa branca Tcharam 🥰,disponibilidade,nao_entendi,0.7407269750441369,0.6553892991170572,nao_entendi
+eu comprei a calça pantalona branca no dia 13/08,disponibilidade,nao_entendi,0.6883908874798877,0.49219824603817997,nao_entendi
+Eu comprei a calça pantalona branca no dia 13/08,disponibilidade,nao_entendi,0.6621564090530517,0.5036437105067528,nao_entendi
+"oiee tudo bem? amei a bota, tem curadoria dela? bjos",disponibilidade,nao_entendi,0.5755913004694605,0.3637791698807106,nao_entendi
+"Bom dia tudo bem? Então eu tenho mito daqueles vestidos , com estampas, e alguns até são estampas geométricas e todas as opções possíveis . Como posso fazer que não fiquem parecendo quando usar aquelas roupas que não tem nada haver comigo . Eu estou em uma fase de camisa, calça jeans bem moderna . E roupas mais discretas . Mas é esses vestido como usar ?",disponibilidade,nao_entendi,0.5749269613953111,0.2411418303920107,nao_entendi
+"Não gosto de nada apertado, mas essa blusa tem um Shane mais ajustado. Daí fiquei na dúvida.",disponibilidade,nao_entendi,0.5679540416473151,0.24615697823932137,nao_entendi
+"Oiee tudo bem? Amei a bota, tem curadoria dela? Bjos",disponibilidade,nao_entendi,0.5243807550933325,0.20903515688273488,nao_entendi
+"bom dia tudo bem? então eu tenho mito daqueles vestidos , com estampas, e alguns até são estampas geométricas e todas as opções possíveis . como posso fazer que não fiquem parecendo quando usar aquelas roupas que não tem nada haver comigo . eu estou em uma fase de camisa, calça jeans bem moderna . e roupas mais discretas . mas é esses vestido como usar ?",disponibilidade,nao_entendi,0.5134795570400471,0.11457106376374371,nao_entendi
+Vai ter reposição dessa calça?,disponibilidade,nao_entendi,0.507047146788118,0.14000711049547976,nao_entendi
+"Oiii boa tarde , Me chamo Talita e sou figurinista na emissora CNBC @cnbc licenciada pela @otimesbrasil , uma emissora nova que transmite jornalismo de negócios e é lider mundial no seu segmento. Temos no nosso elenco grandes nomes do jornalismo incluido Carol Barcellos , Rita Wu, Erica Reis , Christiane Pelajo , Zeca Camargo, Natalia Ariade estou apenas dando um exemplo do time de peso que faz parte da emissora. As meninas são a cara da marca, elas postam , marcam o @, tem o manequim otimo e sao mega fotogênicas. Podemos alinhar a produção , me ajudem rs vai ser uma parceria incrivel ! um beijo e aguardo retorno",disponibilidade,saudacao,0.5147461525888999,0.08181000385744203,outros
+vai ter reposição dessa calça?,disponibilidade,nao_entendi,0.4953886199196804,0.12174199131524238,outros
+em março eu vou produzir reposição e cores novas de tudo,disponibilidade,saudacao,0.4739688936084903,0.09013903713988253,outros
+Em março eu vou produzir reposição e cores novas de tudo,disponibilidade,saudacao,0.47250878272318375,0.0929071695094636,outros
+volta pro estoque?,disponibilidade,nao_entendi,0.47198162369616115,0.026354000171523284,outros
+Bia! Será que a tshirt Angela Motta branca com uma manga bafônica vai ter amanhã? Preciso dela,disponibilidade,nao_entendi,0.46628985725005795,0.03997004229768819,outros
+Não tem um link de comunicação no WhatsApp,disponibilidade,nao_entendi,0.45829943714975513,0.17672524436095516,outros
+eu amei a que tem a ponta. duvida. tem que ter tornozelo fino? obrigada,disponibilidade,agradecimento,0.4578774138500059,0.11056507409977184,outros
+"não gosto de nada apertado, mas essa blusa tem um shane mais ajustado. daí fiquei na dúvida.",disponibilidade,tamanho_modelagem,0.43914263217471117,0.020534779287810168,outros
+Eu amei a que tem a ponta. Duvida. Tem que ter tornozelo fino? Obrigada,disponibilidade,nao_entendi,0.4064270248078132,0.07888058475133136,outros
+"olá! primeiramente quero dizer que a curadobia está fantástica! vi que vários produtos estão indisponíveis no site, como a blusa pah e phyna por exemplo tem alguma previsão de retorno ao estoque?",disponibilidade,erros_plataforma,0.4062362021452801,0.06761815783503944,outros
+não tem um link de comunicação no whatsapp,disponibilidade,nao_entendi,0.40340429893197155,0.12096070395053293,outros
+"oi pessoal! tudo bem? acredito que essa calça tenha esgotado, certo? vai ter reposição dela? aguardo retorno! obrigada, milene",disponibilidade,saudacao,0.40033232612719294,0.009288434340889384,outros
+"a jaqueta branca. uma pena eu não conseguir comprar por problemas técnicos, uma experiência de consumidor mto ruim",disponibilidade,erros_plataforma,0.34424240470068357,0.07365075104931279,outros
+"A jaqueta branca. Uma pena eu não conseguir comprar por problemas técnicos, uma experiência de consumidor mto ruim",disponibilidade,erros_plataforma,0.3180340627693368,0.05802325768235195,outros
+"ola bia sou a daniela e gostaria de apresentar minha marca pra vc, a queens gate. minha sócia e eu já te acompanhamos tem um bom tempo e somos muito fãs! a sua curadoria com seus ""neutros com tcharanz"" reforçou a vontade de apresentar o conceito da nossa marca pra vc. vamos completar 1 ano em agosto e adoraríamos um bate papo com vc pra contar nossa história e nossos planos. moro em londres e minha sócia em sp e vou deixar meu whatsapp pessoal por conta do fuso aqui e mando o link do nosso insta pra vc dar uma olhadinha 😉 obrigada ! +1(917)868-9790",disponibilidade,saudacao,0.8798725993533644,0.7962978803674445,saudacao
+"boa tarde, pessoal! tudo bem? estava namorando um macacão verde no site da marca d-aura, porém não localizei mais 😕. saiu de coleção? não terá reposição? aguardo. obrigada milene",disponibilidade,saudacao,0.8280115292842152,0.7532977622284074,saudacao
+"Ola Bia sou a Daniela e gostaria de apresentar minha marca pra vc, a Queens Gate. Minha sócia e eu já te acompanhamos tem um bom tempo e somos muito fãs! A sua curadoria com seus ""neutros com tcharanz"" reforçou a vontade de apresentar o conceito da nossa marca pra vc. Vamos completar 1 ano em agosto e adoraríamos um bate papo com vc pra contar nossa história e nossos planos. Moro em Londres e minha sócia em SP e vou deixar meu WhatsApp pessoal por conta do fuso aqui e mando o link do nosso insta pra vc dar uma olhadinha 😉 Obrigada ! +1(917)868-9790",disponibilidade,saudacao,0.8203682731159438,0.6935053672307021,saudacao
+"Oi Time da Curadobia tudo bem? Sou Joana, sigo o perfil e amo! Tem uma calça que vi numa propaganda, que me apaixonei, mas não encontrei no site. Queria saber de onde ela é, por favor. Se puderem, vocês me contam? Super obrigada! Bj",disponibilidade,saudacao,0.7670220229068659,0.6070528652021184,saudacao
+"Boa tarde, pessoal! Tudo bem? Estava namorando um macacão verde no site da marca D-aura, porém não localizei mais 😕. Saiu de coleção? Não terá reposição? Aguardo. Obrigada Milene",disponibilidade,saudacao,0.7454094332218332,0.6141862236987078,saudacao
+"bom dia! sou a gianina marques, mineira, mãe e autora de joias artesanais. gostaria de deixar meu insta para vcs conhecerem minhas joias feita com carinho e totalmente exclusiva. aguardo o retorno de vcs q tem tanto conhecimento na área. desde já obrigada! @gianinamarques",disponibilidade,saudacao,0.7370033633472173,0.6094458888018374,saudacao
+"Bom dia! Sou a Gianina Marques, mineira, mãe e autora de joias artesanais. Gostaria de deixar meu insta para vcs conhecerem minhas joias feita com carinho e totalmente exclusiva. Aguardo o retorno de vcs q tem tanto conhecimento na área. Desde já obrigada! @gianinamarques",disponibilidade,saudacao,0.7133248307201375,0.572544974526528,saudacao
+Essa gladiadora!! Qual o número? Tem 37??,disponibilidade,saudacao,0.7003387999700711,0.47715759346887476,saudacao
+"oi time da curadobia tudo bem? sou joana, sigo o perfil e amo! tem uma calça que vi numa propaganda, que me apaixonei, mas não encontrei no site. queria saber de onde ela é, por favor. se puderem, vocês me contam? super obrigada! bj",disponibilidade,saudacao,0.6907820921890361,0.5510571085763594,saudacao
+essa gladiadora!! qual o número? tem 37??,disponibilidade,saudacao,0.6844590738746396,0.4362215090924728,saudacao
+vocês tem loja física?,disponibilidade,saudacao,0.6827340058265151,0.537997989179618,saudacao
+"Bom dia! Gostaria de adquirir essa calça, mas não está mais disponível. Podem me ajudar? Obrigada",disponibilidade,saudacao,0.6786007394284704,0.5359516411258537,saudacao
+"oiii! tudo bem? me chamo caroline sou formada em marketing e trabalho como social media tem um tempinho, estou a procura de uma nova oportunidade no mercado de trabalho. gostaria de saber se tem um espacinho no time de vocês, vou deixar o meu número, e-mail e portfólio. caso queria marcar uma call para falarmos mais estou por aqui. cel: (11) 94443-8896 e-mail: cspereiramkt@gmail.com portfólio: https://cspereira.my.canva.site/ obrigada desde já 💖",disponibilidade,saudacao,0.6694168401708677,0.48437774607720996,saudacao
+"bom dia! gostaria de adquirir essa calça, mas não está mais disponível. podem me ajudar? obrigada",disponibilidade,saudacao,0.6656458794157744,0.515794585880254,saudacao
+"Oi Ana a Marcia Fonseca esta em contato com vc, ne? Vamos conversar sim, a Fernanda tem mto interesse",disponibilidade,saudacao,0.6469700586808869,0.479702219981465,saudacao
+"amoooo suas rasteiras, não são da sua lj, mas poderia indicar aonde têm aquela custo benefício?",disponibilidade,saudacao,0.645710413748852,0.5322070129277711,saudacao
+Oie!! Essa calça vai ter reposição na curadoria?,disponibilidade,saudacao,0.6456809678429198,0.3803338044980056,saudacao
+"Amoooo suas rasteiras, não são da sua Lj, mas poderia indicar aonde têm aquela custo benefício?",disponibilidade,saudacao,0.6284973953415895,0.5216010834936378,saudacao
+bia! será que a tshirt angela motta branca com uma manga bafônica vai ter amanhã? preciso dela,disponibilidade,saudacao,0.6260578174425725,0.3321012386046219,saudacao
+"oiii boa tarde , me chamo talita e sou figurinista na emissora cnbc @cnbc licenciada pela @otimesbrasil , uma emissora nova que transmite jornalismo de negócios e é lider mundial no seu segmento. temos no nosso elenco grandes nomes do jornalismo incluido carol barcellos , rita wu, erica reis , christiane pelajo , zeca camargo, natalia ariade estou apenas dando um exemplo do time de peso que faz parte da emissora. as meninas são a cara da marca, elas postam , marcam o @, tem o manequim otimo e sao mega fotogênicas. podemos alinhar a produção , me ajudem rs vai ser uma parceria incrivel ! um beijo e aguardo retorno",disponibilidade,saudacao,0.6209419705994704,0.2830624363152804,saudacao
+oie!! essa calça vai ter reposição na curadoria?,disponibilidade,saudacao,0.6145052198540852,0.30819263490917304,saudacao
+"Oi pessoal! Tudo bem? Acredito que essa calça tenha esgotado, certo? Vai ter reposição dela? Aguardo retorno! Obrigada, Milene",disponibilidade,saudacao,0.5959951464869676,0.3560746713182421,saudacao
+"Oiii! Tudo bem? Me chamo Caroline sou formada em Marketing e trabalho como Social Media tem um tempinho, estou a procura de uma nova oportunidade no mercado de trabalho. Gostaria de saber se tem um espacinho no time de vocês, vou deixar o meu número, e-mail e portfólio. Caso queria marcar uma call para falarmos mais estou por aqui. Cel: (11) 94443-8896 E-mail: cspereiramkt@gmail.com Portfólio: https://cspereira.my.canva.site/ Obrigada desde já 💖",disponibilidade,saudacao,0.592306338646234,0.3641779045155903,saudacao
+A regata chiquetosa vai voltar pro estoque?,disponibilidade,saudacao,0.5731178474143808,0.3041559230742319,saudacao
+a regata chiquetosa vai voltar pro estoque?,disponibilidade,saudacao,0.5363868008298163,0.2302905037520303,saudacao
+Volta pro estoque?,disponibilidade,saudacao,0.5208987219841877,0.13479096502253102,saudacao
+"oi ana a marcia fonseca esta em contato com vc, ne? vamos conversar sim, a fernanda tem mto interesse",disponibilidade,saudacao,0.5152705598703352,0.23875323268620158,saudacao
+Vocês tem loja física?,disponibilidade,saudacao,0.5100998581490117,0.2882586231930764,saudacao
+"muito obrigada, legal que sou do mesmo tamanho que ela!",duvida_tamanho,agradecimento,0.6809497106839494,0.5152518226489019,agradecimento
+"Muito obrigada, legal que sou do mesmo tamanho que ela!",duvida_tamanho,agradecimento,0.6775423978866438,0.4978576303363601,agradecimento
+p,duvida_tamanho,nao_entendi,0.8886146820914173,0.8351649779104926,nao_entendi
+M,duvida_tamanho,nao_entendi,0.8810526275376164,0.7991972387067431,nao_entendi
+Teria as medidas do 42,duvida_tamanho,nao_entendi,0.8798033233860107,0.8113684222344327,nao_entendi
+P,duvida_tamanho,nao_entendi,0.8787594086944416,0.8144692372465682,nao_entendi
+m,duvida_tamanho,nao_entendi,0.877353719529676,0.7886664152659975,nao_entendi
+"e em outras , 42",duvida_tamanho,nao_entendi,0.8621225337445128,0.7842237382624128,nao_entendi
+"E em outras , 42",duvida_tamanho,nao_entendi,0.8585725844555073,0.7718778897560937,nao_entendi
+teria as medidas do 42,duvida_tamanho,nao_entendi,0.8581974460018876,0.7812607779082049,nao_entendi
+a calça ficou sobrando muito atrás.,duvida_tamanho,nao_entendi,0.8545511217047652,0.8031489710977109,nao_entendi
+A calça ficou sobrando muito atrás.,duvida_tamanho,nao_entendi,0.8483261533432951,0.7944407460826967,nao_entendi
+e quadril ?,duvida_tamanho,nao_entendi,0.8066276056639609,0.7079565465927271,nao_entendi
+Não tenho nada da Paula Ferber. A numeração é normal a forma?,duvida_tamanho,nao_entendi,0.8047923474338408,0.7153624235383839,nao_entendi
+E quadril ?,duvida_tamanho,nao_entendi,0.8042518649366319,0.6886944156636228,nao_entendi
+"as duas camisas, o body, a calça e o colar. eu visto p.",duvida_tamanho,nao_entendi,0.7651905932553756,0.6480236110402507,nao_entendi
+"pois sou , em algumas marcas , 44",duvida_tamanho,nao_entendi,0.7540863093492627,0.6729909590004983,nao_entendi
+"Pois sou , em algumas marcas , 44",duvida_tamanho,nao_entendi,0.7290405698375961,0.6475291330044229,nao_entendi
+"As duas camisas, o body, a calça e o colar. Eu visto P.",duvida_tamanho,nao_entendi,0.727097518370252,0.5841827649318097,nao_entendi
+a regata arrumadona m,duvida_tamanho,nao_entendi,0.6834016615065313,0.4218939332172297,nao_entendi
+36 ou 38,duvida_tamanho,nao_entendi,0.6712271651732801,0.4334479511861117,nao_entendi
+36 ou 38,duvida_tamanho,nao_entendi,0.6712271651732801,0.4334479511861117,nao_entendi
+Ficou enorme,duvida_tamanho,nao_entendi,0.6211572364931445,0.42670196027462626,nao_entendi
+não tem mais numeração 37,duvida_tamanho,nao_entendi,0.6116429928332288,0.29456557890665663,nao_entendi
+Não tem mais numeração 37,duvida_tamanho,nao_entendi,0.5918548111039726,0.2523059159926582,nao_entendi
+A regata arrumadona M,duvida_tamanho,nao_entendi,0.5574759607478552,0.1950539899006109,nao_entendi
+vou checar as minhas medidas e volto com vcs,duvida_tamanho,nao_entendi,0.4701241826747829,0.15833913938471555,outros
+Boa noite ! Haverá reposição da saia única preta no tamanho 1 ?,duvida_tamanho,saudacao,0.46382296398619455,0.23405813684052604,outros
+"oi, pessoal. tudo bem? estou com dúvida sobre numeração de uma peça de vocês. aguardo retorno, obrigada! milene",duvida_tamanho,saudacao,0.46311822481999637,0.0398011936885701,outros
+"olá vcs tem uma tabela de medidas para essa calça , amei e gostaria de escolher o tamanho certo visto 40 e tenho 1.05 de quadril , então não tenho certeza do p ou m poderiam me ajudar ? no aguardo grata adriana baggio",duvida_tamanho,tamanho_modelagem,0.4589182718256781,0.0519554183958299,outros
+Nao sei se ficaria legal p quem esta um.pouco acima do peso,duvida_tamanho,tamanho_modelagem,0.45891420284612305,0.1471329188467076,outros
+nao sei se ficaria legal p quem esta um.pouco acima do peso,duvida_tamanho,tamanho_modelagem,0.4587726682157068,0.14697037717174222,outros
+Vou checar as minhas medidas e volto com Vcs,duvida_tamanho,nao_entendi,0.45857787003818173,0.1860814411207647,outros
+Essa sandália calça certo ?Calço 36 .Será que preciso comprar 37 ?,duvida_tamanho,saudacao,0.45383908889963026,0.1518660385670299,outros
+"Olá vcs tem uma tabela de medidas para essa calça , amei e gostaria de escolher o tamanho certo visto 40 e tenho 1.05 de quadril , então não tenho certeza do p ou m Poderiam me ajudar ? No aguardo Grata Adriana Baggio",duvida_tamanho,saudacao,0.4337015669117879,0.04830641804606495,outros
+"bia, tudo bem? tenho uma festa bem legal e o traje é black and white. pensei na blusa pah, mas queria saber se o tecido fica vistoso e se você recomenda alguma calça mais festa para combinar. beijos julie",duvida_tamanho,saudacao,0.4290307317920727,0.08454160620018925,outros
+ficou enorme,duvida_tamanho,nao_entendi,0.4254429122674837,0.04061521433010673,outros
+"Por favor , me interessei por este macacão . Quais tamanhos e como comprar ?",duvida_tamanho,tamanho_modelagem,0.42419980006206987,0.14189944435814383,outros
+não tenho nada da paula ferber. a numeração é normal a forma?,duvida_tamanho,nao_entendi,0.4140027958207757,0.14675538215292755,outros
+essa sandália calça certo ?calço 36 .será que preciso comprar 37 ?,duvida_tamanho,saudacao,0.40953131564481354,0.11600978088266622,outros
+"Bia, Tudo bem? Tenho uma festa bem legal e o traje é black and white. Pensei na blusa Pah, mas queria saber se o tecido fica vistoso e se você recomenda alguma calça mais festa para combinar. Beijos Julie",duvida_tamanho,saudacao,0.3923894366544691,0.00818206777741165,outros
+"por favor , me interessei por este macacão . quais tamanhos e como comprar ?",duvida_tamanho,tamanho_modelagem,0.34025960938402716,0.027969391365626095,outros
+Oii comprei a bico fino. O dedo fica um pouquinho de lado pra fora né? Mas super confortável,duvida_tamanho,nao_entendi,0.2918007885337506,0.08493247691082909,outros
+oii comprei a bico fino. o dedo fica um pouquinho de lado pra fora né? mas super confortável,duvida_tamanho,tamanho_modelagem,0.2776366755067508,0.006890459093707446,outros
+"olá, eu encontro as medidas no site?",duvida_tamanho,saudacao,0.9120752061162518,0.8768716629207121,saudacao
+"Olá, eu encontro as medidas no site?",duvida_tamanho,saudacao,0.9104410876528934,0.8765699372556683,saudacao
+"Olá!! Bom dia!! Sou muito fã da Bia, mas nunca comprei no Curadoria. Uma dúvida: como faço para escolher um tamanho com mais segurança? Tem uma tabela de medidas para servir de referência? Obrigada",duvida_tamanho,saudacao,0.8407500483052827,0.7625586914291098,saudacao
+"Oi Bia, tudo bem? Adorei a @curadabia, (o nome ficou demais), e claro ja fui olhar as peças! Não localizei tabela de medidas! Porem, pelo tamanho das peças que vc veste o G provavelmente não vai caber em mim! Uso 46/48, a depender da confecção! Pense com carinho em fazer uma curadoria para tamanhos normais! Desejo muito sucesso nessa nova empreitada! Que Deus te abençoe! Bjos!",duvida_tamanho,saudacao,0.808018111736151,0.7140984227677513,saudacao
+"oi bia, tudo bem? adorei a @curadabia, (o nome ficou demais), e claro ja fui olhar as peças! não localizei tabela de medidas! porem, pelo tamanho das peças que vc veste o g provavelmente não vai caber em mim! uso 46/48, a depender da confecção! pense com carinho em fazer uma curadoria para tamanhos normais! desejo muito sucesso nessa nova empreitada! que deus te abençoe! bjos!",duvida_tamanho,saudacao,0.7584076600289625,0.6349957439772078,saudacao
+"olá!! bom dia!! sou muito fã da bia, mas nunca comprei no curadoria. uma dúvida: como faço para escolher um tamanho com mais segurança? tem uma tabela de medidas para servir de referência? obrigada",duvida_tamanho,saudacao,0.6811390058254819,0.46139529320498895,saudacao
+"bom dia gostei muito de uma calça mais gostaria de ter informações dos tamanhos , se te tabela de medidas , como faço para saber , poderiam me ajudar ? no aguardo grata adriana baggio",duvida_tamanho,saudacao,0.6761121758160463,0.43800344457608353,saudacao
+"olá! bom dia! roupas lindas aqui! mas não encontrei muitas opções de tamanhos maiores. é isso mesmo? tenho uma cliente que se enquadraria perfeita nesse estilo mais contemporâneo, mas é um tamanho g, gg. 44/46. poderiam me sugerir algumas opções?",duvida_tamanho,saudacao,0.648187640672231,0.3170388206776037,saudacao
+"Bom Dia Gostei muito de uma calça mais gostaria de ter informações dos tamanhos , se te tabela de medidas , Como faço para saber , poderiam me Ajudar ? No aguardo Grata Adriana Baggio",duvida_tamanho,saudacao,0.6454458521414531,0.45958916793605864,saudacao
+"Olá! Bom dia! Roupas lindas aqui! Mas não encontrei muitas opções de tamanhos maiores. É isso mesmo? Tenho uma cliente que se enquadraria perfeita nesse estilo mais contemporâneo, mas é um tamanho G, GG. 44/46. Poderiam me sugerir algumas opções?",duvida_tamanho,saudacao,0.6198518480670424,0.2729849453266252,saudacao
+"Oi, pessoal. Tudo bem? Estou com dúvida sobre numeração de uma peça de vocês. Aguardo retorno, obrigada! Milene",duvida_tamanho,saudacao,0.5612094910115611,0.24324967878049814,saudacao
+boa noite ! haverá reposição da saia única preta no tamanho 1 ?,duvida_tamanho,saudacao,0.5499847131897626,0.389964503356609,saudacao
+já tentei três vezes. será que pode ser o tamanho?,duvida_tamanho,tamanho_modelagem,0.9399799506059313,0.9153963375100376,tamanho_modelagem
+Já tentei três vezes. Será que pode ser o tamanho?,duvida_tamanho,tamanho_modelagem,0.9346738706438597,0.903743889883543,tamanho_modelagem
+"fui olhar para comprar o tamanho 1 dessa calça, porém a largura da cintura e do quadril eh a mesma - 98",duvida_tamanho,tamanho_modelagem,0.9325048172133354,0.9167847311636664,tamanho_modelagem
+"estou com duvidas sobre o tamanho da saia unica, visto 42 , mas as medidas no quadro de tamanhos parecem grandes, mas existe a informação de que o tamanho 1 corresponde ao 36….",duvida_tamanho,tamanho_modelagem,0.9318407126048166,0.9036090991228164,tamanho_modelagem
+"Fui olhar para comprar o tamanho 1 dessa calça, porém a largura da cintura e do quadril eh a mesma - 98",duvida_tamanho,tamanho_modelagem,0.9307422337492337,0.914271504892812,tamanho_modelagem
+gostaria de saber o tamanho da cintura dessa calça no tamanho m,duvida_tamanho,tamanho_modelagem,0.8810503585256884,0.8287120164667128,tamanho_modelagem
+gostaria de saber qual a altura e medidas da bia pra entender melhor o tamanho de referência.,duvida_tamanho,tamanho_modelagem,0.8805836212407225,0.7974330470702593,tamanho_modelagem
+"Estou com duvidas sobre o tamanho da saia Unica, visto 42 , mas as medidas no quadro de tamanhos parecem grandes, mas existe a informação de que o tamanho 1 corresponde ao 36….",duvida_tamanho,tamanho_modelagem,0.8781823719731126,0.8232502517814027,tamanho_modelagem
+Porém na dúvida do melhor tamanho,duvida_tamanho,tamanho_modelagem,0.877673171199993,0.7738945013509438,tamanho_modelagem
+Gostaria de saber o tamanho da cintura dessa calça no tamanho M,duvida_tamanho,tamanho_modelagem,0.8749422283998354,0.8318796856754247,tamanho_modelagem
+porém na dúvida do melhor tamanho,duvida_tamanho,tamanho_modelagem,0.8701408119591884,0.7613186307324563,tamanho_modelagem
+"bom dia. estou interessada na blusa pah, mas estou em dúvida quanto ao tamanho. minhas medidas: busto 92 cm e cintura 75 cm.",duvida_tamanho,tamanho_modelagem,0.8688571762742914,0.8037339213931155,tamanho_modelagem
+"Bom dia. Estou interessada na blusa PAH, mas estou em dúvida quanto ao tamanho. Minhas medidas: busto 92 cm e cintura 75 cm.",duvida_tamanho,tamanho_modelagem,0.8684688726463884,0.812523542002137,tamanho_modelagem
+Olá! Como tirar dúvidas de tamanho da peça?,duvida_tamanho,tamanho_modelagem,0.8636979037637528,0.7925458050723506,tamanho_modelagem
+Gostaria de saber qual a altura e medidas da Bia pra entender melhor o tamanho de referência.,duvida_tamanho,tamanho_modelagem,0.8464975916434421,0.7989337764855817,tamanho_modelagem
+qual tamanho?,duvida_tamanho,tamanho_modelagem,0.8413375456905682,0.7641933421641549,tamanho_modelagem
+gostaria a camisa branca tamanho m. é possível?,duvida_tamanho,tamanho_modelagem,0.8387817025992735,0.7238630278602192,tamanho_modelagem
+Qual tamanho?,duvida_tamanho,tamanho_modelagem,0.8372387160189939,0.7523607276909394,tamanho_modelagem
+Gostaria a camisa branca tamanho M. É possível?,duvida_tamanho,tamanho_modelagem,0.7474318822566829,0.6060643716685014,tamanho_modelagem
+olá! como tirar dúvidas de tamanho da peça?,duvida_tamanho,tamanho_modelagem,0.744256941022185,0.5674235143183398,tamanho_modelagem
+"visto g, qual tamanho seria? quais cores tem? tem a calça tb?",duvida_tamanho,tamanho_modelagem,0.6270955945830694,0.4057586402981913,tamanho_modelagem
+eu costumo usar p ou pp se a confecção é grande,duvida_tamanho,tamanho_modelagem,0.5740317010721324,0.42882057570522103,tamanho_modelagem
+Eu costumo usar P ou PP se a confecção é grande,duvida_tamanho,tamanho_modelagem,0.5690030145332484,0.4221214825635715,tamanho_modelagem
+gosto da calça assim mais curta! visto entre 38-40 (quadril 95),duvida_tamanho,tamanho_modelagem,0.5502138631096073,0.2734164052949964,tamanho_modelagem
+"Visto G, qual tamanho seria? Quais cores tem? Tem a calça tb?",duvida_tamanho,tamanho_modelagem,0.526222795197198,0.18621390629797874,tamanho_modelagem
+Gosto da calça assim mais curta! Visto entre 38-40 (quadril 95),duvida_tamanho,tamanho_modelagem,0.5083468359107312,0.17585978435495142,tamanho_modelagem
+"Como uma crítica construtiva, vcs deveriam mandar um e-mail para confirmar o pedido. Compro bastante on-line e sempre vem o e-mail do status do pedido!! O cliente fica mais seguro da compra.",duvida_tamanho,troca_devolucao_politica,0.7337564037041048,0.5915519831634133,troca_devolucao_politica
+"como uma crítica construtiva, vcs deveriam mandar um e-mail para confirmar o pedido. compro bastante on-line e sempre vem o e-mail do status do pedido!! o cliente fica mais seguro da compra.",duvida_tamanho,troca_devolucao_politica,0.7295561772593523,0.6046736368863506,troca_devolucao_politica
+Como comprar ?,onde_comprar,como_comprar,0.6762944742604632,0.5087366751551425,como_comprar
+como comprar ?,onde_comprar,como_comprar,0.6348844165002184,0.45348574270550746,como_comprar
+Alguém poderia entrar em contato comigo por e-mail ou WhatsApp? O site de vcs parece que está com problemas. Não funciona direito não.,onde_comprar,erros_plataforma,0.5426539025472854,0.307463956375841,erros_plataforma
+alguém poderia entrar em contato comigo por e-mail ou whatsapp? o site de vcs parece que está com problemas. não funciona direito não.,onde_comprar,erros_plataforma,0.5138819952928303,0.17632132806452888,erros_plataforma
+Este é meu WhatsApp…,onde_comprar,nao_entendi,0.6653206766562216,0.47631333654458896,nao_entendi
+https://www.instagram.com/minimadeia/profilecard/,onde_comprar,nao_entendi,0.6080488573495809,0.4248359753974559,nao_entendi
+https://www.instagram.com/minimadeia/profilecard/,onde_comprar,nao_entendi,0.6080488573495809,0.4248359753974559,nao_entendi
+este é meu whatsapp…,onde_comprar,nao_entendi,0.5765495658734404,0.22907084764720592,nao_entendi
+https://www.instagram.com/ac.gromann?igsh=mwe4dtziy2izetaxnw==,onde_comprar,nao_entendi,0.5067290022775375,0.10752405720824626,nao_entendi
+https://www.instagram.com/_nata.oficial/profilecard/,onde_comprar,nao_entendi,0.48967085278843053,0.25225791412886783,outros
+https://www.instagram.com/_nata.oficial/profilecard/,onde_comprar,nao_entendi,0.48967085278843053,0.25225791412886783,outros
+https://www.instagram.com/durgashop/profilecard/,onde_comprar,nao_entendi,0.48779514468503815,0.18027589796223592,outros
+https://www.instagram.com/durgashop/profilecard/,onde_comprar,nao_entendi,0.48779514468503815,0.18027589796223592,outros
+https://www.instagram.com/ac.gromann?igsh=MWE4dTZiY2IzeTAxNw==,onde_comprar,nao_entendi,0.4747124594028241,0.0640721949173062,outros
+https://www.instagram.com/wendyelborin/profilecard/,onde_comprar,nao_entendi,0.47260758567259403,0.18601307375550247,outros
+https://www.instagram.com/wendyelborin/profilecard/,onde_comprar,nao_entendi,0.47260758567259403,0.18601307375550247,outros
+https://www.instagram.com/luiseramirezbrand/profilecard/,onde_comprar,saudacao,0.45539473680613,0.169068511691856,outros
+https://www.instagram.com/luiseramirezbrand/profilecard/,onde_comprar,saudacao,0.45539473680613,0.169068511691856,outros
+https://www.instagram.com/___lourie___/profilecard/,onde_comprar,nao_entendi,0.4340028938020601,0.10265907757741954,outros
+https://www.instagram.com/___lourie___/profilecard/,onde_comprar,nao_entendi,0.4340028938020601,0.10265907757741954,outros
+https://www.instagram.com/voceamara/profilecard/,onde_comprar,saudacao,0.39880596950843494,0.00720475082724964,outros
+https://www.instagram.com/voceamara/profilecard/,onde_comprar,saudacao,0.39880596950843494,0.00720475082724964,outros
+https://www.instagram.com/usemyk/profilecard/,onde_comprar,saudacao,0.38788625206296246,0.03204758765195148,outros
+https://www.instagram.com/usemyk/profilecard/,onde_comprar,saudacao,0.38788625206296246,0.03204758765195148,outros
+https://www.instagram.com/numerodez.numerodez/profilecard/,onde_comprar,saudacao,0.3704500594722026,0.024307521980871938,outros
+https://www.instagram.com/numerodez.numerodez/profilecard/,onde_comprar,saudacao,0.3704500594722026,0.024307521980871938,outros
+https://www.instagram.com/giom.ei/profilecard/,onde_comprar,nao_entendi,0.33949377965874517,0.006454639873908319,outros
+https://www.instagram.com/giom.ei/profilecard/,onde_comprar,nao_entendi,0.33949377965874517,0.006454639873908319,outros
+oi! tudo certinho por aí? 💚 somos a ēcru e trabalhamos com embalagens sustentáveis e personalizáveis feitas em algodão cru! nossos principais produtos são: 💚 necessaire 💚 saquinhos 💚 ecobags nos identificamos muito com a sua empresa e adoraríamos te apresentar nosso catálogo! posso te enviar mais informações pelo e-mail ou whatsapp? ah! também aceitamos propostas de orçamento ou cobrimos valores de outros fornecedores!,onde_comprar,saudacao,0.9218834908261351,0.8748798450045863,saudacao
+Oi! Tudo certinho por aí? 💚 Somos a ĒCRU e trabalhamos com embalagens sustentáveis e personalizáveis feitas em algodão cru! Nossos principais produtos são: 💚 Necessaire 💚 Saquinhos 💚 Ecobags Nos identificamos muito com a sua empresa e adoraríamos te apresentar nosso catálogo! Posso te enviar mais informações pelo e-mail ou Whatsapp? Ah! Também aceitamos propostas de orçamento ou cobrimos valores de outros fornecedores!,onde_comprar,saudacao,0.9201128787924819,0.8787465835509131,saudacao
+"olá, sou o gerente de vendas da pg game platform. quero falar com você sobre parcerias. nossa plataforma foi licenciada conjuntamente pelo governo federal brasileiro e pelo governo de curaçao em outubro. você pode se juntar a nós e lhe daremos altas comissões. entre em contato comigo pelo whatsapp: +13434802605",onde_comprar,saudacao,0.8222917814255286,0.7392556179567783,saudacao
+https://www.instagram.com/queensgatestore?igsh=mjc0c2g5chnmn25k&utm_source=qr,onde_comprar,saudacao,0.815345593127342,0.6996275590370711,saudacao
+https://www.instagram.com/queensgatestore?igsh=Mjc0c2g5cHNmN25k&utm_source=qr,onde_comprar,saudacao,0.8087002744185239,0.6911333030301945,saudacao
+"ola meninas seguem meus contatos: +1(917)868-9790 daniela.masson@hotmail.com muito bom falar com vcs ontem, obrigada ! falamos na sequência por whatsapp 🌷",onde_comprar,saudacao,0.7992523669839037,0.6491744567225486,saudacao
+Chico Neto CD Maré Mar WhatsApp 11965621065 http://palcomp3.com/chiconetodaparaiba/,onde_comprar,saudacao,0.764273281272454,0.5879284202138827,saudacao
+Olá tudo bem Ana e vc? Que bacana… Vou passar o WhatsApp da Maiá pode falar com ela por gentileza! 11-983268095,onde_comprar,saudacao,0.7589080390808026,0.5599119960213278,saudacao
+"Olá, sou o gerente de vendas da PG Game Platform. Quero falar com você sobre parcerias. Nossa plataforma foi licenciada conjuntamente pelo governo federal brasileiro e pelo governo de Curaçao em outubro. Você pode se juntar a nós e lhe daremos altas comissões. Entre em contato comigo pelo WhatsApp: +13434802605",onde_comprar,saudacao,0.7539786164609644,0.6382867766280769,saudacao
+olá tudo bem ana e vc? que bacana… vou passar o whatsapp da maiá pode falar com ela por gentileza! 11-983268095,onde_comprar,saudacao,0.7528678572582853,0.5357997147728275,saudacao
+"Ola meninas seguem meus contatos: +1(917)868-9790 Daniela.masson@hotmail.com Muito bom falar com vcs ontem, obrigada ! Falamos na sequência por WhatsApp 🌷",onde_comprar,saudacao,0.7239788967015426,0.5004312737667137,saudacao
+PARABÉNS!!! Excelente ideia!!! Vim pelo insta da Glória Kalil 😍 - Torcendo por mais um SUCESSO!,onde_comprar,saudacao,0.7108050972239203,0.507310691729737,saudacao
+onde e a loja?,onde_comprar,saudacao,0.6864161659786124,0.4314370876824772,saudacao
+Onde e a loja?,onde_comprar,saudacao,0.6488859203789635,0.34935407461032914,saudacao
+https://www.instagram.com/tatho.brasil/profilecard/,onde_comprar,saudacao,0.6236297171059266,0.3451765966652256,saudacao
+https://www.instagram.com/tatho.brasil/profilecard/,onde_comprar,saudacao,0.6236297171059266,0.3451765966652256,saudacao
+chico neto cd maré mar whatsapp 11965621065 http://palcomp3.com/chiconetodaparaiba/,onde_comprar,saudacao,0.6219828362084244,0.3362340244178036,saudacao
+https://www.instagram.com/agola__/profilecard/,onde_comprar,saudacao,0.620560394870501,0.3438232415254245,saudacao
+https://www.instagram.com/agola__/profilecard/,onde_comprar,saudacao,0.620560394870501,0.3438232415254245,saudacao
+https://www.instagram.com/_nata.oficial?igsh=N204dXp5bzN6azBz,onde_comprar,saudacao,0.5956620843498406,0.28344846640909366,saudacao
+parabéns!!! excelente ideia!!! vim pelo insta da glória kalil 😍 - torcendo por mais um sucesso!,onde_comprar,saudacao,0.5896650663844366,0.23468915203930046,saudacao
+https://www.instagram.com/_nata.oficial?igsh=n204dxp5bzn6azbz,onde_comprar,saudacao,0.5736658965763154,0.25373864621416536,saudacao
+"De todo modo , agradeço por perguntar",outros,agradecimento,0.9559349284663345,0.9344470807897832,agradecimento
+"de todo modo , agradeço por perguntar",outros,agradecimento,0.9547901345552562,0.9322575159003772,agradecimento
+mas super entendi e aproveito pra agradecer e elogiar seu trabalho,outros,agradecimento,0.9288193370962708,0.872149471238808,agradecimento
+Mas super entendi e aproveito pra agradecer e elogiar seu trabalho,outros,agradecimento,0.9186759519036266,0.8517718973981598,agradecimento
+Poxa… que pena… quando tiverem me avise por favor,outros,agradecimento,0.5550242136530131,0.3445782982406288,agradecimento
+poxa… que pena… quando tiverem me avise por favor,outros,agradecimento,0.5235487055525948,0.2857768858109835,agradecimento
+Linda gladiadora!,outros,agradecimento,0.5069033435236574,0.245841389251706,agradecimento
+certo. qual o link da compra?,outros,como_comprar,0.8530402996822027,0.7955918193562963,como_comprar
+Certo. Qual o link da compra?,outros,como_comprar,0.8292649310953023,0.7398227741693999,como_comprar
+Onde posso comprar?,outros,como_comprar,0.7571746639937786,0.6360780199947783,como_comprar
+onde posso comprar?,outros,como_comprar,0.74810346371541,0.6378389830567174,como_comprar
+"Eu quero comprar esses acessórios, como faço?",outros,como_comprar,0.7429122408756976,0.6407834134658559,como_comprar
+compra realizada,outros,como_comprar,0.7276555139531643,0.6090057327484486,como_comprar
+"eu quero comprar esses acessórios, como faço?",outros,como_comprar,0.6928216505740536,0.5906299056310828,como_comprar
+"gostei do conjunto, mas não vi no site",outros,erros_plataforma,0.9141206351705891,0.8612909793340736,erros_plataforma
+"Gostei do conjunto, mas não vi no site",outros,erros_plataforma,0.9059850229967942,0.8450517464318438,erros_plataforma
+"na verdade eu já assisti ao vídeo do casaco no site curadobia várias vezes para tentar chegar a essa conclusão, mas não consegui",outros,erros_plataforma,0.837471730643065,0.7643806900845416,erros_plataforma
+outra dúvida é sobre o tom certinho dessa jaqueta. no site achei que estava num tom diferente dos stories,outros,erros_plataforma,0.8231575209171434,0.6980140015464021,erros_plataforma
+não estou conseguindo entrar no site para fazer compra,outros,erros_plataforma,0.7456897142952897,0.632263031918079,erros_plataforma
+Não estou conseguindo entrar no site para fazer compra,outros,erros_plataforma,0.7166604581414703,0.5785090002808119,erros_plataforma
+"Na verdade eu já assisti ao vídeo do casaco no site Curadobia várias vezes para tentar chegar a essa conclusão, mas não consegui",outros,erros_plataforma,0.6912029075988508,0.4832438195256954,erros_plataforma
+Olá. Tentei fazer uma compra e após entrar com os dados do cartão e senha vem a seguinte tela,outros,erros_plataforma,0.6247546216015487,0.29583202412740706,erros_plataforma
+o site está passando por problemas?,outros,erros_plataforma,0.591459678737962,0.23017765757809672,erros_plataforma
+olá. tentei fazer uma compra e após entrar com os dados do cartão e senha vem a seguinte tela,outros,erros_plataforma,0.5911206720825901,0.24545216269197062,erros_plataforma
+O site está passando por problemas?,outros,erros_plataforma,0.5510159751571644,0.15306435983618377,erros_plataforma
+Tem cupom de desconto primeira compra?,outros,formas_pagamento,0.830834298248938,0.7367525074405747,formas_pagamento
+tem cupom de desconto primeira compra?,outros,formas_pagamento,0.820795755208406,0.7223702669634718,formas_pagamento
+"Bia, td bom? Não estou conseguindo finalizar a compra da ""regata podrinha"". Coloquei os dados do cartão e no campo CVV eu ponho os números mas o sistema ignora que eu coloquei. Tentei várias vezes, acho que está com problema…",outros,formas_pagamento,0.7817530569605614,0.681441780023242,formas_pagamento
+"bia, td bom? não estou conseguindo finalizar a compra da ""regata podrinha"". coloquei os dados do cartão e no campo cvv eu ponho os números mas o sistema ignora que eu coloquei. tentei várias vezes, acho que está com problema…",outros,formas_pagamento,0.7718570843225088,0.6344388363010971,formas_pagamento
+vcs tem desconto para primeira compra?,outros,formas_pagamento,0.7435899374739181,0.627836182158622,formas_pagamento
+Vcs tem desconto para primeira compra?,outros,formas_pagamento,0.7220128985509412,0.5474689153452653,formas_pagamento
+"Vou querer a 46, qual é sua chave pix?",outros,formas_pagamento,0.6837599282024897,0.4852854405255329,formas_pagamento
+"vou querer a 46, qual é sua chave pix?",outros,formas_pagamento,0.6776216591702515,0.4795220144013258,formas_pagamento
+Mas paguei por uma coisa que não recebi,outros,formas_pagamento,0.5999490119717553,0.23721559141436716,formas_pagamento
+mas paguei por uma coisa que não recebi,outros,formas_pagamento,0.5794631811590294,0.20014100502425908,formas_pagamento
+olá algum cupom de desconto na primeira compra?,outros,formas_pagamento,0.5400296889964666,0.23374726957770298,formas_pagamento
+comprei um body e paguei frete de 7 dias úteis pra levar pra uma viagem agora na sexta,outros,frete_prazo,0.9172572726529712,0.8858298483605042,frete_prazo
+Comprei um body e paguei frete de 7 dias úteis pra levar pra uma viagem agora na sexta,outros,frete_prazo,0.9148307947190304,0.8799778165051851,frete_prazo
+"Certo, obrigada !!! O prazo de entrega são 19 dias mesmo ?",outros,frete_prazo,0.7355285981938177,0.6124697613788317,frete_prazo
+"certo, obrigada !!! o prazo de entrega são 19 dias mesmo ?",outros,frete_prazo,0.6661435235391223,0.4768295974993062,frete_prazo
+ambos :),outros,nao_entendi,0.9596154810026151,0.9492545417022624,nao_entendi
+Ambos :),outros,nao_entendi,0.9558972497918726,0.9464021324253173,nao_entendi
+11,outros,nao_entendi,0.9540668559063121,0.9392583616946963,nao_entendi
+11,outros,nao_entendi,0.9540668559063121,0.9392583616946963,nao_entendi
+Funciona,outros,nao_entendi,0.9532436922940204,0.937572859134864,nao_entendi
+funciona,outros,nao_entendi,0.9506302470243343,0.9339206204783038,nao_entendi
+Não rsrs,outros,nao_entendi,0.9503150425701664,0.9237471839496219,nao_entendi
+não rsrs,outros,nao_entendi,0.9333435686869239,0.8874116346171027,nao_entendi
+pode,outros,nao_entendi,0.9280970330259352,0.8886635199413332,nao_entendi
+adquiri uma máxi pantalona valéria mansur,outros,nao_entendi,0.9259597543066223,0.9065448338603965,nao_entendi
+Pode,outros,nao_entendi,0.9258311092149052,0.8900432855525114,nao_entendi
+Endereço,outros,nao_entendi,0.9137775497219173,0.8799160473145784,nao_entendi
+Macacões com mangas,outros,nao_entendi,0.9134723095550593,0.882644441034686,nao_entendi
+reagiu com 😢 à sua mensagem,outros,nao_entendi,0.9131122766325322,0.8802325376031481,nao_entendi
+muito tenso,outros,nao_entendi,0.9076509935101625,0.8839138477922569,nao_entendi
+E ainda não chegou,outros,nao_entendi,0.903582678428705,0.8702904101201687,nao_entendi
+ops é a blusa pah,outros,nao_entendi,0.9029529480456236,0.8418457911106478,nao_entendi
+Precisei escrever em uma postagem,outros,nao_entendi,0.9017680851189992,0.860844081673978,nao_entendi
+na torcida ❤️,outros,nao_entendi,0.8961322620558775,0.8337311590747996,nao_entendi
+Muito tenso,outros,nao_entendi,0.89590598152308,0.8663063228301211,nao_entendi
+e ainda não chegou,outros,nao_entendi,0.8939816349157722,0.8554665664359146,nao_entendi
+precisei escrever em uma postagem,outros,nao_entendi,0.8937518397855243,0.8508853132163824,nao_entendi
+"Ainda não , super correria",outros,nao_entendi,0.8823623594565101,0.8463740490390845,nao_entendi
+Tá joia.,outros,nao_entendi,0.8792373025869343,0.8080346575236067,nao_entendi
+Na torcida ❤️,outros,nao_entendi,0.878730303729207,0.7936372145651373,nao_entendi
+Reagiu com 😢 à sua mensagem,outros,nao_entendi,0.8778751284341274,0.8314609847376883,nao_entendi
+"ainda não , super correria",outros,nao_entendi,0.8770457795360675,0.8435510605886979,nao_entendi
+Pode ser?,outros,nao_entendi,0.8731926080547266,0.7999357828733906,nao_entendi
+Ops é a blusa Pah,outros,nao_entendi,0.8627877727822093,0.7933786041080498,nao_entendi
+"Na verdade foi o porteiro, rs!",outros,nao_entendi,0.8584138674188692,0.799089729553492,nao_entendi
+Mas a peça ainda não chegou,outros,nao_entendi,0.8577809807434452,0.7724074716714358,nao_entendi
+mas a peça ainda não chegou,outros,nao_entendi,0.8569285399085041,0.7706242688776312,nao_entendi
+"na verdade foi o porteiro, rs!",outros,nao_entendi,0.8541850162857139,0.7935797812111086,nao_entendi
+pode ser?,outros,nao_entendi,0.8521461886423523,0.7521022184588372,nao_entendi
+por muito pouco a minha frustração seria ainda maior,outros,nao_entendi,0.8508648392021856,0.806282084373828,nao_entendi
+sim,outros,nao_entendi,0.8470514731793778,0.756282894551899,nao_entendi
+sim,outros,nao_entendi,0.8470514731793778,0.756282894551899,nao_entendi
+esse é o fechado,outros,nao_entendi,0.8452129599681983,0.7919650503053579,nao_entendi
+Já tô seguindo 👊🏻,outros,nao_entendi,0.8448166490885417,0.7498165557062247,nao_entendi
+"enfim , por muito pouco não me atende",outros,nao_entendi,0.8435358510998064,0.771756445766901,nao_entendi
+Por muito pouco a minha frustração seria ainda maior,outros,nao_entendi,0.842080022075471,0.7949762092136352,nao_entendi
+Eu adorei !! Ja usei minha saia hj,outros,nao_entendi,0.8397121373566586,0.7295075693513476,nao_entendi
+reagiu com 💜 à sua mensagem,outros,nao_entendi,0.8361719074582176,0.729925895021176,nao_entendi
+"Enfim , por muito pouco não me atende",outros,nao_entendi,0.8341135540355221,0.7528561081822194,nao_entendi
+Joia,outros,nao_entendi,0.8279184832450367,0.7083430474905393,nao_entendi
+😮,outros,nao_entendi,0.8277086573251289,0.6880954364423304,nao_entendi
+😮,outros,nao_entendi,0.8277086573251289,0.6880954364423304,nao_entendi
+É acolchoada ?,outros,nao_entendi,0.8243200910319013,0.6772526907622092,nao_entendi
+eu adorei !! ja usei minha saia hj,outros,nao_entendi,0.8222559711671735,0.6877185752340853,nao_entendi
+Sim,outros,nao_entendi,0.8208898622146458,0.7360285015930309,nao_entendi
+Sim,outros,nao_entendi,0.8208898622146458,0.7360285015930309,nao_entendi
+Adorei! Como funciona ?🤩,outros,nao_entendi,0.8205252696973907,0.6891891093171059,nao_entendi
+já tô seguindo 👊🏻,outros,nao_entendi,0.8171945739962915,0.6791000698914276,nao_entendi
+tô de olho faz tempooo,outros,nao_entendi,0.8165332408661562,0.6948953191685008,nao_entendi
+é acolchoada ?,outros,nao_entendi,0.8163599984762886,0.6598592537040304,nao_entendi
+Chegou,outros,nao_entendi,0.8158607214478621,0.6591284157146785,nao_entendi
+E o body me chega HOJE,outros,nao_entendi,0.8141424280061851,0.6935758284419669,nao_entendi
+macacões com mangas,outros,nao_entendi,0.8105079249561639,0.7100857446829594,nao_entendi
+daniela.masson@hotmail.com,outros,nao_entendi,0.8056466622400881,0.7103535902640825,nao_entendi
+Tutu. Meu filho é Tutu. Arthur kkkk,outros,nao_entendi,0.7956500000406029,0.7038290821246691,nao_entendi
+Estou vendo pelo celular sim.,outros,nao_entendi,0.7933842122242933,0.6971205337699116,nao_entendi
+yes!!,outros,nao_entendi,0.7918349103260237,0.706872908550854,nao_entendi
+e a calça é de onde?,outros,nao_entendi,0.7905325634760333,0.6714643165233825,nao_entendi
+Por nada!,outros,nao_entendi,0.7904412053055122,0.6255861512118834,nao_entendi
+reagiu com 👍 à sua mensagem,outros,nao_entendi,0.7890810551692464,0.6247992684234498,nao_entendi
+reagiu com 👍 à sua mensagem,outros,nao_entendi,0.7890810551692464,0.6247992684234498,nao_entendi
+reagiu com 👍 à sua mensagem,outros,nao_entendi,0.7890810551692464,0.6247992684234498,nao_entendi
+reagiu com 👍 à sua mensagem,outros,nao_entendi,0.7890810551692464,0.6247992684234498,nao_entendi
+adorei a dica!,outros,nao_entendi,0.7869312454097653,0.689011828964166,nao_entendi
+Yes!!,outros,nao_entendi,0.7824282099205355,0.6916823667239045,nao_entendi
+vou seguir.,outros,nao_entendi,0.7819651432031897,0.6677125593108739,nao_entendi
+Ebaaaaa,outros,nao_entendi,0.7815390153556082,0.5872961932607356,nao_entendi
+Eh isso mesmo?,outros,nao_entendi,0.7796026738953971,0.590639644989605,nao_entendi
+Vou seguir.,outros,nao_entendi,0.779600539967462,0.658018980945,nao_entendi
+estou vendo pelo celular sim.,outros,nao_entendi,0.7791756380302902,0.6717001958120373,nao_entendi
+adorei! como funciona ?🤩,outros,nao_entendi,0.7788375478707047,0.6029548912568227,nao_entendi
+E a calça é de onde?,outros,nao_entendi,0.7765482881634629,0.6424762456935228,nao_entendi
+joia,outros,nao_entendi,0.7762401042251289,0.5914472339462028,nao_entendi
+Adquiri uma máxi pantalona Valéria mansur,outros,nao_entendi,0.7748907965605975,0.6048529151454046,nao_entendi
+tutu. meu filho é tutu. arthur kkkk,outros,nao_entendi,0.7743934513858898,0.6774119978404475,nao_entendi
+Deu certo mas a peça que eu queria acabou…,outros,nao_entendi,0.773400294579378,0.6662104450619251,nao_entendi
+deu certo mas a peça que eu queria acabou…,outros,nao_entendi,0.7711178007999532,0.6588540252787214,nao_entendi
+muito estilo,outros,nao_entendi,0.7704989709397143,0.6034918279688523,nao_entendi
+Adoro…!,outros,nao_entendi,0.7692332469254078,0.662313852453005,nao_entendi
+por nada!,outros,nao_entendi,0.7654251360425155,0.581283927719945,nao_entendi
+11 99635.2663,outros,nao_entendi,0.7612288181764901,0.6220275113849572,nao_entendi
+11 99635.2663,outros,nao_entendi,0.7612288181764901,0.6220275113849572,nao_entendi
+Esse é o fechado,outros,nao_entendi,0.7609471639546356,0.6730109846476204,nao_entendi
+tá joia.,outros,nao_entendi,0.7594269301296692,0.5627992936497713,nao_entendi
+como falo com alguém daí,outros,nao_entendi,0.7553920003526814,0.5699923587558422,nao_entendi
+Maravilha,outros,nao_entendi,0.7540767487419625,0.5404684114713185,nao_entendi
+Muito estilo,outros,nao_entendi,0.7495570813082049,0.5784749106838382,nao_entendi
+adoro…!,outros,nao_entendi,0.7492619917441471,0.6095963180582161,nao_entendi
+eba!,outros,nao_entendi,0.7448733474100058,0.5120826368168583,nao_entendi
+Já respondi! Sim no wzap,outros,nao_entendi,0.7444510668257732,0.5906218470940648,nao_entendi
+chegou,outros,nao_entendi,0.7443450539725974,0.5338500838923266,nao_entendi
+???,outros,nao_entendi,0.7411822915099325,0.5040709085470056,nao_entendi
+???,outros,nao_entendi,0.7411822915099325,0.5040709085470056,nao_entendi
+Reagiu com 🖤 à sua mensagem,outros,nao_entendi,0.7321738836967039,0.4793738728352467,nao_entendi
+oba! ❤️,outros,nao_entendi,0.7275756541783226,0.4841483087166929,nao_entendi
+reagiu com 👍🏿 à sua mensagem,outros,nao_entendi,0.727249916294119,0.4814718336484186,nao_entendi
+maravilha,outros,nao_entendi,0.72639218121466,0.48689292100722037,nao_entendi
+e o body me chega hoje,outros,nao_entendi,0.7217092082599194,0.49776819823542673,nao_entendi
+Vou olhar,outros,nao_entendi,0.7197005602489345,0.6234905592039292,nao_entendi
+Ainda hj vou efetuar a compra da calça,outros,nao_entendi,0.7176686679976193,0.5785589681679815,nao_entendi
+vou olhar,outros,nao_entendi,0.7161330734234078,0.6121710475409832,nao_entendi
+"claro, mando tudo la",outros,nao_entendi,0.7107452501561292,0.5548645012262987,nao_entendi
+37?? Não creio,outros,nao_entendi,0.7083432169263794,0.4706272248612291,nao_entendi
+sim!,outros,nao_entendi,0.7067081527926763,0.4885912297740673,nao_entendi
+ainda hj vou efetuar a compra da calça,outros,nao_entendi,0.7031281262416647,0.5429883595143012,nao_entendi
+Sim!,outros,nao_entendi,0.7021508918000542,0.4908885196281053,nao_entendi
+já comprei 3 peças da curadobia,outros,nao_entendi,0.6989738959943231,0.5952464960429559,nao_entendi
+aguardo ansiosa pelos seus pisantes na curadobia,outros,nao_entendi,0.6988777458206893,0.4509362285469438,nao_entendi
+reagiu com 🖤 à sua mensagem,outros,nao_entendi,0.6970079222811019,0.41549713232220475,nao_entendi
+Tô de olho faz tempooo,outros,nao_entendi,0.6959211732987044,0.454025352919345,nao_entendi
+endereço,outros,nao_entendi,0.6955529353234541,0.537732243689996,nao_entendi
+❤️,outros,nao_entendi,0.6945455866160822,0.4283369766306548,nao_entendi
+❤️,outros,nao_entendi,0.6945455866160822,0.4283369766306548,nao_entendi
+Adorei a dica!,outros,nao_entendi,0.6941052934556723,0.5107438576110955,nao_entendi
+Já comprei 3 peças da curadobia,outros,nao_entendi,0.6932281038224616,0.5885823539129853,nao_entendi
+37?? não creio,outros,nao_entendi,0.6913605398481577,0.444540319071114,nao_entendi
+eh isso mesmo?,outros,nao_entendi,0.6790741036274194,0.3879458689372965,nao_entendi
+E a blusa?,outros,nao_entendi,0.6725051466849689,0.4584653112673883,nao_entendi
+Como falo com alguém daí,outros,nao_entendi,0.6699023786311917,0.39724811338447497,nao_entendi
+993811193,outros,nao_entendi,0.6688525220074516,0.4902482339398281,nao_entendi
+993811193,outros,nao_entendi,0.6688525220074516,0.4902482339398281,nao_entendi
+"Claro, mando tudo la",outros,nao_entendi,0.6675216521100013,0.48586545387193936,nao_entendi
+ei ana,outros,nao_entendi,0.6675150919518847,0.3493351965743217,nao_entendi
+cadê? quero,outros,nao_entendi,0.6644488727691726,0.4318041754221198,nao_entendi
+Aguardo ansiosa pelos seus pisantes na curadobia,outros,nao_entendi,0.6599938345535288,0.38104333873944446,nao_entendi
+e a blusa?,outros,nao_entendi,0.655048517121395,0.444108234008996,nao_entendi
+foi muito legal,outros,nao_entendi,0.6546835355515769,0.443129995746789,nao_entendi
+isso é curadobia hein!,outros,nao_entendi,0.6537353054600595,0.4582734917684459,nao_entendi
+Foi muito legal,outros,nao_entendi,0.6537096613867321,0.43182853386521214,nao_entendi
+Cadê? Quero,outros,nao_entendi,0.6524032172849523,0.46445806244523524,nao_entendi
+já respondi! sim no wzap,outros,nao_entendi,0.6493141838746407,0.4186204718476718,nao_entendi
+estou de olho nessa peça aqui 👇🏻,outros,nao_entendi,0.6487218246551953,0.45248212746152483,nao_entendi
+Paguei Sedex porque estou indo hoje pra Londres e queria levar o body,outros,nao_entendi,0.6478990534650614,0.4885789979219509,nao_entendi
+🖤🖤🖤,outros,nao_entendi,0.6444111527400042,0.31816371902056206,nao_entendi
+🖤🖤🖤,outros,nao_entendi,0.6444111527400042,0.31816371902056206,nao_entendi
+qual a marca do tenis?,outros,nao_entendi,0.6379042358525789,0.48647257968596813,nao_entendi
+Reagiu com 👍 à sua mensagem,outros,nao_entendi,0.637606952497299,0.3212240372554427,nao_entendi
+Reagiu com 👍 à sua mensagem,outros,nao_entendi,0.637606952497299,0.3212240372554427,nao_entendi
+Reagiu com 👍 à sua mensagem,outros,nao_entendi,0.637606952497299,0.3212240372554427,nao_entendi
+Reagiu com 👍 à sua mensagem,outros,nao_entendi,0.637606952497299,0.3212240372554427,nao_entendi
+qual foi a mensagem?,outros,nao_entendi,0.6255279413570887,0.2607525517818022,nao_entendi
+Qual a marca do tenis?,outros,nao_entendi,0.625472864112436,0.39703517022106105,nao_entendi
+Oba! ❤️,outros,nao_entendi,0.6235570296398913,0.27846244880447785,nao_entendi
+"os brincos argola frontal, não sei o nome da peça kkk",outros,nao_entendi,0.6232764251791811,0.43701226623985023,nao_entendi
+ahh reptilia adoro,outros,nao_entendi,0.6216504263026273,0.4096696456152913,nao_entendi
+Estou de olho nessa peça aqui 👇🏻,outros,nao_entendi,0.6210869038961141,0.42893607278865875,nao_entendi
+eu queria usar nas fotos que irei fazer amanhã,outros,nao_entendi,0.6148887985368542,0.4373509112801217,nao_entendi
+"Deixa eu tirar outra dúvida, vc faz consultoria de imagem/estilo tb? Se sim, como funciona?",outros,nao_entendi,0.6142406061827342,0.46317710725389805,nao_entendi
+Uma coisa de lindo!,outros,nao_entendi,0.6074509959669346,0.33370593504951007,nao_entendi
+Aiiiin que pena,outros,nao_entendi,0.6068414133545338,0.23783877507574658,nao_entendi
+"Vc poderia checar se houve algum problema com os correios de São Paulo, pois nem chegou no correio de Curitiba",outros,nao_entendi,0.6041830759351154,0.5227356834523884,nao_entendi
+Eu queria usar nas fotos que irei fazer amanhã,outros,nao_entendi,0.6041337852005558,0.4331068785136495,nao_entendi
+"toque em ""continuar"" para aceitar ou recusar o pedido.",outros,nao_entendi,0.6021843712609763,0.4507354778722572,nao_entendi
+"Os brincos argola frontal, não sei o nome da peça kkk",outros,nao_entendi,0.6014983186818297,0.39950986502559904,nao_entendi
+ai..me ajuda com o vídeo …. ainda não usei a blusa!!,outros,nao_entendi,0.6007956094160348,0.2745094029446355,nao_entendi
+uma coisa de lindo!,outros,nao_entendi,0.5970625980199928,0.3034590709517549,nao_entendi
+😁😁,outros,nao_entendi,0.5958076094092818,0.21876059187290914,nao_entendi
+😁😁,outros,nao_entendi,0.5958076094092818,0.21876059187290914,nao_entendi
+aiiiin que pena,outros,nao_entendi,0.5955872805681329,0.21774670952027003,nao_entendi
+Parece que o contato por aqui não é satisfatório...,outros,nao_entendi,0.5898309396031137,0.25291013884014923,nao_entendi
+"sim! a carol entrou em contato comigo! uma fofa , super atenciosa",outros,nao_entendi,0.58554572650197,0.3066086106232254,nao_entendi
+❤️❤️,outros,nao_entendi,0.5849090099124701,0.19112303495993693,nao_entendi
+❤️❤️,outros,nao_entendi,0.5849090099124701,0.19112303495993693,nao_entendi
+Reagiu com 👍🏿 à sua mensagem,outros,nao_entendi,0.5842757368019612,0.19239470906521156,nao_entendi
+Ibaaaa,outros,nao_entendi,0.5831136208021669,0.17770194992601723,nao_entendi
+Qual foi a mensagem?,outros,nao_entendi,0.5794785861685758,0.16732089246596066,nao_entendi
+Linda essa blusa,outros,nao_entendi,0.5783166498788902,0.3906434151771072,nao_entendi
+ibaaaa,outros,nao_entendi,0.5725463836883596,0.15973311204018764,nao_entendi
+parece que o contato por aqui não é satisfatório...,outros,nao_entendi,0.5720177569945748,0.22148935035520045,nao_entendi
+Comprei a jaqueta 😻,outros,nao_entendi,0.5709604471823092,0.33380571684830107,nao_entendi
+De onde é a sandália linda?,outros,nao_entendi,0.5708904550724001,0.3694507014579901,nao_entendi
+com quem falo b,outros,nao_entendi,0.5708267016258783,0.16263774146722337,nao_entendi
+Daniela.masson@hotmail.com,outros,nao_entendi,0.5707130194852893,0.3009229186341091,nao_entendi
+Macacão precisa ser mais soltinho,outros,nao_entendi,0.5685293567001956,0.31237759274456856,nao_entendi
+de onde é a sandália linda?,outros,nao_entendi,0.5664236209878134,0.3446557534106367,nao_entendi
+essa tshirt vai estar no evento? namoro tanto ela,outros,nao_entendi,0.5653593058562186,0.29971855178305623,nao_entendi
+que roupa bonita,outros,nao_entendi,0.5647515691206944,0.16814587605703668,nao_entendi
+Fiz o processo 2x Será q cobrou 2x?,outros,nao_entendi,0.5618903733061473,0.3361365153417949,nao_entendi
+fiz o processo 2x será q cobrou 2x?,outros,nao_entendi,0.5601946120665624,0.2943568152464084,nao_entendi
+🔥,outros,nao_entendi,0.5596826588554032,0.14081976986677736,nao_entendi
+🔥,outros,nao_entendi,0.5596826588554032,0.14081976986677736,nao_entendi
+"deixa eu tirar outra dúvida, vc faz consultoria de imagem/estilo tb? se sim, como funciona?",outros,nao_entendi,0.5571257594120234,0.3692990983133364,nao_entendi
+E a regata arrumadona?,outros,nao_entendi,0.5554466093492527,0.2228239170490139,nao_entendi
+macacão precisa ser mais soltinho,outros,nao_entendi,0.554254493687139,0.2660811381587818,nao_entendi
+😍 body MyBasic,outros,nao_entendi,0.5485131446086096,0.24210018144601714,nao_entendi
+e a regata arrumadona?,outros,nao_entendi,0.5440566335063514,0.19467948188800926,nao_entendi
+como posso fazer essa apresentacao?,outros,nao_entendi,0.541060295353895,0.34768096240891844,nao_entendi
+e achei muito difícil o contato com vcs,outros,nao_entendi,0.5383584692272972,0.1310869755587007,nao_entendi
+lindaaaa,outros,nao_entendi,0.5368556852511355,0.11069713397968411,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+👏,outros,nao_entendi,0.5350442909794123,0.24034416765205302,nao_entendi
+E achei muito difícil o contato com vcs,outros,nao_entendi,0.534527280847785,0.12374564334004795,nao_entendi
+Caraca muito!,outros,nao_entendi,0.5344555968630474,0.11069446223973817,nao_entendi
+🥰,outros,nao_entendi,0.5302389302585843,0.16098431932304752,nao_entendi
+🥰,outros,nao_entendi,0.5302389302585843,0.16098431932304752,nao_entendi
+🥰,outros,nao_entendi,0.5302389302585843,0.16098431932304752,nao_entendi
+🥰,outros,nao_entendi,0.5302389302585843,0.16098431932304752,nao_entendi
+🥰,outros,nao_entendi,0.5302389302585843,0.16098431932304752,nao_entendi
+🥰,outros,nao_entendi,0.5302389302585843,0.16098431932304752,nao_entendi
+é fato! perguntei pois está a procurando uma peça e não encontrava,outros,nao_entendi,0.5288042912864318,0.37026982294141453,nao_entendi
+não consigo deixá-la deste jeito,outros,nao_entendi,0.5256235607208403,0.12094056886752474,nao_entendi
+Preço?,outros,nao_entendi,0.5242752642693611,0.11833865685895523,nao_entendi
+Essa tshirt vai estar no evento? Namoro tanto ela,outros,nao_entendi,0.5116695812376936,0.22898280618055233,nao_entendi
+Como posso fazer essa apresentacao?,outros,nao_entendi,0.5082620980235162,0.29819935153559374,nao_entendi
+aí entro em contato vocês,outros,nao_entendi,0.5038075829437947,0.17671481357007424,nao_entendi
+"Oi Ana, obrigada pela resposta! Bom, eu vou continuar na torcida pra esse frete internacional se materializar um dia desses pq a gente quer comprar essas coisas lindas e usar logo, né? … infelizmente com o preço do dólar não tenho recebido as amigas aqui tão frequentemente mas é uma boa ideia também - obrigada!!!!",outros,saudacao,0.9318376374521996,0.9082247316192765,saudacao
+"oi ana, obrigada pela resposta! bom, eu vou continuar na torcida pra esse frete internacional se materializar um dia desses pq a gente quer comprar essas coisas lindas e usar logo, né? … infelizmente com o preço do dólar não tenho recebido as amigas aqui tão frequentemente mas é uma boa ideia também - obrigada!!!!",outros,saudacao,0.9243389882331999,0.8966871562671629,saudacao
+Vocês irao vender Oysho????,outros,saudacao,0.9164039645496181,0.8735127580776333,saudacao
+Olá Algum cupom de desconto na primeira compra?,outros,saudacao,0.8952306575797672,0.8408438265002532,saudacao
+vocês irao vender oysho????,outros,saudacao,0.8851924067443316,0.819136508195674,saudacao
+"Tudo bem Bia Gostaria muito de saber se nesta sua plataforma vc assiste aos clientes em encontrar produtos, lojas, etc?",outros,saudacao,0.8844633059674484,0.8249036352712369,saudacao
+olá! por favor vcs tem desconto para a primeira compra? obrigada!,outros,saudacao,0.8577855120328829,0.8036201869455407,saudacao
+"Olá, quanto custa a pantalona?",outros,saudacao,0.8562372243339359,0.8060798744458655,saudacao
+"olá, quanto custa a pantalona?",outros,saudacao,0.8507005458427171,0.7990582657393794,saudacao
+entrar em contato com a luciana nossa gerente comercial no email gerencia@elisaatheniense.com.br,outros,saudacao,0.8482991600755797,0.7697315060365826,saudacao
+https://revistamarieclaire.globo.com/moda/noticia/2024/08/bia-paes-de-barros-usa-expertise-em-consultoria-de-moda-e-lanca-curadoria-de-pecas-em-site-de-garimpo.ghtml?fbclid=pazxh0bgnhzw0cmteaaabtooq7rft69-14p2vewwiwwndqxvdl2mr4hkmrlgelvmjri66dz7p8__4_aem_r0ojw7surovb9xnwndzvwq,outros,saudacao,0.8229309739492501,0.6843504037182636,saudacao
+Feliz demais q vc gostou ! ☺️☺️☺️ me fala como funciona melhor pra vc e marcamos um call,outros,saudacao,0.8212921355099239,0.6796261762824234,saudacao
+"Oi, quanto custa a blusa modernosa? Tem GG ?",outros,saudacao,0.8114952615850699,0.7546830115393521,saudacao
+vc consegue rastrear o meu pedido?,outros,saudacao,0.8097823647202875,0.7564659645324852,saudacao
+Olá! Por favor vcs tem desconto para a primeira compra? Obrigada!,outros,saudacao,0.8047159858583179,0.7250787568047903,saudacao
+Vc consegue rastrear o meu pedido?,outros,saudacao,0.8029606968150357,0.6971159012935663,saudacao
+"olá, tudo bem?! meu nome é leonardo, trabalho na importadora @lulitex_textil @lulitexfashion vi o instagram da marca e vocês tem o perfil lulitex, muito sofisticação e bom gosto. trabalhamos com pronta entrega e importação de tecidos exclusivos de acordo com a demanda do cliente. nosso showroom tem um acervo enorme. será um prazer recebe-los em uma visita. poderia me passar o contato do estilo ou compras? desde já agradeço a atenção. att, leonardo josé e-mail: leonardo@lulitex.com.br pabx: +55 11 2105 1541 whatsapp: 11 9.9600-2547 www.lulitex.com.br",outros,saudacao,0.7942057222433538,0.6317682849440964,saudacao
+feliz demais q vc gostou ! ☺️☺️☺️ me fala como funciona melhor pra vc e marcamos um call,outros,saudacao,0.7911263855906004,0.612006448478194,saudacao
+Bia gosto muito das suas bolsas . Poderia passar umas dicas ?? Não encontrei no seu site …,outros,saudacao,0.7684969388313666,0.6958697921786032,saudacao
+tudo bem e vocês?,outros,saudacao,0.7665045839595915,0.5731302255765564,saudacao
+"boa tarde! na página da regata podrinha cinza eu não consigo ver as medidas dos tamanhos acima do g, que são justamente o que visto. poderia me enviar essas medidas dos tamanhos gg e xgg, por favor?",outros,saudacao,0.7663918836312416,0.5664764570742248,saudacao
+"olá!! tudo bem? estou apaixonada por essa jaqueta bacanuda da foto. o preço de 546, pula pra setecentos e tanto na hora de comprar. é isso mesmo? entra um valor de comissão na hora da compra?",outros,saudacao,0.7605338200870452,0.6016183442407935,saudacao
+Tudo bem e vocês?,outros,saudacao,0.7600089772384516,0.5668895708257181,saudacao
+"Boa tarde! Na página da Regata podrinha cinza eu não consigo ver as medidas dos tamanhos acima do G, que são justamente o que visto. Poderia me enviar essas medidas dos tamanhos GG e XGG, por favor?",outros,saudacao,0.7592963371210487,0.570948639499235,saudacao
+Ola! Estou tentando finalizar uma compra mas aparece o seguinte erro,outros,saudacao,0.7586921877153298,0.6747686341789259,saudacao
+bia gosto muito das suas bolsas . poderia passar umas dicas ?? não encontrei no seu site …,outros,saudacao,0.7567737365381665,0.6723084542415112,saudacao
+"Olá, tudo bem?! Meu nome é Leonardo, trabalho na importadora @Lulitex_textil @lulitexfashion Vi o instagram da marca e vocês tem o perfil Lulitex, muito sofisticação e bom gosto. Trabalhamos com pronta entrega e importação de tecidos exclusivos de acordo com a demanda do cliente. Nosso showroom tem um acervo enorme. Será um prazer recebe-los em uma visita. Poderia me passar o contato do estilo ou compras? Desde já agradeço a atenção. Att, Leonardo José E-mail: leonardo@lulitex.com.br PABX: +55 11 2105 1541 WHATSAPP: 11 9.9600-2547 www.lulitex.com.br",outros,saudacao,0.7548635001828359,0.5551245569897094,saudacao
+"queria ver sua sapateira pq tudo é lindíssimo, mas seus sapatos são escolhidos a dedo, tudo a ver com vc sempre… esse é da laiá né?",outros,saudacao,0.7389411348414398,0.5352234759103608,saudacao
+"oi, quanto custa a blusa modernosa? tem gg ?",outros,saudacao,0.7341440880674748,0.5996414789331389,saudacao
+"ola pessoal ! tudo bem?! sou a lalá cunha (@laisfcunha) e vim contar um pouco sobre o @coracora_studio estamos em sp e fazemos fotografia, vídeos em formato reels, direção de arte e styling para marcas, de acordo com a sua necessidade. fazemos trabalhos exclusivos para as marcas e, em breve (final de março) também faremos o nosso próximo shooting collab, uma diária criada para incluir várias marcas que têm produtos a serem fotografados, necessitam de um material de qualidade, mas que não querem ter um alto valor de investimento nisso. o proximo collab será em uma locação linda e as modelos foram escolhidas à dedo, e acho que combina muito com a marca de voces. abaixo mando mais infos. vamos conversar sobre essas possibilidades? fico aqui a disposição abraços, lalá 11 972686892",outros,saudacao,0.7323858205585321,0.49419401971263854,saudacao
+entrar em contato com a Luciana nossa gerente comercial no email gerencia@elisaatheniense.com.br,outros,saudacao,0.7259799959526702,0.5373313352962924,saudacao
+já comprei! e acabou de chegar!!,outros,saudacao,0.7002586517903123,0.45351690229927866,saudacao
+"Queria ver sua sapateira pq tudo é lindíssimo, mas seus sapatos são escolhidos a dedo, tudo a ver com vc sempre… esse é da laiá né?",outros,saudacao,0.6903889625950353,0.44312431194449475,saudacao
+quanto tá essa blusa?,outros,saudacao,0.6873623833133754,0.5848446029277041,saudacao
+"Olá!! Tudo bem? Estou APAIXONADA por essa jaqueta bacanuda da foto. O preço de 546, pula pra setecentos e tanto na hora de comprar. É isso mesmo? Entra um valor de comissão na hora da compra?",outros,saudacao,0.6868763754425292,0.4511257112753164,saudacao
+Já comprei! E acabou de chegar!!,outros,saudacao,0.6867054974305576,0.4299364524055991,saudacao
+"boa tarde! comprei a blusa pah , mas não consigo deixá-la parecida como da foto… acho que estou usando de forma errada… tem alguma tutorial de como vesti-la ? rs",outros,saudacao,0.6825830673830565,0.5218587566320977,saudacao
+"Ola pessoal ! Tudo bem?! Sou a Lalá Cunha (@laisfcunha) e vim contar um pouco sobre o @coracora_studio Estamos em SP e fazemos fotografia, vídeos em formato reels, direção de arte e styling para marcas, de acordo com a sua necessidade. Fazemos trabalhos exclusivos para as marcas e, em breve (final de março) também faremos o nosso próximo SHOOTING COLLAB, uma diária criada para incluir várias marcas que têm produtos a serem fotografados, necessitam de um material de qualidade, mas que não querem ter um alto valor de investimento nisso. O proximo collab será em uma locação linda e as modelos foram escolhidas à dedo, e acho que combina muito com a marca de voces. Abaixo mando mais infos. Vamos conversar sobre essas possibilidades? Fico aqui a disposição Abraços, Lalá 11 972686892",outros,saudacao,0.6785800837880668,0.38827702172042494,saudacao
+olá!! obrigada. qual a previsão de entrega?,outros,saudacao,0.6752810847970655,0.518843745566743,saudacao
+ola! estou tentando finalizar uma compra mas aparece o seguinte erro,outros,saudacao,0.649875224426903,0.5130922390884575,saudacao
+vamos pensar no q podemos fazer juntas🌺🌺,outros,saudacao,0.6411265953535102,0.43709519748685066,saudacao
+Td bem?,outros,saudacao,0.6390631887726639,0.3071442311429186,saudacao
+vc teria alguma informação sobre a minha encomenda?,outros,saudacao,0.6369515738496744,0.4227282160589212,saudacao
+td bem?,outros,saudacao,0.6326950919303803,0.2974936353298677,saudacao
+E esses sapatos incríveis? Teremos a chance de tê-los? Rs,outros,saudacao,0.618842381149796,0.32353101010144714,saudacao
+Consegue me informar de onde é essa sandália?,outros,saudacao,0.6178255716821172,0.48639739494975,saudacao
+"Bia, você acaba comigo com tantas coisas lindas do curadobia!!! Queria muito que tivesse frete internacional ( Canadá) eu fico aqui babando!!!! 😍",outros,saudacao,0.6172964753826404,0.474394929794134,saudacao
+"Eu sugiro q vcs verifiquem melhor as parcerias de fornecedores, pois não comprarei mais nesta Curadoria! Infelizmente, gosto mto do trabalho da Bia… mas assim inviabiliza!",outros,saudacao,0.613418955817956,0.37648714807890693,saudacao
+como eu poderia rastrear minha compra?,outros,saudacao,0.6109929700470739,0.3059342042582892,saudacao
+consegue me informar de onde é essa sandália?,outros,saudacao,0.6101704629468769,0.4512505777468715,saudacao
+ah que bom!! é lindíssima!! parabéns.,outros,saudacao,0.607636853940804,0.290800048959811,saudacao
+Quanto tá essa blusa?,outros,saudacao,0.6071340164783892,0.4749903174319119,saudacao
+Vamos marcar ☺️,outros,saudacao,0.6014888405952997,0.21897921093805311,saudacao
+"tudo bem bia gostaria muito de saber se nesta sua plataforma vc assiste aos clientes em encontrar produtos, lojas, etc?",outros,saudacao,0.5997250760809753,0.29856157815039247,saudacao
+Vamos pensar no q podemos fazer juntas🌺🌺,outros,saudacao,0.5953986968617314,0.3864104851534149,saudacao
+chama no mkt@gammba.com,outros,saudacao,0.5928533498495471,0.24439201735580413,saudacao
+Olá!! Obrigada. Qual a previsão de entrega?,outros,saudacao,0.5913191540519779,0.41882504686678523,saudacao
+vamos marcar ☺️,outros,saudacao,0.5887706342781328,0.19306026496643464,saudacao
+"bia, você acaba comigo com tantas coisas lindas do curadobia!!! queria muito que tivesse frete internacional ( canadá) eu fico aqui babando!!!! 😍",outros,saudacao,0.5883429618174522,0.3923208793705151,saudacao
+uauuu ameiii! linda saia!,outros,saudacao,0.5879991334975281,0.22799200015557708,saudacao
+tudo bem?,outros,saudacao,0.5872655725852636,0.19099098813656745,saudacao
+Tudo bem?,outros,saudacao,0.5858175732420137,0.1905950941632843,saudacao
+"Acho ótimo. Pode ser segunda 29 na parte da tarde. Estamos com 4horas de fuso, qual horário seria bom pra vc?",outros,saudacao,0.57903411655776,0.3023646703782183,saudacao
+Chama no mkt@gammba.com,outros,saudacao,0.5695550338516261,0.1820495018181178,saudacao
+"Boa tarde! Comprei a blusa Pah , mas não consigo deixá-la parecida como da foto… acho que estou usando de forma errada… tem alguma tutorial de como vesti-la ? Rs",outros,saudacao,0.569081707826457,0.3458598123340144,saudacao
+"acho ótimo. pode ser segunda 29 na parte da tarde. estamos com 4horas de fuso, qual horário seria bom pra vc?",outros,saudacao,0.5673705710879452,0.2709702556792363,saudacao
+Que lindoo😍,outros,saudacao,0.5671183566037348,0.20064463920449022,saudacao
+Email: adrianaleitecarvalho@gmail.com,outros,saudacao,0.5632792291463192,0.2012402171690889,saudacao
+email: adrianaleitecarvalho@gmail.com,outros,saudacao,0.5562934891936302,0.18709898713211026,saudacao
+"Aaaah, perdi! Quando vai ter offline de novo?",outros,saudacao,0.5559682520296674,0.3858900528414426,saudacao
+Qual o endereço???,outros,saudacao,0.5548233874805635,0.23111438749084312,saudacao
+que lindoo😍,outros,saudacao,0.5520728241323838,0.16647720734209703,saudacao
+meu tel 21 99245-3454,outros,saudacao,0.5472685858919242,0.21280738395504217,saudacao
+Como eu poderia rastrear minha compra?,outros,saudacao,0.5471027572482416,0.19026035806561098,saudacao
+Meu tel 21 99245-3454,outros,saudacao,0.5413988955814196,0.1728738792620511,saudacao
+"aaaah, perdi! quando vai ter offline de novo?",outros,saudacao,0.5407193369305573,0.3716683039757789,saudacao
+qual o endereço???,outros,saudacao,0.5390089335475245,0.192119355199374,saudacao
+"somos uma produtora de áudio visual, e achamos que seria interessante apresentar o nosso trabalho e portifólio!",outros,saudacao,0.5380307450581641,0.25738791470809086,saudacao
+"eu sugiro q vcs verifiquem melhor as parcerias de fornecedores, pois não comprarei mais nesta curadoria! infelizmente, gosto mto do trabalho da bia… mas assim inviabiliza!",outros,saudacao,0.5364290299178882,0.382477249430605,saudacao
+Sua camisa é linda,outros,saudacao,0.5332812325490831,0.23972191585250557,saudacao
+Isso é Curadobia hein!,outros,saudacao,0.5296948289887928,0.10317804916312084,saudacao
+pode me chamar novamente por favor?,outros,saudacao,0.5214237462767025,0.24085340279782136,saudacao
+"Somos uma produtora de áudio visual, e achamos que seria interessante apresentar o nosso trabalho e portifólio!",outros,saudacao,0.5213048882932322,0.22992230912364542,saudacao
+Pode me chamar novamente por favor?,outros,saudacao,0.5078074516159647,0.21078324995281722,saudacao
+acha melhor pegar maior?,outros,tamanho_modelagem,0.6377036450211236,0.43850360937891664,tamanho_modelagem
+"o produto é lindo , apesar de ter ficando um pouco grande",outros,tamanho_modelagem,0.6370531719873425,0.4292591391490447,tamanho_modelagem
+"O produto é lindo , apesar de ter ficando um pouco grande",outros,tamanho_modelagem,0.6203172647991705,0.3771529211580491,tamanho_modelagem
+Eu amo todos os seus looks! Combina 100% com o meu estilo! Queria ter todas as peças para mim! Pena que moro do outro lado do mundo.,pedido_sugestao,nao_entendi,0.4351162164614148,0.01117046574327707,outros
+eu amo todos os seus looks! combina 100% com o meu estilo! queria ter todas as peças para mim! pena que moro do outro lado do mundo.,pedido_sugestao,nao_entendi,0.430307559718142,0.013828908404624307,outros
+"Oi Bia, tudo bem? Me chamo Alice, sou sócia da Monti, uma marca de moda que preza por estilo atemporal e peças de qualidade. Estamos buscando consultoras de imagem parceiras para recomendar nossas peças aos seus clientes, e pensei que poderíamos criar algo bem legal juntas! O que acha de agendarmos um papo para te contar mais sobre a nossa história e a ideia de parceria? Fico no aguardo!",pedido_sugestao,saudacao,0.8694299706742029,0.7812199691797184,saudacao
+"oi bia, tudo bem? me chamo alice, sou sócia da monti, uma marca de moda que preza por estilo atemporal e peças de qualidade. estamos buscando consultoras de imagem parceiras para recomendar nossas peças aos seus clientes, e pensei que poderíamos criar algo bem legal juntas! o que acha de agendarmos um papo para te contar mais sobre a nossa história e a ideia de parceria? fico no aguardo!",pedido_sugestao,saudacao,0.8511468058964015,0.7515383275795622,saudacao
+Gosto muito dos looks mas percebo que ha muito jogo c volumes,pedido_sugestao,tamanho_modelagem,0.6829031403903495,0.4682605731295161,tamanho_modelagem
+gosto muito dos looks mas percebo que ha muito jogo c volumes,pedido_sugestao,tamanho_modelagem,0.6038730819580674,0.33251413503333405,tamanho_modelagem
+"Oieee, obrigada de verdade 💖",saudacao,agradecimento,0.7240233909935337,0.46195312082662865,agradecimento
+"oieee, obrigada de verdade 💖",saudacao,agradecimento,0.7020168409045867,0.4163656372604843,agradecimento
+Ola! Muitíssimo obrigada 💋,saudacao,agradecimento,0.5508124458537641,0.11028732486594028,agradecimento
+oii o site curadobia está fora do ar?? fui visitar através dos link da bio e não funcionou ... bjs,saudacao,erros_plataforma,0.749224466882119,0.5569356933947566,erros_plataforma
+Oii O site Curadobia está fora do ar?? Fui visitar através dos link da Bio e não funcionou ... bjs,saudacao,erros_plataforma,0.5841991304150649,0.2742701824174378,erros_plataforma
+"oi, as compras são direto no site?",saudacao,erros_plataforma,0.5401568016318246,0.17367185474910923,erros_plataforma
+"olá! bom dia! me chamo anelisa e gostaria de confirmar se meu pedido foi realizado. não sei se esse é o canal mais adequado para essa solicitação, mas como não achei no site um campo para falar com vocês, decidi vir aqui. fiz essa compra ontem pelo site e logo depois de finalizar, apareceu uma mensagem dizendo que o pagamento não estava confirmado. no entanto no site diz que o pagamento foi efetuado e não recebi nenhuma mensagem do banco dizendo que o pagamento foi negado. além disso também não recebi um e-mail com os dados do pedido. muito obrigada desde já!",saudacao,formas_pagamento,0.6030327522012006,0.30354229790670934,formas_pagamento
+"Olá! Bom dia! Me chamo Anelisa e gostaria de confirmar se meu pedido foi realizado. Não sei se esse é o canal mais adequado para essa solicitação, mas como não achei no site um campo para falar com vocês, decidi vir aqui. Fiz essa compra ontem pelo site e logo depois de finalizar, apareceu uma mensagem dizendo que o pagamento não estava confirmado. No entanto no site diz que o pagamento foi efetuado e não recebi nenhuma mensagem do banco dizendo que o pagamento foi negado. Além disso também não recebi um e-mail com os dados do pedido. Muito obrigada desde já!",saudacao,formas_pagamento,0.5887420377394857,0.2868218943636635,formas_pagamento
+oii,saudacao,nao_entendi,0.8280231242329136,0.6846884235801853,nao_entendi
+Oii,saudacao,nao_entendi,0.7829666939464713,0.5921046837122512,nao_entendi
+oie,saudacao,nao_entendi,0.7297045631567668,0.48103213173902093,nao_entendi
+oie,saudacao,nao_entendi,0.7297045631567668,0.48103213173902093,nao_entendi
+Oiee,saudacao,nao_entendi,0.7157695217383581,0.4526653273007222,nao_entendi
+oiee,saudacao,nao_entendi,0.7026830690085216,0.4250822237504017,nao_entendi
+Oi,saudacao,nao_entendi,0.7023421085311475,0.42507542315411256,nao_entendi
+Oi,saudacao,nao_entendi,0.7023421085311475,0.42507542315411256,nao_entendi
+Oie,saudacao,nao_entendi,0.6611804293148058,0.3489436818490169,nao_entendi
+Oie,saudacao,nao_entendi,0.6611804293148058,0.3489436818490169,nao_entendi
+Oieee,saudacao,nao_entendi,0.6298303970686029,0.27712949842386253,nao_entendi
+oieee,saudacao,nao_entendi,0.6079500207958134,0.23288235252270012,nao_entendi
+ola! muitíssimo obrigada 💋,saudacao,agradecimento,0.5310716849731373,0.07510724391247064,outros
+Olá! Muito obrigada!! Vou ver em breve!!,saudacao,agradecimento,0.5212599668067986,0.08072057778965275,outros
+Oi!,saudacao,saudacao,0.520201499059553,0.061689738983286835,outros
+oi,saudacao,nao_entendi,0.5147292279360293,0.0500991892964483,outros
+oi,saudacao,nao_entendi,0.5147292279360293,0.0500991892964483,outros
+"olá , bom dia",saudacao,saudacao,0.5115029443685838,0.05348310076076784,outros
+olá! bom dia,saudacao,saudacao,0.5091426819859618,0.06733672479258834,outros
+"Olá! Sua curadoria, projeto editorial e gráfico, são incríveis. Parabéns! Mas sua plataforma de e-commerce não funciona bem, estou desde ontem tentando fazer compras, mas páginas não carregam, carrinhos esvaziam. Muito difícil!",saudacao,erros_plataforma,0.5077572931652874,0.0711734529991373,outros
+"olá! sua curadoria, projeto editorial e gráfico, são incríveis. parabéns! mas sua plataforma de e-commerce não funciona bem, estou desde ontem tentando fazer compras, mas páginas não carregam, carrinhos esvaziam. muito difícil!",saudacao,saudacao,0.5052994315794291,0.05767138422932333,outros
+"olá, boa noite",saudacao,saudacao,0.5039742734462496,0.09267713152601381,outros
+Bom dia … obrigada 🙏🏻,saudacao,agradecimento,0.5039414283870197,0.01652934574179532,outros
+"olá, boa tarde",saudacao,saudacao,0.5026066595834782,0.06306781725694904,outros
+bom dia … obrigada 🙏🏻,saudacao,agradecimento,0.4992961286294113,0.007234811476081016,outros
+"Boa tarde. Estava previsto pra chegar hoje minha encomenda, porém nada foi entregue",saudacao,saudacao,0.49283729027628337,0.16466309237953464,outros
+olá! muito obrigada!! vou ver em breve!!,saudacao,agradecimento,0.4850585101879159,0.005399148930192776,outros
+Olá! Esse conjunto ainda não está disponvel no site de vcs né ? Poderia me dizer se onde é?,saudacao,saudacao,0.4631594448059342,0.24980225372832177,outros
+"Mas, ficou grande😫",troca_devolucao,nao_entendi,0.6910620886323414,0.529781418210011,nao_entendi
+"mas, ficou grande😫",troca_devolucao,nao_entendi,0.6449508886910637,0.44638441787402994,nao_entendi
+"não vou trocar , vou tentar reduzir o gancho",troca_devolucao,nao_entendi,0.60468323540086,0.44814882159889946,nao_entendi
+"Não vou trocar , vou tentar reduzir o gancho",troca_devolucao,nao_entendi,0.596088367796471,0.43200420703629094,nao_entendi
+"Olá meninas, tudo bem? Comprei a saia preta da d aura em outubro, precisei trocar (foram rapidíssimos), mas só hoje eu soube que não levaram a sacola com a peça a ser trocada (ficou este tempo todo na minha portaria). Como faço?",troca_devolucao,saudacao,0.4762464206859285,0.09306151805230839,outros
+Fiz uma compra de um casaco com vcs e não vestiu bem. Gostaria de trocar por uma calça fresquinha tamanho M.,troca_devolucao,tamanho_modelagem,0.4568771770642266,0.23561635141503945,outros
+Acabei de comprar um conjunto. Se não servir posso trocar? Pelo seu cep deve ser perto da minha casa. O meu 04531-020,troca_devolucao,nao_entendi,0.44522279479211396,0.13063386440176983,outros
+acabei de comprar um conjunto. se não servir posso trocar? pelo seu cep deve ser perto da minha casa. o meu 04531-020,troca_devolucao,saudacao,0.38405843918998883,0.01254681814219466,outros
+estou tentando contato para devolução de mercadoria e ninguém me atende! nem por whatsapp e nem e-mail. comprei um vestido que quero devolver. como devo proceder? cristina hees 11 970499507,troca_devolucao,saudacao,0.6924529949074708,0.4632424017277572,saudacao
+"olá meninas, tudo bem? comprei a saia preta da d aura em outubro, precisei trocar (foram rapidíssimos), mas só hoje eu soube que não levaram a sacola com a peça a ser trocada (ficou este tempo todo na minha portaria). como faço?",troca_devolucao,saudacao,0.6095841081533901,0.341443597966703,saudacao
+Estou tentando contato para devolução de mercadoria e ninguém me atende! Nem por WhatsApp e nem e-mail. Comprei um vestido que quero devolver. Como devo proceder? Cristina Hees 11 970499507,troca_devolucao,saudacao,0.6064923875672341,0.2890724030468564,saudacao
+"posso trocar, caso eu experimente e prefira uma maior?",troca_devolucao,tamanho_modelagem,0.6184952417004358,0.4200742623877346,tamanho_modelagem
+fiz uma compra de um casaco com vcs e não vestiu bem. gostaria de trocar por uma calça fresquinha tamanho m.,troca_devolucao,tamanho_modelagem,0.6128278926556249,0.5134178634885256,tamanho_modelagem
+"Posso trocar, caso eu experimente e prefira uma maior?",troca_devolucao,tamanho_modelagem,0.5917887716648439,0.40088782742051565,tamanho_modelagem
+"caso não fique com, como funciona a troca?",troca_devolucao,troca_devolucao_politica,0.8796482666298039,0.8190940123042479,troca_devolucao_politica
+"Caso não fique com, como funciona a troca?",troca_devolucao,troca_devolucao_politica,0.8707262773769394,0.8044751512912465,troca_devolucao_politica
+Como proceder p troca?,troca_devolucao,troca_devolucao_politica,0.8331103110885462,0.6997195591976215,troca_devolucao_politica
+como proceder p troca?,troca_devolucao,troca_devolucao_politica,0.7936713499004419,0.6246168868002758,troca_devolucao_politica
+como é o processo da troca?,troca_devolucao,troca_devolucao_politica,0.7819036275970513,0.6273738918048753,troca_devolucao_politica
+Como é o processo da troca?,troca_devolucao,troca_devolucao_politica,0.7602592268511948,0.5881363232667288,troca_devolucao_politica
+"Sobre a troca da calça que comprei (quero trocar por um tamanho menor). Recebi um e-mail de vcs no dia 29/08/24 , respondi mas, dps disso não tive mais retorno",troca_devolucao,troca_devolucao_politica,0.6661563620665484,0.5090979467395069,troca_devolucao_politica
+"sobre a troca da calça que comprei (quero trocar por um tamanho menor). recebi um e-mail de vcs no dia 29/08/24 , respondi mas, dps disso não tive mais retorno",troca_devolucao,troca_devolucao_politica,0.6242782138960076,0.45930604973333966,troca_devolucao_politica

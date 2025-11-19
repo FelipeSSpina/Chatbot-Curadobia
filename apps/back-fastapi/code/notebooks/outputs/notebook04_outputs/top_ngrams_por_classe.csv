@@ -1,0 +1,145 @@
+classe,term,weight
+agradecimento,obrigada,4.4442211209315365
+agradecimento,perfeito,1.8692289770041948
+agradecimento,maravilhosa,1.3606291511640427
+agradecimento,muito obrigada,1.3390082930468237
+agradecimento,obrigada pelo,1.178027202243104
+agradecimento,pelo retorno,1.1104348929961159
+agradecimento,pelo,1.0905926962390142
+agradecimento,mto obrigada,0.9933900800685036
+agradecimento,mto,0.8289838005438737
+agradecimento,muito,0.8247042732474568
+agradecimento,retorno,0.8198852467637877
+agradecimento,ajudar,0.7927558569756135
+como_comprar,whatsapp,3.8244972182429278
+como_comprar,loja,2.24275581300028
+como_comprar,como comprar,2.14072693137111
+como_comprar,onde,1.518734047140828
+como_comprar,pelo,1.495170193151709
+como_comprar,falar com,1.4125862740601136
+como_comprar,falar,1.3527921771406124
+como_comprar,comprar,1.3526269792374737
+como_comprar,meu whatsapp,1.2338024614201497
+como_comprar,por,1.1232098222621623
+como_comprar,sucesso,0.9774801517247297
+como_comprar,torcendo,0.9727002986003922
+despedida,beijos,4.844142205054699
+despedida,agora,2.9746594264102937
+despedida,até,2.8267466016469727
+despedida,nada,2.525611611537778
+despedida,nesta,-0.00365119738963398
+despedida,vc poderia,-0.0041337337356439985
+despedida,para essa,-0.004222250767677405
+despedida,outra dúvida,-0.004622459674518155
+despedida,outra,-0.004622459674518155
+despedida,gostaria muito,-0.004865664752173835
+despedida,não sei,-0.004869799496146549
+despedida,eu já,-0.004937473705788289
+disponibilidade_estoque,tem,3.3205540746537205
+disponibilidade_estoque,branca,1.632270504256541
+disponibilidade_estoque,reposição,1.5586019559662818
+disponibilidade_estoque,estoque,1.443808001681069
+disponibilidade_estoque,pro estoque,1.2004205436357716
+disponibilidade_estoque,pro,1.2004205436357716
+disponibilidade_estoque,vai,1.1995213415692676
+disponibilidade_estoque,dela,1.0383387000661055
+disponibilidade_estoque,vai ter,1.03249658597242
+disponibilidade_estoque,eu,1.0166750491722154
+disponibilidade_estoque,tem um,1.0139612100864024
+disponibilidade_estoque,essa,1.0114602238156796
+erros_plataforma,seguinte,2.246231413227218
+erros_plataforma,consigo,2.059916469556845
+erros_plataforma,não consigo,2.059916469556845
+erros_plataforma,la,1.9682265591561736
+erros_plataforma,uma compra,1.9003012252108074
+erros_plataforma,consigo deixá,1.5244288533462904
+erros_plataforma,deixá,1.5244288533462904
+erros_plataforma,deixá la,1.5244288533462904
+erros_plataforma,dos tamanhos,1.271291064638072
+erros_plataforma,estou tentando,1.2652501838018626
+erros_plataforma,tentando,1.188868476640886
+erros_plataforma,finalizar,1.1523787933006246
+formas_pagamento,preço,2.8548680653355953
+formas_pagamento,custa,1.5859623643106822
+formas_pagamento,quanto custa,1.5859623643106822
+formas_pagamento,compra,1.4143955115449425
+formas_pagamento,cupom,1.4128981914397314
+formas_pagamento,quanto,1.409602229217705
+formas_pagamento,vi,1.4012508566509023
+formas_pagamento,desconto,1.3951205297044103
+formas_pagamento,primeira,1.3951205297044103
+formas_pagamento,primeira compra,1.3951205297044103
+formas_pagamento,qual,1.2958468969773071
+formas_pagamento,os,1.2503681463258676
+frete_prazo,rastrear,2.766107214444119
+frete_prazo,entrega,2.452978328464311
+frete_prazo,de entrega,2.114621792112204
+frete_prazo,frete,1.9629694934561865
+frete_prazo,dias,1.8310709657934547
+frete_prazo,minha compra,1.3490300174374326
+frete_prazo,consegue,1.2998422394243199
+frete_prazo,poderia,1.2610045024702368
+frete_prazo,meu pedido,1.2268507349881286
+frete_prazo,internacional,1.2029650123301237
+frete_prazo,coisas lindas,1.2029650123301237
+frete_prazo,frete internacional,1.2029650123301237
+nao_entendi,linda,0.8218624360579836
+nao_entendi,chegou,0.5892177164410993
+nao_entendi,tô,0.5337348883457816
+nao_entendi,adorei,0.5313860756363161
+nao_entendi,11,0.5001004881977901
+nao_entendi,ainda,0.49815657334066804
+nao_entendi,maravilha,0.47349083621429794
+nao_entendi,endereço,0.44555593607910166
+nao_entendi,joia,0.41607645212022437
+nao_entendi,sim,0.4144904322006436
+nao_entendi,email,0.4140427711398067
+nao_entendi,adoro,0.4091498061378704
+pedir_sugestao_produto,looks,2.80276344709551
+pedir_sugestao_produto,gosto muito,1.9077108092308528
+pedir_sugestao_produto,peças,1.8276310719870117
+pedir_sugestao_produto,que,1.7112902302692699
+pedir_sugestao_produto,muito,1.6822028059841045
+pedir_sugestao_produto,gosto,1.579645118953534
+pedir_sugestao_produto,dos,1.494670027430663
+pedir_sugestao_produto,seus,1.3511135152376585
+pedir_sugestao_produto,estilo,1.2474627851128823
+pedir_sugestao_produto,para,1.0876914486780311
+pedir_sugestao_produto,com meu,0.8789853806718486
+pedir_sugestao_produto,moro,0.8758899106777869
+saudacao,olá,2.1259884818975388
+saudacao,ola,1.6607620990097374
+saudacao,boa,1.5933679109904189
+saudacao,bom dia,1.5313095893603388
+saudacao,oi,1.5122566168877045
+saudacao,oii,1.4406407090238145
+saudacao,dia,1.4152533546829102
+saudacao,tarde,1.3901274745550416
+saudacao,oieee,1.3050324424807496
+saudacao,boa tarde,1.2762672196061515
+saudacao,tudo,1.2377407418578046
+saudacao,bom,1.0987773517821386
+tamanho_modelagem,tamanho,3.048851757603507
+tamanho_modelagem,medidas,1.4703218082267098
+tamanho_modelagem,quadril,1.4242170826881737
+tamanho_modelagem,numeração,1.2877011187419118
+tamanho_modelagem,42,1.2205897242698016
+tamanho_modelagem,calça,1.1699318325445267
+tamanho_modelagem,ficou,0.9767687468754509
+tamanho_modelagem,36,0.9481199493986991
+tamanho_modelagem,visto,0.9144982754447268
+tamanho_modelagem,as,0.8451045128271588
+tamanho_modelagem,38,0.8424933286387649
+tamanho_modelagem,fica,0.804283528255693
+troca_devolucao_politica,trocar,3.3839788834081297
+troca_devolucao_politica,troca,2.9849205481806935
+troca_devolucao_politica,ficou,1.8588506765552184
+troca_devolucao_politica,grande,1.8223772012927488
+troca_devolucao_politica,como,1.7877896433756009
+troca_devolucao_politica,proceder,1.561748414020248
+troca_devolucao_politica,posso trocar,1.3745772231812103
+troca_devolucao_politica,caso,1.3643779366475697
+troca_devolucao_politica,não,1.2703820317929917
+troca_devolucao_politica,vou,1.1169963911286303
+troca_devolucao_politica,processo,1.1026688036226429
+troca_devolucao_politica,nem,1.0979953915507998

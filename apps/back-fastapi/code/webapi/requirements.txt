@@ -1,0 +1,4 @@
+﻿# file: code/webapi/requirements.txt
+fastapi==0.116.2
+uvicorn[standard]==0.30.6
+sse-starlette==2.1.0

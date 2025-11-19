@@ -1,0 +1,15 @@
+{
+  "created_at": "20250910-230053",
+  "base_model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "llm_base": "tinyllama",
+  "hyperparams": {
+    "learning_rate": 0.0002,
+    "num_epochs": 1,
+    "batch_size": 1,
+    "max_len": 512,
+    "lora_r": 8,
+    "lora_alpha": 16,
+    "lora_dropout": 0.05
+  },
+  "train_dataset_lines": 458
+}

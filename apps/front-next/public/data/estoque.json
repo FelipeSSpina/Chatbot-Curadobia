@@ -1,0 +1,39 @@
+
+[
+  { "marca": "Angela Motta", "sku": "AM02607", "nome": "BLUSA MOLONA", "tamanho": "G", "quantidade": 3 },
+  { "marca": "Angela Motta", "sku": "AM02607", "nome": "BLUSA MOLONA", "tamanho": "P", "quantidade": 1 },
+  { "marca": "Angela Motta", "sku": "AM02606", "nome": "CAMISA DE PRESENÇA", "tamanho": "M", "quantidade": 3 },
+  { "marca": "Angela Motta", "sku": "AM02606", "nome": "CAMISA DE PRESENÇA", "tamanho": "P", "quantidade": 3 },
+  { "marca": "Angela Motta", "sku": "AM02601", "nome": "CAMISETA WOW", "tamanho": "P", "quantidade": 2 },
+
+  { "marca": "Cecilia Echenique", "sku": "CE001001", "nome": "PANTALONA PAH", "tamanho": "M", "quantidade": 3 },
+  { "marca": "Cecilia Echenique", "sku": "CE001002", "nome": "CALÇA TRANQUILONA", "tamanho": "36", "quantidade": 1 },
+  { "marca": "Cecilia Echenique", "sku": "CE001002", "nome": "CALÇA TRANQUILONA", "tamanho": "42", "quantidade": 1 },
+
+  { "marca": "D-Aura", "sku": "DA020010", "nome": "BLUSA FELIZONA", "tamanho": "T1", "quantidade": 5 },
+  { "marca": "D-Aura", "sku": "DA020010", "nome": "BLUSA FELIZONA", "tamanho": "T3", "quantidade": 3 },
+  { "marca": "D-Aura", "sku": "DA020011", "nome": "CALÇA FACINHA", "tamanho": "T1", "quantidade": 6 },
+  { "marca": "D-Aura", "sku": "DA020011", "nome": "CALÇA FACINHA", "tamanho": "T3", "quantidade": 7 },
+  { "marca": "D-Aura", "sku": "DA020001", "nome": "SAIA ÚNICA", "tamanho": "T3", "quantidade": 9 },
+
+  { "marca": "Fernanda Yamamoto", "sku": "FY027008", "nome": "BLUSA MODERNOSA", "tamanho": "38", "quantidade": 10 },
+  { "marca": "Fernanda Yamamoto", "sku": "FY027008", "nome": "BLUSA MODERNOSA", "tamanho": "40", "quantidade": 8 },
+  { "marca": "Fernanda Yamamoto", "sku": "FY027001", "nome": "MACACÃO PRA FRENTEX", "tamanho": "42-44", "quantidade": 5 },
+  { "marca": "Fernanda Yamamoto", "sku": "FY027011", "nome": "VESTIDO URBANÓIDE", "tamanho": "38-40", "quantidade": 6 },
+
+  { "marca": "Jörg", "sku": "JG031003", "nome": "BLUSA GALERISTA", "tamanho": "M", "quantidade": 11 },
+  { "marca": "Jörg", "sku": "JG031001", "nome": "VESTIDO ESCULTURAL", "tamanho": "PP", "quantidade": 8 },
+
+  { "marca": "Lounge 39", "sku": "LO004001", "nome": "BLUSA PAH", "tamanho": "42", "quantidade": 15 },
+  { "marca": "Lounge 39", "sku": "LO004002", "nome": "BLUSA PHYNA", "tamanho": "44", "quantidade": 13 },
+
+  { "marca": "MyBasic", "sku": "MB006008", "nome": "CAMISA TÔ CHIC", "tamanho": "M", "quantidade": 8 },
+  { "marca": "MyBasic", "sku": "MB006015", "nome": "VESTIDO DOIS EM UM", "tamanho": "M", "quantidade": 2 },
+
+  { "marca": "Nauanin", "sku": "CHK0101", "nome": "CALÇA ACINTURANTE", "tamanho": "40", "quantidade": 2 },
+  { "marca": "Nauanin", "sku": "CA10.011", "nome": "CALÇA FRESQUINHA", "tamanho": "44", "quantidade": 1 },
+  { "marca": "Nauanin", "sku": "CJ010101", "nome": "JEANS GOSTOSÃO", "tamanho": "38", "quantidade": 4 },
+
+  { "marca": "Olive You", "sku": "OY01005", "nome": "CAMISA JAQUETOSA", "tamanho": "M", "quantidade": 11 },
+  { "marca": "Olive You", "sku": "OY01002", "nome": "MACACÃO COOL", "tamanho": "38", "quantidade": 3 }
+]

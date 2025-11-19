@@ -1,0 +1,15 @@
+coluna,dtype,n,missing,%_missing,exemplo
+arquivo_origem,object,1025,0,0.0,Consolidação das mensagens do INSTAGRAM.csv
+autor,object,1025,0,0.0,biapaesdebarros_1418872999507501
+dia,object,1025,0,0.0,2024-07-02
+flag_ruido,bool,1025,0,0.0,False
+lado,object,1025,0,0.0,cliente
+lang,object,1025,0,0.0,und
+len_tokens,int64,1025,0,0.0,0
+lscore,float64,1025,0,0.0,0.0
+mensagem_lemma,object,1025,207,20.2,
+mensagem_norm,object,1025,0,0.0,😍
+origem,object,1025,0,0.0,instagram_csv
+texto,object,1025,0,0.0,😍
+texto_clean2,object,1025,222,21.66,body mybasic
+ts,object,1025,0,0.0,2024-07-02 12:29:00.000

@@ -1,0 +1,4 @@
+﻿id,brand,name,category,color,material,price,sizes,stock_json,description
+1,Curadobia,Blazer Alfaiataria Ava,blazer,bege,linho,399.9,"PP;P;M","{""PP"":1,""P"":2,""M"":3}","Blazer de linho com recorte"
+2,Curadobia,Vestido Midi Luna,vestido,preto,viscose,299.9,"P;M;G","{""P"":2,""M"":4,""G"":0}","Vestido midi fluido"
+3,Curadobia,Calça Reta Clara,calça,off-white,algodão,249.9,"36;38;40","{""36"":1,""38"":3,""40"":1}","Calça reta clássica"

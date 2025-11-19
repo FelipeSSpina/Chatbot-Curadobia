@@ -1,0 +1,24 @@
+{
+  "created_at": "2025-08-28T15:38:25.052220",
+  "seed": 42,
+  "model_type": "LogisticRegression",
+  "n_classes": 12,
+  "classes": [
+    "agradecimento",
+    "como_comprar",
+    "despedida",
+    "disponibilidade_estoque",
+    "erros_plataforma",
+    "formas_pagamento",
+    "frete_prazo",
+    "nao_entendi",
+    "pedir_sugestao_produto",
+    "saudacao",
+    "tamanho_modelagem",
+    "troca_devolucao_politica"
+  ],
+  "metrics": {
+    "test_acc": 0.6385542168674698,
+    "test_f1_macro": 0.24944723468750932
+  }
+}

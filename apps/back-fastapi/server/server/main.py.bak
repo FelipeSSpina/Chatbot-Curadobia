@@ -1,0 +1,91 @@
+﻿from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
+from typing import Optional, Dict, Any
+from datetime import datetime
+import os, asyncio
+import inspect
+
+def _safe_call(fn, message, **kw):
+    # Envia sempre meta/profile_json; o wrapper do autodiscover aceita **kwargs
+    meta = kw.get("meta") or {}
+    call_kw = {"meta": meta, "profile_json": meta.get("profile_json", {})}
+    if "session_id" in kw:
+        call_kw["session_id"] = kw["session_id"]
+    return fn(message, **call_kw)
+
+from .autodiscover import load_pipeline
+from sse_starlette.sse import EventSourceResponse
+import inspect
+
+def _safe_call(fn, message, **kw):
+    # Envia sempre meta/profile_json; o wrapper do autodiscover aceita **kwargs
+    meta = kw.get("meta") or {}
+    call_kw = {"meta": meta, "profile_json": meta.get("profile_json", {})}
+    if "session_id" in kw:
+        call_kw["session_id"] = kw["session_id"]
+    return fn(message, **call_kw)
+
+PIPELINE_SPEC = os.getenv("CURADOBIA_PIPELINE")  # ex.: .\code\chat\pipeline.py:respond
+respond_fn, info = load_pipeline(PIPELINE_SPEC)
+
+app = FastAPI(title="Curadobia Chat API", version="1.0.0")
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000","http://127.0.0.1:3000","*"],
+    allow_credentials=True, allow_methods=["*"], allow_headers=["*"]
+)
+
+class ChatIn(BaseModel):
+    message: Optional[str] = None
+    prompt:  Optional[str] = None
+    session_id: Optional[str] = None
+    meta: Optional[Dict[str, Any]] = None
+
+@app.get("/health")
+def health():
+    return {"ok": True, "ts": datetime.utcnow().isoformat(), "pipeline": info}
+
+def _call_pipeline(text: str, session_id: Optional[str] = None, meta: Optional[Dict[str, Any]] = None) -> str:
+    out = _safe_call(respond_fn, text, session_id=session_id, meta=(meta or {}))
+    if isinstance(out, dict):
+        for k in ("reply","text","message","output"):
+            v = out.get(k)
+            if isinstance(v, str):
+                return v
+        return str(out)
+    return str(out)
+
+@app.post("/api/chat")
+async def chat(inp: ChatIn):
+    text = (inp.message or inp.prompt or "").strip()
+    if not text:
+        raise HTTPException(status_code=400, detail="mensagem vazia")
+    reply = _call_pipeline(text, inp.session_id, inp.meta)
+    return {"reply": reply}
+
+@app.get("/api/stream")
+async def stream(prompt: str, session_id: Optional[str] = None):
+    async def gen():
+        import sys
+        text = (prompt or "").strip()
+        print(f"[SSE] STREAM OPEN  session_id={session_id} prompt={text!r}", file=sys.stdout, flush=True)
+        if not text:
+            yield {"data": ""}
+            print("[SSE] STREAM CLOSE (empty)", file=sys.stdout, flush=True)
+            return
+        reply = _call_pipeline(text, session_id)
+        for tok in reply.split():
+            yield {"data": tok + " "}
+            await asyncio.sleep(0.01)
+        yield {"data": "[[DONE]]"}
+        print("[SSE] STREAM CLOSE (done)", file=sys.stdout, flush=True)
+
+    return EventSourceResponse(
+        gen(),
+        headers={
+            "Content-Type": "text/event-stream; charset=utf-8",
+            "Cache-Control": "no-cache",
+            "X-Accel-Buffering": "no",
+        },
+    )

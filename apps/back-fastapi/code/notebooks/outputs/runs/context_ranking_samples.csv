@@ -1,0 +1,10 @@
+query,rank,name,category,color,material,price,sizes,score_total,sim,score_tamanho,score_estilo
+Quero um vestido midi preto para um jantar.,1,Vestido Midi Luna,vestido,preto,viscose,299.9,P;M;G,1.4305135011672974,0.43051350116729736,1.0,0.0
+Quero um vestido midi preto para um jantar.,2,Blazer Alfaiataria Ava,blazer,bege,linho,399.9,PP;P;M,1.387947928905487,0.18794792890548706,1.0,0.2
+Quero um vestido midi preto para um jantar.,3,Calça Reta Clara,calça,off-white,algodão,249.9,36;38;40,1.2290731072425842,0.22907310724258423,1.0,0.0
+Preciso de um blazer de linho para o trabalho.,1,Blazer Alfaiataria Ava,blazer,bege,linho,399.9,PP;P;M,1.5751482963562011,0.37514829635620117,1.0,0.2
+Preciso de um blazer de linho para o trabalho.,2,Vestido Midi Luna,vestido,preto,viscose,299.9,P;M;G,1.1403027921915054,0.14030279219150543,1.0,0.0
+Preciso de um blazer de linho para o trabalho.,3,Calça Reta Clara,calça,off-white,algodão,249.9,36;38;40,1.3457888662815094,0.3457888662815094,1.0,0.0
+Busco uma calça reta off-white para escritório.,1,Vestido Midi Luna,vestido,preto,viscose,299.9,P;M;G,1.3149446547031403,0.31494465470314026,1.0,0.0
+Busco uma calça reta off-white para escritório.,2,Blazer Alfaiataria Ava,blazer,bege,linho,399.9,PP;P;M,1.2980430394411087,0.0980430394411087,1.0,0.2
+Busco uma calça reta off-white para escritório.,3,Calça Reta Clara,calça,off-white,algodão,249.9,36;38;40,1.3056514859199524,0.3056514859199524,1.0,0.0

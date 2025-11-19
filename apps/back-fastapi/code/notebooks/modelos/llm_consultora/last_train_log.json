@@ -1,0 +1,9 @@
+{
+  "base_model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "llm_base": "TINYLLAMA",
+  "epochs": 1,
+  "lr": null,
+  "steps": null,
+  "loss_last10": [],
+  "loss_mean": null
+}

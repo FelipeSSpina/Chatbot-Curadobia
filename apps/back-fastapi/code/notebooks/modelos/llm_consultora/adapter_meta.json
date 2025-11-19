@@ -1,0 +1,10 @@
+{
+  "base_model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "llm_base": "TINYLLAMA",
+  "max_len": 512,
+  "epochs": 1,
+  "note": "Run atual (adapter existente) — anotado pós-treino",
+  "dataset_rows": 458,
+  "dataset_sha1": "1b62fb2a2273fc3991f78548e4a0f49d852f6f42",
+  "timestamp_meta": "2025-09-11 17:28:22"
+}

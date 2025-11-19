@@ -1,0 +1,4 @@
+modelo,kfold_acc,kfold_macroF1
+LinearSVC,0.785,0.694
+LogReg_bal,0.75,0.69
+ComplementNB,0.761,0.662

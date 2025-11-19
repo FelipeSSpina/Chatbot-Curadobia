@@ -1,0 +1,29 @@
+﻿"use client";
+
+export async function postChat(prompt: string): Promise<{ reply: string }> {
+  const r = await fetch("/webapi/api/chat", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ prompt })
+  });
+  if (!r.ok) throw new Error(`POST /chat falhou: ${r.status}`);
+  return r.json();
+}
+
+export async function streamChat(
+  prompt: string,
+  onToken: (t: string) => void
+): Promise<void> {
+  return new Promise((resolve, reject) => {
+    // SSE usa GET; enviaremos o prompt por querystring.
+    const url = `/webapi/api/stream?prompt=${encodeURIComponent(prompt)}`;
+    const es = new EventSource(url);
+
+    es.onmessage = (ev) => {
+      const data = (ev.data || "").trim();
+      if (data === "[[DONE]]") { es.close(); resolve(); return; }
+      if (data) onToken(data);
+    };
+    es.onerror = (err) => { es.close(); reject(err); };
+  });
+}

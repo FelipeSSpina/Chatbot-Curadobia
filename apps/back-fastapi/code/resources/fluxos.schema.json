@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fluxos Conversacionais Schema (final v1)",
+  "type": "object",
+  "required": [
+    "version",
+    "metadata",
+    "intents",
+    "entities",
+    "templates",
+    "actions",
+    "states",
+    "fallbacks"
+  ],
+  "properties": {
+    "version": { "type": "string" },
+    "metadata": {
+      "type": "object",
+      "required": ["project", "locale"],
+      "properties": {
+        "project": { "type": "string" },
+        "locale": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "intents": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "entities": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "type": { "type": "string" },
+          "enum": {
+            "type": "array",
+            "items": { "type": ["string", "number"] }
+          },
+          "properties": { "type": "object" },
+          "items": { "type": "object" }
+        },
+        "additionalProperties": true
+      }
+    },
+    "templates": {
+      "type": "object",
+      "additionalProperties": { "type": "string" }
+    },
+    "actions": { "type": "array", "items": { "type": "string" } },
+    "states": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "entry": {
+            "type": "object",
+            "properties": { "template": { "type": "string" } },
+            "additionalProperties": true
+          },
+          "timeout": { "type": "integer", "minimum": 0 },
+          "transitions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "intent": { "type": "string" },
+                "guard": { "type": "string" },
+                "action": { "type": "string" },
+                "next": { "type": "string" }
+              },
+              "required": ["next"],
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "fallbacks": {
+      "type": "object",
+      "properties": {
+        "on_unrecognized_intent": {
+          "type": "object",
+          "properties": {
+            "template": { "type": "string" },
+            "next": { "type": "string" }
+          },
+          "required": ["template", "next"],
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": false
+}

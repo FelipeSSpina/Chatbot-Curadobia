@@ -1,0 +1,10 @@
+query,rank,score_total,sim,score_tamanho,score_estilo,brand,name,category,color,material,price,sizes
+Quero um vestido midi preto para um jantar.,1,0.6327004075050353,0.6181434392929077,1.0,0.0,Curadobia,Vestido Midi Luna,vestido,preto,viscose,299.9,P;M;G
+Quero um vestido midi preto para um jantar.,2,0.46261770129203794,0.3751681447029114,1.0,0.0,Curadobia,Calça Reta Clara,calça,off-white,algodão,249.9,36;38;40
+Quero um vestido midi preto para um jantar.,3,0.3665023100376129,0.20928901433944702,1.0,0.2,Curadobia,Blazer Alfaiataria Ava,blazer,bege,linho,399.9,PP;P;M
+Preciso de um blazer de linho para o trabalho.,1,0.5022558331489563,0.43179404735565186,1.0,0.0,Curadobia,Calça Reta Clara,calça,off-white,algodão,249.9,36;38;40
+Preciso de um blazer de linho para o trabalho.,2,0.459927950501442,0.34275421500205994,1.0,0.2,Curadobia,Blazer Alfaiataria Ava,blazer,bege,linho,399.9,PP;P;M
+Preciso de um blazer de linho para o trabalho.,3,0.28809128105640414,0.12584468722343445,1.0,0.0,Curadobia,Vestido Midi Luna,vestido,preto,viscose,299.9,P;M;G
+Busco uma calça reta off-white para escritório.,1,0.5662260055541992,0.5231800079345703,1.0,0.0,Curadobia,Calça Reta Clara,calça,off-white,algodão,249.9,36;38;40
+Busco uma calça reta off-white para escritório.,2,0.3917584359645844,0.2739406228065491,1.0,0.0,Curadobia,Vestido Midi Luna,vestido,preto,viscose,299.9,P;M;G
+Busco uma calça reta off-white para escritório.,3,0.27939516052603725,0.08485022932291031,1.0,0.2,Curadobia,Blazer Alfaiataria Ava,blazer,bege,linho,399.9,PP;P;M

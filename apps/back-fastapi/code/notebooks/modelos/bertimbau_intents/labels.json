@@ -1,0 +1,24 @@
+{
+  "label_list": [
+    "agradecimento",
+    "buscar_produto_por_categoria",
+    "buscar_produto_por_nome",
+    "cupom_primeira",
+    "despedida",
+    "disponibilidade",
+    "duvida_tamanho",
+    "erros_plataforma",
+    "falar_com_humano",
+    "formas_pagamento",
+    "frete_prazo",
+    "materiais_cuidados",
+    "onde_comprar",
+    "outros",
+    "pedido_sugestao",
+    "saudacao",
+    "status_pedido",
+    "styling_sugestao_look",
+    "tamanho_modelagem",
+    "troca_devolucao"
+  ]
+}

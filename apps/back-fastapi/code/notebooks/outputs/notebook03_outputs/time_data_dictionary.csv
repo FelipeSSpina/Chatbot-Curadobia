@@ -1,0 +1,15 @@
+coluna,dtype,n,missing,%_missing,exemplo
+arquivo_origem,object,974,0,0.0,Consolidação das mensagens do INSTAGRAM.csv
+autor,object,974,0,0.0,emiliafreitas_1320876775966156
+dia,object,974,0,0.0,2024-07-08
+flag_ruido,bool,974,0,0.0,False
+lado,object,974,0,0.0,time
+lang,object,974,0,0.0,pt
+len_tokens,int64,974,0,0.0,30
+lscore,float64,974,0,0.0,1.0
+mensagem_lemma,object,974,107,10.99,emil bem agradec demal feedback pod cert preocup tend segu busc marc trag opç grad represent mai númer corp possível tabel med busc ajust inform segu aprimor cad vez bjo
+mensagem_norm,object,974,0,0.0,"olá emilia, boa noite! tudo bem? agradecemos demais o feedback e pode ter certeza que uma das preocupações que estamos tendo é seguir na busca por marcas que tragam opções e grades que representam o maior número de corpos possível. sobre a tabela de medida, estamos buscando ajustar. obrigada por nos informar e seguiremos aprimorando cada vez mais. bjos!🌷"
+origem,object,974,0,0.0,instagram_csv
+texto,object,974,0,0.0,"olá emilia, boa noite! tudo bem? agradecemos demais o feedback e pode ter certeza que uma das preocupações que estamos tendo é seguir na busca por marcas que tragam opções e grades que representam o maior número de corpos possível. sobre a tabela de medida, estamos buscando ajustar. obrigada por nos informar e seguiremos aprimorando cada vez mais. bjos!🌷"
+texto_clean2,object,974,974,100.0,
+ts,object,974,0,0.0,2024-07-08 19:40:00.000

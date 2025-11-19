@@ -1,0 +1,30 @@
+{
+  "project": "Curadobia - Classificação de Intenções (v1)",
+  "created_at": "2025-09-23 20:04:31",
+  "framework": "sklearn + sentence-transformers",
+  "embedder": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "embed_dim": 384,
+  "classes": [
+    "agradecimento",
+    "buscar_produto_por_categoria",
+    "buscar_produto_por_nome",
+    "despedida",
+    "erros_plataforma",
+    "falar_com_humano",
+    "formas_pagamento",
+    "frete_prazo",
+    "materiais_cuidados",
+    "saudacao",
+    "status_pedido",
+    "styling_sugestao_look",
+    "tamanho_modelagem"
+  ],
+  "training": {
+    "model": "LogisticRegression",
+    "metrics_test": {
+      "accuracy": 0.6216216216216216,
+      "f1_macro": 0.6021161516853764,
+      "f1_weighted": 0.6272750667111869
+    }
+  }
+}

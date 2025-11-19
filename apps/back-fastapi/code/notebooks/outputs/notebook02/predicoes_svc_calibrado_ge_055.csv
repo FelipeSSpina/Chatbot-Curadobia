@@ -1,0 +1,681 @@
+ts,autor,texto,origem,label_regra,pred_label,pred_prob
+,,de todo modo agradeco por perguntar,raw,outros,outros,0.6986582248755414
+,,agradeco o feedback,raw,outros,outros,0.6534746589625945
+,,tem body preto tamanho 40?,synthetic,duvida_tamanho,duvida_tamanho,0.8775038310992815
+,,tem vestido verde tamanho 38?,synthetic,duvida_tamanho,duvida_tamanho,0.8760146362500134
+,,tem blazer verde tamanho 42?,synthetic,duvida_tamanho,duvida_tamanho,0.877159490319341
+,,tem jaqueta preto tamanho 40?,synthetic,duvida_tamanho,duvida_tamanho,0.8722863902953689
+,,tem body preto tamanho 46?,raw,duvida_tamanho,duvida_tamanho,0.8775038310992815
+,,quero vestido verde 44,raw,duvida_tamanho,duvida_tamanho,0.8387503678512305
+,,tem camisa preto tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.8709714058795217
+,,quero vestido verde 42,raw,duvida_tamanho,duvida_tamanho,0.8387503678512305
+,,tem body verde tamanho P?,raw,duvida_tamanho,duvida_tamanho,0.8789839547538956
+,,tem body verde tamanho 40?,raw,duvida_tamanho,duvida_tamanho,0.8789839547538956
+,,tem camisa verde tamanho GG?,raw,duvida_tamanho,duvida_tamanho,0.8663445325382917
+,,tem vestido verde tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.8760146362500134
+,,tem blazer verde tamanho G?,synthetic,duvida_tamanho,duvida_tamanho,0.877159490319341
+,,tem vestido preto tamanho 46?,synthetic,duvida_tamanho,duvida_tamanho,0.8750056751988575
+,,quero camisa preto 46,raw,duvida_tamanho,duvida_tamanho,0.8393439465803267
+,,quero saia verde M,raw,duvida_tamanho,duvida_tamanho,0.8412821689057879
+,,quero saia verde P,raw,duvida_tamanho,duvida_tamanho,0.8412821689057879
+,,quero saia verde 36,raw,duvida_tamanho,duvida_tamanho,0.8412821689057879
+,,tem camisa verde tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.8751354575168874
+,,tem blazer verde tamanho M?,raw,duvida_tamanho,duvida_tamanho,0.877159490319341
+,,tem blazer preto tamanho 38?,raw,duvida_tamanho,duvida_tamanho,0.875822638165911
+,,tem camisa preto tamanho 38?,synthetic,duvida_tamanho,duvida_tamanho,0.8709714058795217
+,,quero jaqueta preto GG,raw,duvida_tamanho,duvida_tamanho,0.8460992354489866
+,,quero jaqueta verde 42,raw,duvida_tamanho,duvida_tamanho,0.8407889263374155
+,,quero blazer preto M,raw,duvida_tamanho,duvida_tamanho,0.8405989776513307
+,,tem vestido preto tamanho G?,raw,duvida_tamanho,duvida_tamanho,0.8750056751988575
+,,tem camisa verde tamanho M?,raw,duvida_tamanho,duvida_tamanho,0.8751354575168874
+,,quero camisa preto P,raw,duvida_tamanho,duvida_tamanho,0.8393439465803267
+,,tem body preto tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.8775038310992815
+,,quero jaqueta preto P,raw,duvida_tamanho,duvida_tamanho,0.8391751492700715
+,,quero vestido preto 46,raw,duvida_tamanho,duvida_tamanho,0.8398603328309783
+,,quero jaqueta preto G,raw,duvida_tamanho,duvida_tamanho,0.8391751492700715
+,,tem vestido verde tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.8600053031281268
+,,quero jaqueta verde 46,raw,duvida_tamanho,duvida_tamanho,0.8407889263374155
+,,quero camisa preto 42,raw,duvida_tamanho,duvida_tamanho,0.8393439465803267
+,,tem saia preto tamanho 40?,raw,duvida_tamanho,duvida_tamanho,0.8749127601046292
+,,quero vestido preto PP,raw,duvida_tamanho,duvida_tamanho,0.8385385747732892
+,,tem blazer preto tamanho G?,raw,duvida_tamanho,duvida_tamanho,0.875822638165911
+,,tem body preto tamanho GG?,synthetic,duvida_tamanho,duvida_tamanho,0.8684424613260173
+,,tem body preto tamanho P?,raw,duvida_tamanho,duvida_tamanho,0.8775038310992815
+,,tem saia verde tamanho GG?,raw,duvida_tamanho,duvida_tamanho,0.8694204870629892
+,,tem saia verde tamanho 46?,raw,duvida_tamanho,duvida_tamanho,0.8786537773137357
+,,tem camisa verde tamanho G?,synthetic,duvida_tamanho,duvida_tamanho,0.8751354575168874
+,,tem vestido verde tamanho P?,raw,duvida_tamanho,duvida_tamanho,0.8760146362500134
+,,quero jaqueta preto 36,raw,duvida_tamanho,duvida_tamanho,0.8391751492700715
+,,tem body preto tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.8775038310992815
+,,quero vestido verde PP,raw,duvida_tamanho,duvida_tamanho,0.839970402535345
+,,quero camisa verde P,raw,duvida_tamanho,duvida_tamanho,0.8423821285191287
+,,quero jaqueta verde 44,raw,duvida_tamanho,duvida_tamanho,0.8407889263374155
+,,tem body preto tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.8612141368998436
+,,tem vestido verde tamanho G?,raw,duvida_tamanho,duvida_tamanho,0.8760146362500134
+,,quero body preto M,raw,duvida_tamanho,duvida_tamanho,0.8461755959116053
+,,tem camisa preto tamanho 46?,raw,duvida_tamanho,duvida_tamanho,0.8709714058795217
+,,tem blazer preto tamanho 36?,synthetic,duvida_tamanho,duvida_tamanho,0.875822638165911
+,,tem saia preto tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.8749127601046292
+,,tem vestido preto tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.8750056751988575
+,,quero vestido verde 40,raw,duvida_tamanho,duvida_tamanho,0.8387503678512305
+,,quero blazer verde 46,raw,duvida_tamanho,duvida_tamanho,0.8407137607211508
+,,tem vestido verde tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.8760146362500134
+,,tem camisa verde tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.8751354575168874
+,,quero body preto 36,raw,duvida_tamanho,duvida_tamanho,0.8461755959116053
+,,quero blazer preto 42,raw,duvida_tamanho,duvida_tamanho,0.8405989776513307
+,,tem body verde tamanho GG?,raw,duvida_tamanho,duvida_tamanho,0.8695344213957291
+,,tem saia verde tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.8615360607388203
+,,tem jaqueta verde tamanho P?,raw,duvida_tamanho,duvida_tamanho,0.8751274048325595
+,,quero saia verde G,raw,duvida_tamanho,duvida_tamanho,0.8412821689057879
+,,tem jaqueta preto tamanho P?,synthetic,duvida_tamanho,duvida_tamanho,0.8722863902953689
+,,tem camisa verde tamanho 46?,synthetic,duvida_tamanho,duvida_tamanho,0.8751354575168874
+,,quero camisa verde 40,raw,duvida_tamanho,duvida_tamanho,0.8423821285191287
+,,quero jaqueta verde GG,raw,duvida_tamanho,duvida_tamanho,0.8465142770658798
+,,quero camisa preto 40,raw,duvida_tamanho,duvida_tamanho,0.8393439465803267
+,,quero camisa preto 44,raw,duvida_tamanho,duvida_tamanho,0.8393439465803267
+,,tem camisa preto tamanho G?,raw,duvida_tamanho,duvida_tamanho,0.8709714058795217
+,,tem saia preto tamanho M?,raw,duvida_tamanho,duvida_tamanho,0.8749127601046292
+,,tem jaqueta verde tamanho GG?,raw,duvida_tamanho,duvida_tamanho,0.865843167505344
+,,quero camisa preto PP,raw,duvida_tamanho,duvida_tamanho,0.8368368169746857
+,,tem jaqueta preto tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.8563355121609277
+,,quero saia preto P,raw,duvida_tamanho,duvida_tamanho,0.8401060559781616
+,,quero blazer verde 38,raw,duvida_tamanho,duvida_tamanho,0.8407137607211508
+,,tem vestido verde tamanho M?,raw,duvida_tamanho,duvida_tamanho,0.8760146362500134
+,,tem vestido preto tamanho P?,raw,duvida_tamanho,duvida_tamanho,0.8750056751988575
+,,quero jaqueta verde 40,raw,duvida_tamanho,duvida_tamanho,0.8407889263374155
+,,quero body preto G,raw,duvida_tamanho,duvida_tamanho,0.8461755959116053
+,,quero blazer preto G,raw,duvida_tamanho,duvida_tamanho,0.8405989776513307
+,,quero saia verde 42,raw,duvida_tamanho,duvida_tamanho,0.8412821689057879
+,,quero camisa verde 44,raw,duvida_tamanho,duvida_tamanho,0.8423821285191287
+,,quero blazer verde 40,raw,duvida_tamanho,duvida_tamanho,0.8407137607211508
+,,tem body verde tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.8789839547538956
+,,tem camisa verde tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.8751354575168874
+,,quero blazer verde G,raw,duvida_tamanho,duvida_tamanho,0.8407137607211508
+,,tem camisa preto tamanho M?,synthetic,duvida_tamanho,duvida_tamanho,0.8709714058795217
+,,quero body verde G,raw,duvida_tamanho,duvida_tamanho,0.8461862278331582
+,,quero jaqueta verde 38,raw,duvida_tamanho,duvida_tamanho,0.8407889263374155
+,,tem blazer verde tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.861042177884554
+,,quero camisa verde PP,raw,duvida_tamanho,duvida_tamanho,0.8418933053827711
+,,quero jaqueta verde M,raw,duvida_tamanho,duvida_tamanho,0.8407889263374155
+,,tem jaqueta preto tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.8722863902953689
+,,quero blazer preto P,raw,duvida_tamanho,duvida_tamanho,0.8405989776513307
+,,tem jaqueta verde tamanho 38?,raw,duvida_tamanho,duvida_tamanho,0.8751274048325595
+,,quero camisa preto M,raw,duvida_tamanho,duvida_tamanho,0.8393439465803267
+,,tem blazer verde tamanho 40?,raw,duvida_tamanho,duvida_tamanho,0.877159490319341
+,,quero body preto 38,synthetic,duvida_tamanho,duvida_tamanho,0.8461755959116053
+,,tem body verde tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.8789839547538956
+,,quero blazer preto 40,raw,duvida_tamanho,duvida_tamanho,0.8405989776513307
+,,tem camisa preto tamanho 44?,synthetic,duvida_tamanho,duvida_tamanho,0.8709714058795217
+,,quero saia verde 38,raw,duvida_tamanho,duvida_tamanho,0.8412821689057879
+,,tem jaqueta preto tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.8722863902953689
+,,tem camisa verde tamanho 40?,raw,duvida_tamanho,duvida_tamanho,0.8751354575168874
+,,tem jaqueta preto tamanho G?,raw,duvida_tamanho,duvida_tamanho,0.8722863902953689
+,,quero jaqueta verde G,raw,duvida_tamanho,duvida_tamanho,0.8407889263374155
+,,quero blazer verde 42,raw,duvida_tamanho,duvida_tamanho,0.8407137607211508
+,,tem saia verde tamanho 40?,raw,duvida_tamanho,duvida_tamanho,0.8786537773137357
+,,quero camisa verde 46,raw,duvida_tamanho,duvida_tamanho,0.8423821285191287
+,,quero blazer verde GG,raw,duvida_tamanho,duvida_tamanho,0.8467172098044939
+,,quero body verde 40,synthetic,duvida_tamanho,duvida_tamanho,0.8461862278331582
+,,quero body verde 38,raw,duvida_tamanho,duvida_tamanho,0.8461862278331582
+,,quero vestido verde 38,raw,duvida_tamanho,duvida_tamanho,0.8387503678512305
+,,quero vestido preto P,raw,duvida_tamanho,duvida_tamanho,0.8398603328309783
+,,tem saia verde tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.8786537773137357
+,,tem jaqueta preto tamanho M?,raw,duvida_tamanho,duvida_tamanho,0.8722863902953689
+,,quero vestido verde 46,raw,duvida_tamanho,duvida_tamanho,0.8387503678512305
+,,temos o vadeo nos nossos stories de hoje com a bia usando ela de uma olhada d,raw,outros,outros,0.7402941306282065
+,,ahhh bom d entendi errado enta o achei que estava na serra espero que abra o tempo e fiquei um lindo final de semana,raw,outros,outros,0.7947041770283229
+,,to de olho faz tempooo,raw,outros,outros,0.7317744586226189
+,,nao temos cupom de desconto no momento,raw,preco_pagamento,preco_pagamento,0.6406589334574764
+,,vcs tem desconto para primeira compra,raw,preco_pagamento,preco_pagamento,0.6237114665251549
+,,sa <num> entrar no site ou aqui no nosso perfil que tem a selea a o completa,raw,disponibilidade,disponibilidade,0.7334576717313341
+,,mas pode ficar tranquila que assim que lana armos a terceira pea a que vocaa gostou vou te mandar por aqui tudo bem na o deixe de garantir suas pea as da lounge a tempod,raw,outros,outros,0.6715916756501487
+,,temos o video nos nossos stories de hoje com a bia usando ela de uma olhada,raw,outros,outros,0.7186719100632459
+,,nao tem mais numeracao <num>,raw,duvida_tamanho,duvida_tamanho,0.6366627534528956
+,,na o tem mais numeraa a o <num>,raw,disponibilidade,disponibilidade,0.570232989781158
+,,na o temos cupom de desconto no momento,raw,preco_pagamento,preco_pagamento,0.637384499643827
+,,voces tem loja fisica,raw,disponibilidade,disponibilidade,0.7510368249949911
+,,na o gosto de nada apertado mas essa blusa tem um shane mais ajustado daa fiquei na daovida,raw,disponibilidade,disponibilidade,0.7504342814444537
+,,mas pode ficar tranquila que assim que lancarmos a terceira peca que voce gostou vou te mandar por aqui tudo bem nao deixe de garantir suas pecas da lounge a tempo,raw,outros,outros,0.6616972194686593
+,,ta de olho faz tempooo,raw,outros,outros,0.7414608578078713
+,,vocaas tem loja fasica,raw,disponibilidade,disponibilidade,0.7089964792505873
+,,tem cupom de desconto primeira compra,raw,preco_pagamento,preco_pagamento,0.6513534745767929
+,,com relaa a o a cala a na <num> s temos essas duas opa aues que penso que vc pode gostar,raw,outros,outros,0.7608712875836311
+,,essa gladiadora qual o naomero tem <num>,raw,disponibilidade,disponibilidade,0.6670890084695105
+,,no e mail da nota fiscal na o tem nada,raw,disponibilidade,disponibilidade,0.7467366876530908
+,,era pra ter chegado ontem,raw,outros,outros,0.6838056136874084
+,,nao gosto de nada apertado mas essa blusa tem um shane mais ajustado dai fiquei na duvida,raw,disponibilidade,disponibilidade,0.7846901233299605
+,,so entrar no site ou aqui no nosso perfil que tem a selecao completa,raw,disponibilidade,disponibilidade,0.7038668624655726
+,,obrigada pela presenca silvia,raw,agradecimento,agradecimento,0.813840032683561
+,,obrigada pelo convite adorei a minha sandalia nova hearts,raw,agradecimento,agradecimento,0.7881201155112441
+,,qualquer daovida ou questa o estamos a disposia a o obrigada por nos acompanhar equipe curadobia d,raw,agradecimento,agradecimento,0.7399362200056977
+,,muito obrigada tenham um bom fim de semana,raw,agradecimento,agradecimento,0.7937453593900871
+,,evelyn obrigada pelo interesse para parcerias com o curadobia peco que envie apresentacoes para o nosso email contato curadobia <user> com e seguimos com as tratativas por la que fica mais facil e para interesses de parcerias diretamente com a bia e preciso entrar em contato diretamente com ela pelo email biapaesdebarros <user> com,raw,duvida_tamanho,duvida_tamanho,0.6362628323431689
+,,certo obrigada o prazo de entrega sao <num> dias mesmo,raw,prazo_entrega,prazo_entrega,0.756722796765703
+,,gabriela entendo sua frustracao e e completamente justificada de fato a marca informou ter tido um pequeno problema de producao que nao devera mais ocorrer e por isso acabou enviando atrasado seu pedido sobre o meio de contato estamos providenciando um numero para atendimento whatsapp por hora estamos apenas com o e mail mas muito em breve ja deixaremos essa opcao mais facil para solucao de qualquer problema,raw,onde_comprar,onde_comprar,0.7212152152322949
+,,obrigada pelo prestigio,raw,agradecimento,agradecimento,0.736740357484525
+,,evelyn obrigada pelo interesse para parcerias com o curadobia pea o que envie apresentaa aues para o nosso email contato curadobia <user> com e seguimos com as tratativas por la que fica mais fa cil d e para interesses de parcerias diretamente com a bia a c preciso entrar em contato diretamente com ela pelo email biapaesdebarros <user> com,raw,duvida_tamanho,duvida_tamanho,0.6552204206705421
+,,obrigada ata c la,raw,agradecimento,agradecimento,0.7432759520314226
+,,atemporal,raw,outros,outros,0.7319589657340921
+,,obrigada pelo prestagio d d,raw,agradecimento,agradecimento,0.7188068868605656
+,,eu amei a que tem a ponta duvida tem que ter tornozelo fino obrigada,raw,disponibilidade,disponibilidade,0.569397371294526
+,,obrigada pela presena a renata vai arrasar demais com o conjuntinho mascavo nosso antimo terracota d deg,raw,agradecimento,agradecimento,0.7937211388600535
+,,obrigada pela presena a ju amamos te receber e te atender d d,raw,agradecimento,agradecimento,0.7978322381618096
+,,segue o link dele qualquer daovida ou questa o estamos a disposia a o obrigada por nos acompanhar equipe curadobia d,raw,agradecimento,agradecimento,0.7197063004355486
+,,obrigada pela presenca heartshearts,raw,agradecimento,agradecimento,0.813840032683561
+,,obrigada pela presena a silviad,raw,agradecimento,agradecimento,0.8145419100260645
+,,muito obrigada elas entraram em contato comigo realmente a sandalia e linda mas infelizmente fico um pouco fora pra mim,raw,agradecimento,agradecimento,0.769079270317826
+,,mto obrigada,raw,agradecimento,agradecimento,0.792459217627847
+,,bia esse seu curadobia esta um arraso muito tentador paraba c ns pelo projeto uma daovida qual a sua altura estou interessadassima nessa cala a mas sou baixa <num> cm e geralmente tenho que fazer a barras das cala as o que na o a c muito fa cil com essaa d obrigada,raw,agradecimento,agradecimento,0.7612228603779738
+,,muito obrigada pela atencao,raw,agradecimento,agradecimento,0.7693832651975827
+,,ahhh entendi muito obrigada,raw,agradecimento,agradecimento,0.7498988604653232
+,,ok obrigada d,raw,agradecimento,agradecimento,0.7218747881336851
+,,ok entendi obrigada pelo retorno um abraco,raw,agradecimento,agradecimento,0.7741101963554062
+,,sim a carol entrou em contato comigo uma fofa super atenciosa,raw,outros,outros,0.6414679077225831
+,,obrigada por nos acompanhar d sigo aqui para o que vocaa precisar,raw,agradecimento,agradecimento,0.6914528754929605
+,,obrigada pela presenca livia,raw,agradecimento,agradecimento,0.8049858976367211
+,,obrigada pela presenca ju amamos te receber e te atender,raw,agradecimento,agradecimento,0.7976819067647728
+,,adorei obrigada vcs,raw,agradecimento,agradecimento,0.6517649368478299
+,,obrigada pelo retorno vou acompanhar enta o beijo beijo d d,raw,agradecimento,agradecimento,0.797503087004739
+,,obrigada ate la,raw,agradecimento,agradecimento,0.7501925553835063
+,,com certeza sera um sucesso obrigada ana d,raw,agradecimento,agradecimento,0.7748692315779827
+,,enfim por muito pouco na o me atende,raw,outros,outros,0.7176935306860724
+,,obrigada no aguardo que seja disponibilizado o envio,raw,agradecimento,agradecimento,0.6059945525441067
+,,ok obrigada,raw,agradecimento,agradecimento,0.7218747881336851
+,,muito obrigada,raw,agradecimento,agradecimento,0.7980267460340322
+,,ok entendi obrigada pelo retorno um abraa o,raw,agradecimento,agradecimento,0.7882239644767519
+,,obrigada por nos acompanhar sigo aqui para o que voce precisar,raw,agradecimento,agradecimento,0.7129009666907027
+,,obrigada pelo feedback maria,raw,agradecimento,agradecimento,0.6177468674781814
+,,segue o link dele qualquer duvida ou questao estamos a disposicao obrigada por nos acompanhar equipe curadobia,raw,agradecimento,agradecimento,0.7801317861569432
+,,enviado obrigada ate segunda,raw,agradecimento,agradecimento,0.7910759493810161
+,,obrigada pela presena a a i a i,raw,agradecimento,agradecimento,0.8145419100260645
+,,obrigada pela presena a stella,raw,agradecimento,agradecimento,0.7975815434745084
+,,perfeito ja passei pro pessoal realizar a correa a o obrigada pelo feedback,raw,agradecimento,agradecimento,0.7836088197235369
+,,ok muito obrigada d,raw,agradecimento,agradecimento,0.8159671613571046
+,,bem e vc ana muito obrigada,raw,agradecimento,agradecimento,0.6747225172422009
+,,certo obrigada o prazo de entrega sa o <num> dias mesmo,raw,prazo_entrega,prazo_entrega,0.7529386239071385
+,,obrigada eu aviso sim gostei bastante vou levar para a cliente,raw,agradecimento,agradecimento,0.6281211919173408
+,,categoria,raw,outros,outros,0.729753773330406
+,,bia eu terminei de subir os produtos porem acho que esta com um delay amanha vou ver se terminou de atualizar na plataforma ta tudo certinho <num> categorias que criei com todo produtos descricao videos etc,raw,outros,outros,0.553405547231844
+,,ta otimo obrigada,raw,agradecimento,agradecimento,0.6333342603618626
+,,pedimos desculpas pelo ocorrido e pode ter certeza que isso servira para aprimorarmos nosso atendimento e na o deixar que situaa aues como essa ocorram novamente agradea o sua compreensa o e nos disponibilizamos para auxiliar da melhor forma possavel sobre ter ficado um pouco grande o body nos informe se desejar efetuar troca que ja posso agilizar junto a marca essa solicitaa a o,raw,troca_devolucao,troca_devolucao,0.6947352444137926
+,,mto obrigada pelo retorno,raw,agradecimento,agradecimento,0.8397955781930848
+,,obrigada por ser nossa cliente,raw,agradecimento,agradecimento,0.6456611535271156
+,,legal mto obrigada,raw,agradecimento,agradecimento,0.8060235483565155
+,,obrigada pelo retorno vou acompanhar entao beijo beijo,raw,agradecimento,agradecimento,0.8027786529544809
+,,pedimos desculpas pelo ocorrido e pode ter certeza que isso servira para aprimorarmos nosso atendimento e nao deixar que situacoes como essa ocorram novamente agradeco sua compreensao e nos disponibilizamos para auxiliar da melhor forma possivel sobre ter ficado um pouco grande o body nos informe se desejar efetuar troca que ja posso agilizar junto a marca essa solicitacao,raw,troca_devolucao,troca_devolucao,0.7075370383399926
+,,obrigada pela presenca,raw,agradecimento,agradecimento,0.813840032683561
+,,com certeza sera um sucesso obrigada ana,raw,agradecimento,agradecimento,0.7748692315779827
+,,obrigada pela presenca stella,raw,agradecimento,agradecimento,0.7973096964062758
+,,com certeza nao exatamente por isso que pensamos nesse material que se molda nos pes,raw,outros,outros,0.6562426610086887
+,,ta a <num> timo obrigada,raw,agradecimento,agradecimento,0.5988053793818889
+,,muito obrigada legal que sou do mesmo tamanho que ela,raw,duvida_tamanho,duvida_tamanho,0.6041796019320351
+,,otimo me avise por favor um abraco e obrigada,raw,agradecimento,agradecimento,0.7718441184504814
+,,perfeito ana obrigada pelo retorno d,raw,agradecimento,agradecimento,0.8155215221398129
+,,obrigada pelo retorno,raw,agradecimento,agradecimento,0.7900373595736909
+,,qualquer duvida ou questao estamos a disposicao obrigada por nos acompanhar equipe curadobia,raw,agradecimento,agradecimento,0.7963589775802655
+,,enviado obrigada ata c segunda,raw,agradecimento,agradecimento,0.7897681124600338
+,,legal mto obrigada d,raw,agradecimento,agradecimento,0.8060235483565155
+,,muito obrigada pelos esclarecimentos,raw,agradecimento,agradecimento,0.7980267460340322
+,,seguem as medidas p cos <num> cm e veste quadril ate <num> cm m cos <num> cm e veste um quadril ate <num> cm g cos <num> cm e veste um quadril ate <num> cm,raw,duvida_tamanho,duvida_tamanho,0.7795051929750932
+,,obrigada pelo retorno namoro o modelo gladiador me lembro dele mas quando fui procurar ja na o tinha mais d,raw,agradecimento,agradecimento,0.7895554571461173
+,,enfim por muito pouco nao me atende,raw,outros,outros,0.6976845155701962
+,,obrigada pelo interesse d aguardamos vocaas,raw,agradecimento,agradecimento,0.6581493741967124
+,,mto obrigada msm,raw,agradecimento,agradecimento,0.792459217627847
+,,muito obrigada elas entraram em contato comigo realmente a sanda lia a c linda mas infelizmente fico um pouco fora pra mim,raw,agradecimento,agradecimento,0.773370497210502
+,,ok muito obrigada,raw,agradecimento,agradecimento,0.8159671613571046
+,,obrigada pelo interesse aguardamos voces,raw,agradecimento,agradecimento,0.668835563950689
+,,tranquilo obrigada,raw,agradecimento,agradecimento,0.6534454891520258
+,,precisei sair correndo por um problema com minha filha que ja esta bem mas nem consegui me despedir obrigada queridas pelo convite,raw,agradecimento,agradecimento,0.6528185006309493
+,,tem jaqueta verde no 46?,raw,duvida_tamanho,duvida_tamanho,0.8304740377693058
+,,tem jaqueta verde no 42?,raw,duvida_tamanho,duvida_tamanho,0.8304740377693058
+,,tem vestido preto no G?,raw,duvida_tamanho,duvida_tamanho,0.83557934031302
+,,tem saia verde no 46?,raw,duvida_tamanho,duvida_tamanho,0.8386969960729317
+,,tem saia verde no P?,raw,duvida_tamanho,duvida_tamanho,0.8386969960729317
+,,tem camisa preto no M?,raw,duvida_tamanho,duvida_tamanho,0.8274780914140478
+,,tem saia preto no 46?,raw,duvida_tamanho,duvida_tamanho,0.8347053232559236
+,,tem body preto no G?,raw,duvida_tamanho,duvida_tamanho,0.8376280642320626
+,,tem vestido preto no 42?,raw,duvida_tamanho,duvida_tamanho,0.83557934031302
+,,tem saia verde no G?,raw,duvida_tamanho,duvida_tamanho,0.8386969960729317
+,,tem jaqueta verde no G?,raw,duvida_tamanho,duvida_tamanho,0.8304740377693058
+,,tem body verde no 42?,raw,duvida_tamanho,duvida_tamanho,0.8381283077187629
+,,tem blazer verde no 38?,raw,duvida_tamanho,duvida_tamanho,0.8368761132051056
+,,tem blazer verde no GG?,raw,duvida_tamanho,duvida_tamanho,0.8356458833019949
+,,tem camisa preto no 44?,raw,duvida_tamanho,duvida_tamanho,0.8274780914140478
+,,tem saia verde no GG?,raw,duvida_tamanho,duvida_tamanho,0.8364406160574266
+,,tem jaqueta preto no 46?,raw,duvida_tamanho,duvida_tamanho,0.8272873623392668
+,,tem vestido verde no 46?,raw,duvida_tamanho,duvida_tamanho,0.8347848355222661
+,,tem jaqueta preto no 38?,raw,duvida_tamanho,duvida_tamanho,0.8272873623392668
+,,tem camisa preto no 38?,raw,duvida_tamanho,duvida_tamanho,0.8274780914140478
+,,tem blazer verde no 40?,raw,duvida_tamanho,duvida_tamanho,0.8368761132051056
+,,tem body verde no 36?,raw,duvida_tamanho,duvida_tamanho,0.8381283077187629
+,,tem blazer preto no 40?,raw,duvida_tamanho,duvida_tamanho,0.8367144089289489
+,,tem vestido preto no P?,raw,duvida_tamanho,duvida_tamanho,0.83557934031302
+,,tem vestido preto no 44?,raw,duvida_tamanho,duvida_tamanho,0.83557934031302
+,,tem blazer preto no 42?,raw,duvida_tamanho,duvida_tamanho,0.8367144089289489
+,,tem body verde no 38?,raw,duvida_tamanho,duvida_tamanho,0.8381283077187629
+,,tem jaqueta verde no 40?,raw,duvida_tamanho,duvida_tamanho,0.8304740377693058
+,,tem body preto no 42?,raw,duvida_tamanho,duvida_tamanho,0.8376280642320626
+,,tem vestido preto no 38?,raw,duvida_tamanho,duvida_tamanho,0.83557934031302
+,,tem body preto no 44?,raw,duvida_tamanho,duvida_tamanho,0.8376280642320626
+,,tem saia verde no M?,raw,duvida_tamanho,duvida_tamanho,0.8386969960729317
+,,tem blazer verde no G?,raw,duvida_tamanho,duvida_tamanho,0.8368761132051056
+,,tem saia verde no 42?,raw,duvida_tamanho,duvida_tamanho,0.8386969960729317
+,,tem camisa preto no 36?,raw,duvida_tamanho,duvida_tamanho,0.8274780914140478
+,,tem vestido verde no 42?,raw,duvida_tamanho,duvida_tamanho,0.8347848355222661
+,,tem body verde no PP?,raw,duvida_tamanho,duvida_tamanho,0.8284044971611607
+,,tem body verde no 40?,raw,duvida_tamanho,duvida_tamanho,0.8381283077187629
+,,tem blazer preto no P?,raw,duvida_tamanho,duvida_tamanho,0.8367144089289489
+,,tem jaqueta preto no 44?,raw,duvida_tamanho,duvida_tamanho,0.8272873623392668
+,,tem jaqueta preto no 40?,raw,duvida_tamanho,duvida_tamanho,0.8272873623392668
+,,tem vestido verde no 38?,raw,duvida_tamanho,duvida_tamanho,0.8347848355222661
+,,tem camisa verde no M?,raw,duvida_tamanho,duvida_tamanho,0.8329777817069411
+,,tem jaqueta verde no GG?,raw,duvida_tamanho,duvida_tamanho,0.830306733662014
+,,tem vestido preto no PP?,raw,duvida_tamanho,duvida_tamanho,0.8241324018661098
+,,tem jaqueta preto no GG?,raw,duvida_tamanho,duvida_tamanho,0.8296151226426656
+,,tem body preto no 38?,raw,duvida_tamanho,duvida_tamanho,0.8376280642320626
+,,tem saia preto no GG?,raw,duvida_tamanho,duvida_tamanho,0.8364287199843888
+,,tem blazer preto no 36?,raw,duvida_tamanho,duvida_tamanho,0.8367144089289489
+,,tem saia preto no 42?,raw,duvida_tamanho,duvida_tamanho,0.8347053232559236
+,,tem blazer verde no PP?,raw,duvida_tamanho,duvida_tamanho,0.8281723038686375
+,,tem vestido preto no GG?,raw,duvida_tamanho,duvida_tamanho,0.8356495767714115
+,,tem camisa preto no PP?,raw,duvida_tamanho,duvida_tamanho,0.8157147602476849
+,,tem saia preto no 36?,raw,duvida_tamanho,duvida_tamanho,0.8347053232559236
+,,tem blazer preto no GG?,raw,duvida_tamanho,duvida_tamanho,0.83612502199556
+,,tem body preto no M?,raw,duvida_tamanho,duvida_tamanho,0.8376280642320626
+,,tem jaqueta verde no M?,raw,duvida_tamanho,duvida_tamanho,0.8304740377693058
+,,tem camisa verde no 42?,raw,duvida_tamanho,duvida_tamanho,0.8329777817069411
+,,tem body verde no 46?,raw,duvida_tamanho,duvida_tamanho,0.8381283077187629
+,,tem saia verde no 38?,raw,duvida_tamanho,duvida_tamanho,0.8386969960729317
+,,tem vestido preto no 36?,raw,duvida_tamanho,duvida_tamanho,0.83557934031302
+,,tem camisa verde no P?,raw,duvida_tamanho,duvida_tamanho,0.8329777817069411
+,,tem saia preto no M?,raw,duvida_tamanho,duvida_tamanho,0.8347053232559236
+,,tem body verde no P?,raw,duvida_tamanho,duvida_tamanho,0.8381283077187629
+,,tem camisa verde no 46?,raw,duvida_tamanho,duvida_tamanho,0.8329777817069411
+,,tem blazer preto no G?,raw,duvida_tamanho,duvida_tamanho,0.8367144089289489
+,,os bodys da revival sa o excelentes pea as neutras e ba sicas para ter no arma rio e possuem uma ampla grade de tamanhos <url> ala c m disso temos nossos acessa <num> rios <url> bolsas <url> e sapatos <url>,raw,duvida_tamanho,duvida_tamanho,0.656174974634296
+,,bia tudo bem tenho uma festa bem legal e o traje e black and white pensei na blusa pah mas queria saber se o tecido fica vistoso e se voce recomenda alguma calca mais festa para combinar beijos julie,raw,duvida_tamanho,duvida_tamanho,0.6836239788387244
+,,comprei a jaqueta d>>,raw,outros,outros,0.7982770314464336
+,,a nossa calca diferentex esta saindo por r <num> <num>,raw,outros,outros,0.5853641012103398
+,,a jaqueta branca uma pena eu na o conseguir comprar por problemas ta c cnicos uma experiaancia de consumidor mto ruim,raw,disponibilidade,disponibilidade,0.7046446418831421
+,,para adquirir essa pea a basta clicar no link da jaqueta e finalizar a compra pelo site <url>,raw,outros,outros,0.8187221853577468
+,,paguei sedex porque estou indo hoje pra londres e queria levar o body,raw,outros,outros,0.7074060454373641
+,,sua camisa e linda,raw,outros,outros,0.8240538021912126
+,,tudo bem bia gostaria muito de saber se nesta sua plataforma vc assiste aos clientes em encontrar produtos lojas etc,raw,outros,outros,0.6186150503747759
+,,a jaqueta branca uma pena eu nao conseguir comprar por problemas tecnicos uma experiencia de consumidor mto ruim,raw,disponibilidade,disponibilidade,0.7672112518554609
+,,o produto e lindo apesar de ter ficando um pouco grande,raw,outros,outros,0.7850653156950138
+,,comprei um body e paguei frete de <num> dias uteis pra levar pra uma viagem agora na sexta,raw,prazo_entrega,prazo_entrega,0.7694619195110433
+,,d body mybasic,raw,outros,outros,0.8139286826601418
+,,milene perguntamos para a bia e ela te indicou comprar o tamanho <num> dessa jaqueta por voce nao estar acostumada a roupas oversized o que acha,raw,duvida_tamanho,duvida_tamanho,0.7883649479749343
+,,gosto da calca assim mais curta visto entre <num> <num> quadril <num>,raw,duvida_tamanho,duvida_tamanho,0.7718009438182429
+,,gostaria a camisa branca tamanho m a possavel,raw,duvida_tamanho,duvida_tamanho,0.7940281222564546
+,,somos uma produtora de a udio visual e achamos que seria interessante apresentar o nosso trabalho e portifa <num> lio,raw,outros,outros,0.6919119497608874
+,,os bodys da revival sao excelentes pecas neutras e basicas para ter no armario e possuem uma ampla grade de tamanhos <url> alem disso temos nossos acessorios <url> bolsas <url> e sapatos <url>,raw,duvida_tamanho,duvida_tamanho,0.6842101891180097
+,,vai ter reposicao dessa calca,raw,disponibilidade,disponibilidade,0.6276590027805468
+,,eu adorei ja usei minha saia hj,raw,outros,outros,0.6163864782962871
+,,ainda hj vou efetuar a compra da calca,raw,outros,outros,0.7673751202560195
+,,quero comprar mas preciso saber se ela calca certinho o numero do calco o numero <num> devo comprar o mesmo,raw,outros,outros,0.6582583773606744
+,,experimentei essa jaqueta maravilhosa,raw,agradecimento,agradecimento,0.6497397949353777
+,,o produto a c lindo apesar de ter ficando um pouco grande,raw,outros,outros,0.7850653156950138
+,,eu comprei a calca pantalona branca no dia <num> <num>,raw,disponibilidade,disponibilidade,0.5766377012484615
+,,gostaria de saber o tamanho da cintura dessa calca no tamanho m,raw,duvida_tamanho,duvida_tamanho,0.8034733608671856
+,,seguem as medidas p ca <num> s <num> cm e veste quadril ata c <num> cm m ca <num> s <num> cm e veste um quadril ata c <num> cm g ca <num> s <num> cm e veste um quadril ata c <num> cm,raw,duvida_tamanho,duvida_tamanho,0.7738031391278473
+,,para adquirir essa peca basta clicar no link da jaqueta e finalizar a compra pelo site <url>,raw,outros,outros,0.8179482472017898
+,,milene perguntamos para a bia e ela te indicou comprar o tamanho <num> dessa jaqueta por vocaa na o estar acostumada a roupas oversized o que acha d,raw,duvida_tamanho,duvida_tamanho,0.7802106869705917
+,,que calca maravilhosa,raw,agradecimento,agradecimento,0.6466547867599799
+,,veste,raw,outros,outros,0.7031176252787126
+,,tenho <num> <num> essa calca esta mais curta para mim mesmo te aconselho a comprar um tamanho pequeno,raw,duvida_tamanho,duvida_tamanho,0.8028251605968217
+,,elaine para o tamanho <num> nos indicamos o tamanho <num> da saia,raw,duvida_tamanho,duvida_tamanho,0.8378908889728937
+,,somos uma produtora de audio visual e achamos que seria interessante apresentar o nosso trabalho e portifolio,raw,outros,outros,0.7089832915940002
+,,linda calca qual e a marca,raw,outros,outros,0.732754196223827
+,,fiz uma compra de um casaco com vcs e nao vestiu bem gostaria de trocar por uma calca fresquinha tamanho m,raw,troca_devolucao,troca_devolucao,0.7842505210608323
+,,estou com duvidas sobre o tamanho da saia unica visto <num> mas as medidas no quadro de tamanhos parecem grandes mas existe a informacao de que o tamanho <num> corresponde ao <num>,raw,duvida_tamanho,duvida_tamanho,0.8712558053074295
+,,visto g qual tamanho seria quais cores tem tem a calca tb,raw,duvida_tamanho,duvida_tamanho,0.7960613748936536
+,,outra daovida a c sobre o tom certinho dessa jaqueta no site achei que estava num tom diferente dos stories,raw,outros,outros,0.8251645641477621
+,,essa sandalia calca certo calco <num> sera que preciso comprar <num>,raw,outros,outros,0.6232976753303403
+,,sua camisa a c linda,raw,outros,outros,0.8240538021912126
+,,sobre a troca da calca que comprei quero trocar por um tamanho menor recebi um e mail de vcs no dia <num> <num> <num> respondi mas dps disso nao tive mais retorno,raw,troca_devolucao,troca_devolucao,0.7940152510134789
+,,com relacao a calca nos temos essas duas opcoes que penso que vc pode gostar,raw,outros,outros,0.8173381338403678
+,,aqui a tabela certinha mas ja estamos com o pessoal tecnico corrigindo esse erro,raw,erro_plataforma,erro_plataforma,0.612595407094363
+,,aqui a tabela certinha mas ja estamos com o pessoal ta c cnico corrigindo esse erro,raw,erro_plataforma,erro_plataforma,0.5888369617331854
+,,plataforma,raw,outros,outros,0.7397220733238623
+,,ana ja entrei em contato com o pessoal da d aura para entendermos o que aconteceu,raw,outros,outros,0.6735449555291393
+,,verificamos com a marca responsavel pelo envio a revival o seu pedido sofreu um pequeno atraso que a marca me informou ter lhe comunicado por whatsapp,raw,onde_comprar,onde_comprar,0.7154283183271473
+,,numero,raw,outros,outros,0.6385482224885767
+,,chico neto cd mare mar whatsapp <num> <url>,raw,onde_comprar,onde_comprar,0.7322001013355768
+,,infelizmente nao atuo mais nessa area de consultoria pessoal,raw,outros,outros,0.6786487581067093
+,,verificamos com a marca responsa vel pelo envio a revival o seu pedido sofreu um pequeno atraso que a marca me informou ter lhe comunicado por whatsapp,raw,onde_comprar,onde_comprar,0.7168690880574856
+,,este a c meu whatsappa,raw,outros,outros,0.6246381458084951
+,,vou querer a <num> qual e sua chave pix,raw,preco_pagamento,preco_pagamento,0.6032690807037719
+,,vou querer a <num> qual a c sua chave pix,raw,preco_pagamento,preco_pagamento,0.6032690807037719
+,,praticamos sempre o mesmo valor das marcas o que entrara de extra sera o valor do frete que e calculado automaticamente se tiver mais alguma duvida nos avise ok,raw,prazo_entrega,prazo_entrega,0.7060954758708945
+,,ja vi e amei esperando a virada do cartao pra perder os juizo,raw,preco_pagamento,preco_pagamento,0.7295273458642342
+,,praticamos sempre o mesmo valor das marcas o que entrara de extra sera o valor do frete que a c calculado automaticamente se tiver mais alguma daovida nos avise ok,raw,prazo_entrega,prazo_entrega,0.7139793963562554
+,,valor <num>,raw,preco_pagamento,preco_pagamento,0.6733996438098316
+,,quanto ta essa blusa,raw,outros,outros,0.5584257804041629
+,,valor do frete pro 04012-000?,raw,prazo_entrega,prazo_entrega,0.8126084435176952
+,,chega quando no 06030-050?,raw,prazo_entrega,prazo_entrega,0.7122511408524277
+,,chega quando no 01455-022?,raw,prazo_entrega,prazo_entrega,0.7301863733222803
+,,chega quando no 05010-020?,raw,prazo_entrega,prazo_entrega,0.6301494315827638
+,,chega quando no 01255-022?,raw,prazo_entrega,prazo_entrega,0.7321498721341786
+,,chega quando no 04012-000?,raw,prazo_entrega,prazo_entrega,0.7160954753844121
+,,valor do frete pro 05010-020?,raw,prazo_entrega,prazo_entrega,0.808774584864161
+,,valor do frete pro 04567-010?,raw,prazo_entrega,prazo_entrega,0.812984040042932
+,,valor do frete pro 06030-050?,raw,prazo_entrega,prazo_entrega,0.8114822461871327
+,,valor do frete pro 01455-022?,raw,prazo_entrega,prazo_entrega,0.8168491038432153
+,,voce poderia me passar o contato dos responsaveis,raw,outros,outros,0.7738676141236243
+,,bia gosto muito das suas bolsas poderia passar umas dicas nao encontrei no seu site,raw,outros,outros,0.8102912324002436
+,,vocaa poderia me passar o contato dos responsa veis,raw,outros,outros,0.7745107628017152
+,,vou te encaminhar o link <url>,raw,outros,outros,0.7023329887820611
+,,gostei do conjunto mas nao vi no site,raw,outros,outros,0.6623892746509145
+,,endereco,raw,outros,outros,0.7475702464265859
+,,o tom certo e o que esta no site os stories que a bia postou hoje modificaram um pouco o tom,raw,outros,outros,0.7807921046640924
+,,venho com boas noticias o conjunto que voce se interessou acabou de subir no site com pouquissimas unidades,raw,outros,outros,0.6966634448630135
+,,sobre a questao do frete e possivel unificar ele nas blusas da lounge que voce gostou vou te mandar o link das duas,raw,prazo_entrega,prazo_entrega,0.7388607983291667
+,,tem link? como compro?,raw,disponibilidade,disponibilidade,0.5915130015156211
+,,aqui o link com todos os acessa <num> rios,raw,outros,outros,0.6868480755967249
+,,amanda nosso pessoal tecnico pediu se possivel se cadastrar atraves desse link,raw,outros,outros,0.7099329795328067
+,,o tom certo a c o que esta no site os stories que a bia postou hoje modificaram um pouco o tom,raw,outros,outros,0.7807921046640924
+,,amanda nosso pessoal ta c cnico pediu se possavel se cadastrar atrava c s desse link,raw,outros,outros,0.7208377767336265
+,,na o estou conseguindo entrar no site para fazer compra,raw,outros,outros,0.7682015777134844
+,,aqui o link com todos os acessorios,raw,outros,outros,0.7216063047147779
+,,gostei do conjunto mas na o vi no site,raw,outros,outros,0.6717653178204503
+,,qual o endereco,raw,outros,outros,0.7475702464265859
+,,estaremos atualizando no site para conter essa tabela que realmente estava faltando,raw,outros,outros,0.6901852218804224
+,,venho com boas notacias o conjunto que vocaa se interessou acabou de subir no site com pouquassimas unidades,raw,outros,outros,0.7365346601088392
+,,nao estou conseguindo entrar no site para fazer compra,raw,outros,outros,0.7081229777965892
+,,link da cala a por gentileza,raw,outros,outros,0.7369612166304849
+,,certo qual o link da compra,raw,outros,outros,0.6972641945984857
+,,"quero um look casual para trabalho, uso GG",raw,duvida_tamanho,duvida_tamanho,0.8276778920861046
+,,ah que otimo monica esperamos que aproveite muito ela e se quiser compartilhar com a gente os looks que criar com ela vamos amar ver,raw,pedido_sugestao,pedido_sugestao,0.7777037288016333
+,,"quero um look casual para trabalho, uso 36",raw,duvida_tamanho,duvida_tamanho,0.8224368581485114
+,,look,raw,pedido_sugestao,pedido_sugestao,0.5984334036498227
+,,"quero um look casual para trabalho, uso M",raw,duvida_tamanho,duvida_tamanho,0.8224368581485114
+,,"quero um look casual para trabalho, uso 42",raw,duvida_tamanho,duvida_tamanho,0.8224368581485114
+,,mas amei a sugestao ju,raw,pedido_sugestao,pedido_sugestao,0.736615349309238
+,,"quero um look minimalista para trabalho, uso 36",raw,duvida_tamanho,duvida_tamanho,0.8023936345166565
+,,"quero um look casual para trabalho, uso 44",raw,duvida_tamanho,duvida_tamanho,0.8224368581485114
+,,gosto muito dos looks mas percebo que ha muito jogo c volumes,raw,pedido_sugestao,pedido_sugestao,0.5894914285893402
+,,amoooo suas rasteiras na o sa o da sua lj mas poderia indicar aonde taam aquela custo benefacio,raw,outros,outros,0.5513906583380859
+,,"quero um look minimalista para trabalho, uso 40",raw,duvida_tamanho,duvida_tamanho,0.8023936345166565
+,,"quero um look minimalista para trabalho, uso G",raw,duvida_tamanho,duvida_tamanho,0.8023936345166565
+,,"quero um look casual para trabalho, uso P",raw,duvida_tamanho,duvida_tamanho,0.8224368581485114
+,,"quero um look minimalista para trabalho, uso GG",raw,duvida_tamanho,duvida_tamanho,0.8149968168407457
+,,"quero um look minimalista para trabalho, uso PP",raw,duvida_tamanho,duvida_tamanho,0.81646840230705
+,,"quero um look casual para trabalho, uso 40",raw,duvida_tamanho,duvida_tamanho,0.8224368581485114
+,,que maximo marca a gente nos seus looks muito feliz que esta curtindo a selea a o de pea as logo mais teremos muitas novidades bacanas d,raw,pedido_sugestao,pedido_sugestao,0.7767633958293445
+,,ah que a <num> timo monica esperamos que aproveite muito ela e se quiser compartilhar com a gente os looks que criar com ela vamos amar ver,raw,pedido_sugestao,pedido_sugestao,0.7721738709474906
+,,obrigada por nos mandar e informar sobre essa situacao ja passamos para o nosso setor tecnico analisar essa situacao caso deseje podemos tirar duvidas e disponibilizar mais informacoes por aqui so nos solicitar estamos a disposicao para qualquer coisa,raw,agradecimento,agradecimento,0.605758898595474
+,,ola tudo bem meu nome e leonardo trabalho na importadora <user> <user> vi o instagram da marca e voces tem o perfil lulitex muito sofisticacao e bom gosto trabalhamos com pronta entrega e importacao de tecidos exclusivos de acordo com a demanda do cliente nosso showroom tem um acervo enorme sera um prazer recebe los em uma visita poderia me passar o contato do estilo ou compras desde ja agradeco a atencao att leonardo jose e mail leonardo <user> com br pabx <num> <num> <num> <num> whatsapp <num> <num> <num> <num> www lulitex com br,raw,prazo_entrega,prazo_entrega,0.6146972078257743
+,,bom dia mariella td bem que tamanho voce costuma usar de parte de cima camisas em especial,raw,duvida_tamanho,duvida_tamanho,0.595410949639083
+,,vc poderia checar se houve algum problema com os correios de sa o paulo pois nem chegou no correio de curitiba,raw,outros,outros,0.679465539728531
+,,bom dia julienne o que achou da nossa selecao edited,raw,saudacao,saudacao,0.7730070397533013
+,,oi mari boa tarde ah que a <num> timo combinado enta o fico muito feliz que o conjunto tenha ficado bacana conta com a gente para o que precisar grande abraa o aproveite o final de semana torcendo para baixar um pouco a temperatura d,raw,saudacao,saudacao,0.5675343146255194
+,,boa tarde fabiana como vai passando para avisar que as blusas acabaram de ser repostas no site estoque,raw,disponibilidade,disponibilidade,0.6088600543902916
+,,ola van td bem farei um video para vc,raw,saudacao,saudacao,0.8656644315399568
+,,ola amanda obrigada pelo contato e pedimos desculpas pela falha ja estamos verificando o que houve para que consiga finalizar sua compra,raw,saudacao,saudacao,0.5983874610616515
+,,oi lucia bom dia tudo bem aqui a c a ana do time curadobia vocaa conseguiu dar uma olhada em tudo que te mandamos se tiver alguma daovida sigo aqui,raw,saudacao,saudacao,0.8277418581927982
+,,com relacao a outra blusa que voce gostou ela esta em processo de lancamento e ainda nao esta a venda no nosso site mas independente desse fator nao seria possivel unificar o frete nesse caso pois o frete so fica unificado para as pecas da mesma marca,raw,prazo_entrega,prazo_entrega,0.6895299107411201
+,,ola dany bom dia caso tenha algum problema com o tamanho voce pode optar por trocar ou devolver o produto basta nos informar pelo e mail contato curadobia <user> com que iremos encaminhar sua solicitacao para a marca responsavel a marca ira proceder com os proximos passos como envio do codigo de logistica reversa e tudo mais,raw,troca_devolucao,troca_devolucao,0.7448649575779919
+,,ola sua curadoria projeto editorial e grafico sao incriveis parabens mas sua plataforma de e commerce nao funciona bem estou desde ontem tentando fazer compras mas paginas nao carregam carrinhos esvaziam muito dificil,raw,saudacao,saudacao,0.8111619877925328
+,,oi gabriela tudo bem vi que voce conseguiu acessar o nosso site e realizou seu pedido certo eles ja estao em separacao e logo mais estarao contigo qualquer coisa sigo aqui para te ajudar,raw,saudacao,saudacao,0.7718004526460823
+,,oi adriana bom dia como vai obrigada pelo seu interesse conosco estamos fazendo uma repaginaa a o no site e assim que voltarmos te mando o link do nosso conjunto que vocaa gostou d deg,raw,saudacao,saudacao,0.7448378832032104
+,,oii comprei a bico fino o dedo fica um pouquinho de lado pra fora ne mas super confortavel,raw,duvida_tamanho,duvida_tamanho,0.6626282183334918
+,,obrigada pelo prestagio foi incravel te ter de pertinho hojed d,raw,agradecimento,agradecimento,0.7924631754091552
+,,ola renata bom dia que bom receber mensagem tua me chamo ana e faa o parte do time curadobia nesse lindo look da bia na <num> s temos somente a blusa disponavel no curadobia aoi,raw,pedido_sugestao,pedido_sugestao,0.6114792982371484
+,,bom dia pamela tudo bem revisamos aqui o nosso sistema e fizemos testes e tudo parece funcionar bem esperamos que voce tenha uma boa experiencia agora o que aconselhamos tambem e entrar no site pelo google chrome caso voce ainda nao tenha acessado por la vou te encaminhar os links dos produtos que voce nos encaminhou <url> <url> <url> <url> <url>,raw,saudacao,saudacao,0.633394620345441
+,,oi silvana tudo bem bom dia quem fala com vocaa a c a ana do time curadobia posso confirmar com vocaa se seria essa camisa que te interessou segue,raw,saudacao,saudacao,0.7800131274323708
+,,ola sou o gerente de vendas da pg game platform quero falar com voce sobre parcerias nossa plataforma foi licenciada conjuntamente pelo governo federal brasileiro e pelo governo de curacao em outubro voce pode se juntar a nos e lhe daremos altas comissoes entre em contato comigo pelo whatsapp <num>,raw,onde_comprar,onde_comprar,0.7426808288378167
+,,ola evelyn bom dia tudo bem aqui somos do curadobia voce teria interesse em apresentar a sua marca pensando em participar do curadobia ou seria referente a parceria de divulgacao com a bia,raw,saudacao,saudacao,0.7736057338730185
+,,com relaa a o a outra blusa que vocaa gostou ela esta em processo de lana amento e ainda na o esta a venda no nosso site mas independente desse fator na o seria possavel unificar o frete nesse caso pois o frete sa <num> fica unificado para as pea as da mesma marca,raw,prazo_entrega,prazo_entrega,0.6811750053404858
+,,oie bom dia tudo bem obrigada pela sua mensagem entramos em contato com a marca d aura que produz a saia e eles nos informaram que em <num> dias ira o receber novos estoques da nossa saia anica,raw,saudacao,saudacao,0.6414966259270788
+,,oi boa tarde ana aqui vocaa conseguiu dar uma olhada na cala a qualquer coisa sigo aqui para o que vocaa precisar viu edited,raw,saudacao,saudacao,0.7991019256193572
+,,oi renata boa tarde ana aqui vocaa conseguiu dar uma olhada nas opa aues que te mandei qualquer coisa sigo aqui para o que vocaa precisar ta,raw,saudacao,saudacao,0.7762951134184524
+,,coisa,raw,outros,outros,0.800374248889527
+,,com relacao a previsao de entrega por conta dessa questao na plataforma as marcas tambem nao receberam a notificacao do pedido e por isso ira acabar atrasando um pouco a sua compra mas nos tambem ja entramos em contato com a stella bastos sobre a sua compra e logo mais ela estara com voce desculpa pelo ocorrido qualquer coisa nos avise obrigada por ser nossa cliente equipe curadobia,raw,prazo_entrega,prazo_entrega,0.5953112395871346
+,,bom dia adriana como vocaa esta,raw,saudacao,saudacao,0.7089343061496828
+,,ola katia tudo bem,raw,saudacao,saudacao,0.8931333658167746
+,,ola luana bom dia tudo bem hoje ainda nao temos sapatos dentro do curadobia estamos olhando para adicionar essa categoria em breve,raw,saudacao,saudacao,0.7498595804451208
+,,ola bom dia infelizmente essa cala a tamba c m saiu do nosso mix estamos com novos produtos e novas marcas entrando no curadobia esperamos que goste qualquer coisa sigo aquid,raw,duvida_tamanho,duvida_tamanho,0.6860449733082714
+,,sobre a questa o do frete a c possavel unificar ele nas blusas da lounge que vocaa gostouaoi vou te mandar o link das duas,raw,prazo_entrega,prazo_entrega,0.7650581408562152
+,,boa tarde comprei a blusa pah mas na o consigo deixa la parecida como da fotoa acho que estou usando de forma erradaa tem alguma tutorial de como vesti la rs,raw,disponibilidade,disponibilidade,0.5993072619113473
+,,oi anne bom dia tudo bem aqui a c a ana do time curadobia a bia nos informou que vocaa se interessou pela nossa bolsa molona mas que infelizmente ela esta indisponavel no site,raw,saudacao,saudacao,0.8024020820956845
+,,oii comprei a bico fino o dedo fica um pouquinho de lado pra fora na c mas super conforta vel,raw,duvida_tamanho,duvida_tamanho,0.6700541347696635
+,,ola gisela essa sandalia a c da minha collab com a paula ferber,raw,saudacao,saudacao,0.7163063664552907
+,,ola bia sou a daniela e gostaria de apresentar minha marca pra vc a queens gate minha sa <num> cia e eu ja te acompanhamos tem um bom tempo e somos muito fa s a sua curadoria com seus neutros com tcharanz refora ou a vontade de apresentar o conceito da nossa marca pra vc vamos completar <num> ano em agosto e adoraraamos um bate papo com vc pra contar nossa hista <num> ria e nossos planos moro em londres e minha sa <num> cia em sp e vou deixar meu whatsapp pessoal por conta do fuso aqui e mando o link do nosso insta pra vc dar uma olhadinha d obrigada <num> <num> <num> <num>,raw,disponibilidade,disponibilidade,0.7454801226985743
+,,agora estou organizando as coisas,raw,outros,outros,0.6730058329108062
+,,ola pessoal como vao meu nome e ana e trabalho junto com a bia paes de barros no curadobia com br o curadobia e um marketplace que nasceu com o proposito de reunir em um so lugar pecas que fazem toda a diferenca no armario e ao mesmo tempo sao faceis de usar os chamados neutros com tcharanz acreditamos que a argi super se conecta com essa proposta com quem poderia conversar para falar mais sobre aguardo voces,raw,saudacao,saudacao,0.6491634592520351
+,,oieee obrigada de verdade,raw,saudacao,saudacao,0.5736445648481989
+,,oi karyna bom dia tudo bem vamos verificar,raw,saudacao,saudacao,0.7422363524486869
+,,ola eu encontro as medidas no site,raw,duvida_tamanho,duvida_tamanho,0.6269423733625076
+,,sheila essa foi a tabela passada para nos pela marca estamos em contato com eles para ter exatamente a medida do quadril inclusive obrigada pela pergunta pois com ela vamos atualizar o nosso site mas podemos te adiantar que ele tem uma estrutura folgada no quadril entao acreditamos que ele vai dar certo para ti no tamanho <num> para te passar outra base nas fotos do produto no nosso site a bia esta vestindo o tamanho <num>,raw,duvida_tamanho,duvida_tamanho,0.808362335549317
+,,boa tarde pessoal tudo bem estava namorando um macacao verde no site da marca d aura porem nao localizei mais saiu de colecao nao tera reposicao aguardo obrigada milene,raw,disponibilidade,disponibilidade,0.6335087171495173
+,,que ai conseguimos encaminhar pro la as tratativas o que acha se puder esclarecer que seria algo mais voltado para o perfil pessoal da bia ou para o curadobia seria bacana entendermos tambem para encaminhar de forma mais assertiva sua mensagem,raw,outros,outros,0.612354882228442
+,,ola boa tarde o <num> e equivalente ao p <num> m e <num> g,raw,duvida_tamanho,duvida_tamanho,0.5992823397973576
+,,ola pessoal como va o meu nome a c ana e trabalho junto com a bia paes de barros no curadobia com br o curadobia a c um marketplace que nasceu com o propa <num> sito de reunir em um sa <num> lugar pea as que fazem toda a diferena a no arma rio e ao mesmo tempo sa o fa ceis de usar os chamados neutros com tcharanz acreditamos que a marca de vocaas pode se conectar com essa proposta com quem poderia conversar para falar mais sobre aguardo vocaas,raw,saudacao,saudacao,0.6162726034152677
+,,obrigada pelo prestigio foi incrivel te ter de pertinho hoje,raw,agradecimento,agradecimento,0.7891814456633861
+,,oii o site curadobia esta fora do ar fui visitar atraves dos link da bio e nao funcionou bjs,raw,saudacao,saudacao,0.6125479263385916
+,,oi bia tudo bem me chamo alice sou socia da monti uma marca de moda que preza por estilo atemporal e pecas de qualidade estamos buscando consultoras de imagem parceiras para recomendar nossas pecas aos seus clientes e pensei que poderiamos criar algo bem legal juntas o que acha de agendarmos um papo para te contar mais sobre a nossa historia e a ideia de parceria fico no aguardo,raw,pedido_sugestao,pedido_sugestao,0.6171166882395874
+,,ola como tirar daovidas de tamanho da pea a,raw,duvida_tamanho,duvida_tamanho,0.7709176682187907
+,,oi pri estao entrando muitas marcas incriveis novas no curadobia porem a oysho nao e uma delas,raw,saudacao,saudacao,0.5975210663934162
+,,fatima te respondemos no whatsapp mas nao recebemos seu retorno esta tudo bem qualquer coisa sigo aqui a disposicao,raw,onde_comprar,onde_comprar,0.6956044938223138
+,,bom dia gostaria de adquirir essa calca mas nao esta mais disponivel podem me ajudar obrigada,raw,disponibilidade,disponibilidade,0.7153718710870429
+,,boa tarde milene td bem e vc esse macacao nesse tom infelizmente nao tera reposicao mas lancamos ontem o mesmo modelo em preto,raw,disponibilidade,disponibilidade,0.6260086140180331
+,,oie td bem e vc ainda nao mas em breve tera,raw,saudacao,saudacao,0.8094642795369749
+,,oi claudia que mensagem boa ficamos felizes de voce gostar dos nossos produtos vou confirmar sua compra e te aviso,raw,saudacao,saudacao,0.6278242038101933
+,,ola como tirar duvidas de tamanho da peca,raw,duvida_tamanho,duvida_tamanho,0.7598973026164944
+,,oi pri esta o entrando muitas marcas incraveis novas no curadobia pora c m a oysho na o a c uma delasd,raw,duvida_tamanho,duvida_tamanho,0.640996654904783
+,,boa tarde na pagina da regata podrinha cinza eu nao consigo ver as medidas dos tamanhos acima do g que sao justamente o que visto poderia me enviar essas medidas dos tamanhos gg e xgg por favor,raw,erro_plataforma,erro_plataforma,0.5843600676849835
+,,qualquer coisa seguimos aqui,raw,outros,outros,0.8312374743504993
+,,ola gente bom dia acabei de ver o post da bia sobre camisas somos uma pequena alfaiataria e camisaria e o core da nossa criacao gostaria muito de apresentar nosso produto pra voces se voces acharem conveniente por favor indiquem a melhor forma de contato abraco stella,raw,saudacao,saudacao,0.6412844300278231
+,,ola kari bom dia tudo bem,raw,saudacao,saudacao,0.8931333658167746
+,,ola td bem fiz uma compra com vc e recebi apenas o tricot vc pode me ajudar muito obrigada desde ja,raw,saudacao,saudacao,0.7866257398380905
+,,oi ana a marcia fonseca esta em contato com vc ne vamos conversar sim a fernanda tem mto interesse,raw,disponibilidade,disponibilidade,0.5810435820128872
+,,oi anna bom dia tudo bem nos desculpe a falta de resposta vou te mandar mensagem via whatsapp para ficar melhor a nossa comunicacao tudo bem mas pode ficar tranquila pois realmente nosso atendimento funciona prioritariamente durante a semana e nao vamos te deixar desamparada,raw,onde_comprar,onde_comprar,0.6336317980785817
+,,daniela depois me passa seu numero de telefone que ai seguimos a comunicacao por la e pelo e mail,raw,outros,outros,0.7438021045881802
+,,oi danuza bom dia tudo bem pode nos informar por aqui a duvida ou se preferir uma comunicacao mais agil pode nos chamar no nosso whatsapp,raw,onde_comprar,onde_comprar,0.676957533278926
+,,ola que bom que vocaa se interessou por na <num> s muito bom receber tua mensagem joana infelizmente essa cala a na o esta no curadobia e a c acervo pessoal da bia mesmod esse video tem a finalidade de apresentar as nossas camisas d esperamos que goste,raw,disponibilidade,disponibilidade,0.5951562170467504
+,,oi karyna bom dia vimos que voce mandou as mesmas mensagens pelo nosso whatsapp vamos dar seguimento por la entao tudo bem obrigada,raw,onde_comprar,onde_comprar,0.61460755616115
+,,obrigada pelo prestigio foi incrivel te ter de pertinho ontem,raw,agradecimento,agradecimento,0.7426335159657402
+,,ola boa tarde silvana tudo bem obrigada pela sua mensagem a nossa pantalona jeans esta saindo por r <num> <num> qualquer coisa estamos aqui,raw,saudacao,saudacao,0.7011767297831725
+,,ola bia sou a daniela e gostaria de apresentar minha marca pra vc a queens gate minha socia e eu ja te acompanhamos tem um bom tempo e somos muito fas a sua curadoria com seus neutros com tcharanz reforcou a vontade de apresentar o conceito da nossa marca pra vc vamos completar <num> ano em agosto e adorariamos um bate papo com vc pra contar nossa historia e nossos planos moro em londres e minha socia em sp e vou deixar meu whatsapp pessoal por conta do fuso aqui e mando o link do nosso insta pra vc dar uma olhadinha obrigada <num> <num> <num> <num>,raw,disponibilidade,disponibilidade,0.7477448070826501
+,,ola maria luiza td bem obrigada pelo seu interesse a sandalia a c feita de um material ela stico que parece um neoprene para trazer conforto e se moldar nos pa c s d,raw,saudacao,saudacao,0.774491997403766
+,,oi julia tudo bem essa e da egrey mais antiga estamos a poucos dias de lancar novos modelos de jeans de uma nova marca que entrara no curadobia assim que lancarmos te mandamos aqui,raw,saudacao,saudacao,0.6813885989600622
+,,oi gabriela tudo bem ana aqui do time do curadobia estavamos passando por algumas instabilidades mas acredito que agora ja esta tudo resolvido te encaminho aqui o site para ficar mais facil o acesso,raw,saudacao,saudacao,0.7064722660655457
+,,ola carol td bem e vc pode nos enviar para contato curadobia <user> com,raw,saudacao,saudacao,0.7515289749122478
+,,bia voce acaba comigo com tantas coisas lindas do curadobia queria muito que tivesse frete internacional canada eu fico aqui babando,raw,prazo_entrega,prazo_entrega,0.6421218585089161
+,,ola obrigada qual a previsa o de entrega,raw,prazo_entrega,prazo_entrega,0.7325380310058387
+,,oi bia sou erika dos <user> gostaria de saber como voce trabalha em relacao a promocao de produtos meus brincos sao autorais e os fabrico a <num> anos a producao e <num> nacional fabricamos desde a liga do metal ate o banho de ouro <num> k nossos brincos sao todos bordados a mao com um finissimo arame de cobre e depois banhado a ouro espero seu contato obrigada,raw,saudacao,saudacao,0.5980202820438411
+,,ola julienne bom dia tudo bem que bom receber sua mensagem eu me chamo ana e sou do time curadobia,raw,saudacao,saudacao,0.8088115527642765
+,,ola vcs tem uma tabela de medidas para essa calca amei e gostaria de escolher o tamanho certo visto <num> e tenho <num> <num> de quadril entao nao tenho certeza do p ou m poderiam me ajudar no aguardo grata adriana baggio,raw,duvida_tamanho,duvida_tamanho,0.8222137566447616
+,,oi renata boa tarde ana aqui voce conseguiu dar uma olhada nas opcoes que te mandei qualquer coisa sigo aqui para o que voce precisar ta,raw,saudacao,saudacao,0.7691425718613236
+,,oi bia tudo bem adorei a <user> o nome ficou demais e claro ja fui olhar as pecas nao localizei tabela de medidas porem pelo tamanho das pecas que vc veste o g provavelmente nao vai caber em mim uso <num> <num> a depender da confeccao pense com carinho em fazer uma curadoria para tamanhos normais desejo muito sucesso nessa nova empreitada que deus te abencoe bjos,raw,duvida_tamanho,duvida_tamanho,0.7933060968790808
+,,oi maria tudo bem bom dia nosso evento e exclusivo para nossas clientes conhecerem o mix de perto e ocorre duas vezes ao ano o proximo sera em novembro te esperamos,raw,saudacao,saudacao,0.6110837511011403
+,,boa noite havera reposicao da saia unica preta no tamanho <num>,raw,duvida_tamanho,duvida_tamanho,0.795480604160897
+,,bom dia beatriz tudo bem obrigada por ter entrado em contato conosco vamos te encaminhar uma mensagem pelo nosso whatsapp oficial edited,raw,onde_comprar,onde_comprar,0.718945432311903
+,,mas temos varias opcoes qualquer coisa sigo aqui para te auxiliar,raw,outros,outros,0.7491436503608685
+,,ola bom dia sheila tudo bem que bom que gostou do nosso macacao cool nos temos ele nos tamanhos <num> <num> <num> e <num> vou te encaminhar o link dele para que possa visualizar no nosso site <url>,raw,duvida_tamanho,duvida_tamanho,0.6848552672501749
+,,oie essa cala a vai ter reposia a o na curadoria,raw,saudacao,saudacao,0.7697280357527929
+,,ola tudo bem que bom receber sua mensagem meu nome e ana e sou do time curadobia com relacao a sua duvida conversei com a propria bia e ela nos informou que volumes tambem podem funcionar para quem esta um pouco acima desde que tenha um pouco de pele de fora para trazer leveza,raw,saudacao,saudacao,0.8003676560491229
+,,ola por favor algum retorno,raw,saudacao,saudacao,0.6411352638920582
+,,bom dia sou a gianina marques mineira mae e autora de joias artesanais gostaria de deixar meu insta para vcs conhecerem minhas joias feita com carinho e totalmente exclusiva aguardo o retorno de vcs q tem tanto conhecimento na area desde ja obrigada <user>,raw,disponibilidade,disponibilidade,0.5635027234256027
+,,ola camila td bem segue aqui o link da blusa que voce gostou qualquer duvida estamos a disposicao ok,raw,saudacao,saudacao,0.7800502323525619
+,,ola meninas tudo bem comprei a saia preta da d aura em outubro precisei trocar foram rapidissimos mas so hoje eu soube que nao levaram a sacola com a peca a ser trocada ficou este tempo todo na minha portaria como faco,raw,troca_devolucao,troca_devolucao,0.6412492842872706
+,,oie sa o lindas pora c m aquele modelo foi o que mais me agradou mas tranquilo super obrigada pela atena a o,raw,duvida_tamanho,duvida_tamanho,0.6456211055497003
+,,qualquer coisa seguimos a disposicao por aqui ok,raw,outros,outros,0.7980789888102781
+,,oi ana tudo bem na a c poca o pessoal da d aura te instruiu que iriam retirar na sua portaria,raw,saudacao,saudacao,0.6626231124080318
+,,oi renata boa tarde aqui a c a ana acredito que te respondi por whatsapp certo qualquer coisa estou por aqui,raw,onde_comprar,onde_comprar,0.572844588795127
+,,oi talita muito bom receber sua mensagem agradecemos demais o contato e que bacana vocaas terem pensado na gente pora c m nesse momento na <num> s na o estamos trabalhando com produa a o de qualquer forma salvamos o teu contato para futuras oportunidades atenciosamente equipe curadobiad,raw,duvida_tamanho,duvida_tamanho,0.7336454129605554
+,,oi clau tudo bem bom dia aqui a c a ana da equipe do curadobia vimos que vocaa se interessou pelo macaca o no video da bia mas na a c poca ele ainda estava em lana amento boa notacia agora esta disponavel d segue o link abaixo para que vocaa possa dar uma olhada,raw,saudacao,saudacao,0.7614378652755216
+,,ola bom dia me chamo anelisa e gostaria de confirmar se meu pedido foi realizado nao sei se esse e o canal mais adequado para essa solicitacao mas como nao achei no site um campo para falar com voces decidi vir aqui fiz essa compra ontem pelo site e logo depois de finalizar apareceu uma mensagem dizendo que o pagamento nao estava confirmado no entanto no site diz que o pagamento foi efetuado e nao recebi nenhuma mensagem do banco dizendo que o pagamento foi negado alem disso tambem nao recebi um e mail com os dados do pedido muito obrigada desde ja,raw,saudacao,saudacao,0.6785522510181841
+,,ola bom dia sou muito fa da bia mas nunca comprei no curadoria uma duvida como faco para escolher um tamanho com mais seguranca tem uma tabela de medidas para servir de referencia obrigada,raw,duvida_tamanho,duvida_tamanho,0.7485256567492545
+,,oi mari bom dia tudo bem infelizmente essa cala a na o teremos mais reposia a o no curadobia mas estamos com diversas novidades no site qualquer coisa sigo aqui para o que vocaa precisar,raw,saudacao,saudacao,0.7116324821643703
+,,ola bom dia tudo bem obrigada pela mensagem conferimos aqui e aparentou estar tudo certo aproveito para mandar o link por aqui,raw,saudacao,saudacao,0.7934893841677028
+,,boa tarde estava previsto pra chegar hoje minha encomenda porem nada foi entregue,raw,saudacao,saudacao,0.569792590959969
+,,mas a experiaancia de compra na o foi legal,raw,outros,outros,0.7092195607327478
+,,oi daniela que bacana muito obrigada por acompanharem e curtirem meu trabalho,raw,saudacao,saudacao,0.5701039476860112
+,,ola dany boa tarde tudo bem sim e com vocaa pea o desculpas por essa demora estou verificando sobre porque ainda na o foi dada sequaancia na troca o processo interno nosso ja foi encaminhado com a troca para o tamanho p,raw,troca_devolucao,troca_devolucao,0.7744077900660276
+,,uma coisa de lindo,raw,outros,outros,0.8219211445595681
+,,ola dany boa tarde tudo bem sim e com voce peco desculpas por essa demora estou verificando sobre porque ainda nao foi dada sequencia na troca o processo interno nosso ja foi encaminhado com a troca para o tamanho p,raw,troca_devolucao,troca_devolucao,0.7838552550006828
+,,qual seu e mail que ai envio um invite,raw,outros,outros,0.6772035295273235
+,,oie em breve trarei uma curadobia de bolsas por aqui tmb,raw,saudacao,saudacao,0.6611023029512816
+,,bom dia gostei da calca vai ter no site obrigada,raw,saudacao,saudacao,0.5902806146730163
+,,como uma cratica construtiva vcs deveriam mandar um e mail para confirmar o pedido compro bastante on line e sempre vem o e mail do status do pedido o cliente fica mais seguro da compra,raw,duvida_tamanho,duvida_tamanho,0.6904894698664071
+,,como uma critica construtiva vcs deveriam mandar um e mail para confirmar o pedido compro bastante on line e sempre vem o e mail do status do pedido o cliente fica mais seguro da compra,raw,duvida_tamanho,duvida_tamanho,0.6904894698664071
+,,mas tmb lancarei um aprograma online de estilo pessoala que podera ser baixado por aqui tmb,raw,outros,outros,0.7189129517128394
+,,muito estilo,raw,outros,outros,0.6308706959302045
+,,deixa eu tirar outra duvida vc faz consultoria de imagem estilo tb se sim como funciona,raw,outros,outros,0.8024513456127556
+,,mas tmb lancarei um programa online de estilo pessoal que podera ser baixado por aqui tmb,raw,outros,outros,0.7340658486679039
+,,estilo,raw,outros,outros,0.754743336971828
+,,bia tudo bem tenho uma festa bem legal e o traje a c black and white pensei na blusa pah mas queria saber se o tecido fica vistoso e se vocaa recomenda alguma cala a mais festa para combinar beijos julie,raw,duvida_tamanho,duvida_tamanho,0.6721333188468772
+,,a modelagem a c grande pode ser tam <num>,raw,outros,outros,0.810644148783928
+,,pora c m a c interessante frisar que a modelagem da cala a a c uma cintura no lugar nem cintura baixa e nem cintura alta,raw,duvida_tamanho,duvida_tamanho,0.8099720415309065
+,,modelagem,raw,outros,outros,0.7216219165911
+,,fiz uma compra de um casaco com vcs e na o vestiu bem gostaria de trocar por uma cala a fresquinha tamanho m,raw,troca_devolucao,troca_devolucao,0.7785611572347985
+,,sem problemas mari apenas encaminha pra gente um e mail solicitando que iremos dar sequencia com a troca e mail contato curadobia <user> com,raw,troca_devolucao,troca_devolucao,0.7223713210864068
+,,como a c o processo da troca,raw,troca_devolucao,troca_devolucao,0.7954799722764105
+,,nao vou trocar vou tentar reduzir o gancho,raw,troca_devolucao,troca_devolucao,0.7885161149279764
+,,claro pode trocar super,raw,troca_devolucao,troca_devolucao,0.739942886116253
+,,posso trocar caso eu experimente e prefira uma maior,raw,troca_devolucao,troca_devolucao,0.770504584473696
+,,como e o processo da troca,raw,troca_devolucao,troca_devolucao,0.7954799722764105
+,,caso na o fique com como funciona a troca,raw,troca_devolucao,troca_devolucao,0.780525323174333
+,,sobre a troca da cala a que comprei quero trocar por um tamanho menor recebi um e mail de vcs no dia <num> <num> <num> respondi mas dps disso na o tive mais retorno,raw,troca_devolucao,troca_devolucao,0.7933164497669082
+,,caso nao fique com como funciona a troca,raw,troca_devolucao,troca_devolucao,0.7914609332855644
+,,como proceder p troca,raw,troca_devolucao,troca_devolucao,0.7826539200895865
+,,"perfeito, obrigada!",raw,agradecimento,agradecimento,0.7691266085498365
+,,quero saia preto 46,raw,duvida_tamanho,duvida_tamanho,0.8401060559781616
+,,quero body verde GG,raw,duvida_tamanho,duvida_tamanho,0.8510819535173966
+,,quero blazer preto 46,raw,duvida_tamanho,duvida_tamanho,0.8405989776513307
+,,tem saia preto tamanho G?,raw,duvida_tamanho,duvida_tamanho,0.8749127601046292
+,,tem body verde tamanho 46?,raw,duvida_tamanho,duvida_tamanho,0.8789839547538956
+,,quero vestido preto 36,raw,duvida_tamanho,duvida_tamanho,0.8398603328309783
+,,tem blazer preto tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.875822638165911
+,,quero body verde P,raw,duvida_tamanho,duvida_tamanho,0.8461862278331582
+,,tem body verde tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.8619176926454835
+,,tem jaqueta preto tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.8722863902953689
+,,tem saia verde tamanho 42?,raw,duvida_tamanho,duvida_tamanho,0.8786537773137357
+,,tem body preto tamanho M?,raw,duvida_tamanho,duvida_tamanho,0.8775038310992815
+,,quero camisa verde 42,raw,duvida_tamanho,duvida_tamanho,0.8423821285191287
+,,tem camisa preto tamanho P?,raw,duvida_tamanho,duvida_tamanho,0.8709714058795217
+,,tem vestido verde tamanho GG?,raw,duvida_tamanho,duvida_tamanho,0.8664436615288738
+,,tem saia verde tamanho 38?,raw,duvida_tamanho,duvida_tamanho,0.8786537773137357
+,,tem camisa verde tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.8582120764378267
+,,tem camisa preto tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.8549188354897274
+,,quero camisa preto 38,raw,duvida_tamanho,duvida_tamanho,0.8393439465803267
+,,quero body verde 46,raw,duvida_tamanho,duvida_tamanho,0.8461862278331582
+,,tem saia verde tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.8786537773137357
+,,quero saia preto M,raw,duvida_tamanho,duvida_tamanho,0.8401060559781616
+,,quero vestido preto G,raw,duvida_tamanho,duvida_tamanho,0.8398603328309783
+,,quero body verde M,raw,duvida_tamanho,duvida_tamanho,0.8461862278331582
+,,quero body verde 44,raw,duvida_tamanho,duvida_tamanho,0.8461862278331582
+,,tem blazer preto tamanho 44?,raw,duvida_tamanho,duvida_tamanho,0.875822638165911
+,,tem jaqueta verde tamanho 36?,raw,duvida_tamanho,duvida_tamanho,0.8751274048325595
+,,tem blazer preto tamanho PP?,raw,duvida_tamanho,duvida_tamanho,0.8600808192900571
+,,quero jaqueta verde P,raw,duvida_tamanho,duvida_tamanho,0.8407889263374155
+,,quero blazer verde 36,raw,duvida_tamanho,duvida_tamanho,0.8407137607211508
+,,e tem ela preta,raw,disponibilidade,disponibilidade,0.5759381844859828
+,,bia td bom na o estou conseguindo finalizar a compra da aregata podrinhaa coloquei os dados do carta o e no campo cvv eu ponho os naomeros mas o sistema ignora que eu coloquei tentei va rias vezes acho que esta com problemaa,raw,outros,outros,0.5738042026766359
+,,no e mail da nota fiscal nao tem nada,raw,disponibilidade,disponibilidade,0.7739680086062793
+,,essa gladiadora qual o numero tem <num>,raw,disponibilidade,disponibilidade,0.6126161482964747
+,,visto g qual tamanho seria quais cores tem tem a cala a tb,raw,duvida_tamanho,duvida_tamanho,0.7934993553835161
+,,ahhh bom entendi errado entao achei que estava na serra espero que abra o tempo e fiquei um lindo final de semana,raw,outros,outros,0.7968437029083664
+,,temos ela ainda no tamanho <num> e <num>,raw,duvida_tamanho,duvida_tamanho,0.8286527624114399
+,,perfeito ana obrigada pelo retorno,raw,agradecimento,agradecimento,0.8155215221398129
+,,perfeito ja passei pro pessoal realizar a correcao obrigada pelo feedback,raw,agradecimento,agradecimento,0.7830319850522371
+,,obrigada pela presena a livia,raw,agradecimento,agradecimento,0.8053333397399065
+,,muito obrigada pela atena a o,raw,agradecimento,agradecimento,0.7419180001501948
+,,bia esse seu curadobia esta um arraso muito tentador parabens pelo projeto uma duvida qual a sua altura estou interessadissima nessa calca mas sou baixa <num> cm e geralmente tenho que fazer a barras das calcas o que nao e muito facil com essa obrigada,raw,agradecimento,agradecimento,0.7648768108512947
+,,queria ver sua sapateira pq tudo a c lindassimo mas seus sapatos sa o escolhidos a dedo tudo a ver com vc semprea esse a c da laia na c,raw,outros,outros,0.7289667328361188
+,,gabriela entendo sua frustraa a o e a c completamente justificada de fato a marca informou ter tido um pequeno problema de produa a o que na o devera mais ocorrer e por isso acabou enviando atrasado seu pedido sobre o meio de contato estamos providenciando um naomero para atendimento whatsapp por hora estamos apenas com o e mail mas muito em breve ja deixaremos essa opa a o mais fa cil para solua a o de qualquer problema,raw,onde_comprar,onde_comprar,0.6979993323745195
+,,eu estou vendo mesmo que esta demorando mas super obrigada bom final de semana brenda,raw,agradecimento,agradecimento,0.5755509861635495
+,,obrigada pelo retorno namoro o modelo gladiador me lembro dele mas quando fui procurar ja nao tinha mais,raw,agradecimento,agradecimento,0.786682313973899
+,,muito obrigada pelo retorno,raw,agradecimento,agradecimento,0.8462732999399357
+,,obrigada pela presenca renata vai arrasar demais com o conjuntinho mascavo nosso intimo terracota,raw,agradecimento,agradecimento,0.795439471949322
+,,atimo me avise por favor um abraa o e obrigada,raw,agradecimento,agradecimento,0.7187225594757907
+,,obrigada pelo convite adorei a minha sandalia nova a i,raw,agradecimento,agradecimento,0.7881201155112441
+,,vou amanha obrigada,raw,agradecimento,agradecimento,0.6389553048353569
+,,ahhh entendia muito obrigada d,raw,agradecimento,agradecimento,0.7904784909297151
+,,legal obrigada,raw,agradecimento,agradecimento,0.6182448534291713
+,,obrigada pela presena a,raw,agradecimento,agradecimento,0.8145419100260645
+,,queria ver sua sapateira pq tudo e lindissimo mas seus sapatos sao escolhidos a dedo tudo a ver com vc sempre esse e da laia ne,raw,outros,outros,0.6990688151403021
+,,tem vestido verde no M?,raw,duvida_tamanho,duvida_tamanho,0.8347848355222661
+,,tem body preto no GG?,raw,duvida_tamanho,duvida_tamanho,0.8376455440118903
+,,tem body preto no 46?,raw,duvida_tamanho,duvida_tamanho,0.8376280642320626
+,,tem camisa verde no 44?,raw,duvida_tamanho,duvida_tamanho,0.8329777817069411
+,,tem jaqueta verde no 36?,raw,duvida_tamanho,duvida_tamanho,0.8304740377693058
+,,tem blazer preto no 44?,raw,duvida_tamanho,duvida_tamanho,0.8367144089289489
+,,tem saia preto no 40?,raw,duvida_tamanho,duvida_tamanho,0.8347053232559236
+,,tem vestido verde no 44?,raw,duvida_tamanho,duvida_tamanho,0.8347848355222661
+,,tem blazer verde no 44?,raw,duvida_tamanho,duvida_tamanho,0.8368761132051056
+,,tem camisa verde no 38?,raw,duvida_tamanho,duvida_tamanho,0.8329777817069411
+,,tem body preto no P?,raw,duvida_tamanho,duvida_tamanho,0.8376280642320626
+,,tem jaqueta preto no G?,raw,duvida_tamanho,duvida_tamanho,0.8272873623392668
+,,tem blazer verde no 36?,raw,duvida_tamanho,duvida_tamanho,0.8368761132051056
+,,tem saia verde no PP?,raw,duvida_tamanho,duvida_tamanho,0.8283214227950371
+,,tem blazer preto no 38?,raw,duvida_tamanho,duvida_tamanho,0.8367144089289489
+,,tem camisa verde no GG?,raw,duvida_tamanho,duvida_tamanho,0.8320940193933536
+,,tem camisa preto no P?,raw,duvida_tamanho,duvida_tamanho,0.8274780914140478
+,,gostaria a camisa branca tamanho m e possivel,raw,duvida_tamanho,duvida_tamanho,0.7876241214883472
+,,uauuu ameiii linda saia,raw,outros,outros,0.7913704953808078
+,,link da calca por gentileza,raw,outros,outros,0.8117078177600231
+,,outra duvida e sobre o tom certinho dessa jaqueta no site achei que estava num tom diferente dos stories,raw,outros,outros,0.8181654879030328
+,,body mybasic,raw,outros,outros,0.8139286826601418
+,,a calca ficou sobrando muito atras,raw,duvida_tamanho,duvida_tamanho,0.5725108871395944
+,,camisas,raw,outros,outros,0.7033290765479078
+,,segue o link da jaqueta <url>,raw,outros,outros,0.6358404229525595
+,,comprei a jaqueta,raw,outros,outros,0.7982770314464336
+,,camisa,raw,outros,outros,0.575743478946868
+,,comprei um body e paguei frete de <num> dias aoteis pra levar pra uma viagem agora na sexta,raw,prazo_entrega,prazo_entrega,0.7694619195110433
+,,elaine para o tamanho <num> na <num> s indicamos o tamanho <num> da saia,raw,duvida_tamanho,duvida_tamanho,0.8499605421820677
+,,fui olhar para comprar o tamanho <num> dessa calca porem a largura da cintura e do quadril eh a mesma <num>,raw,duvida_tamanho,duvida_tamanho,0.8235512551626389
+,,erro,raw,erro_plataforma,erro_plataforma,0.6229381474105182
+,,chico neto cd mara c mar whatsapp <num> <url>,raw,onde_comprar,onde_comprar,0.7287190774441854
+,,porem teremos em dezembro um evento presencial para trazer as pecas ao vivo para quem quiser conhecer pessoalmente essa curadobia incrivel feita pela bia,raw,outros,outros,0.5737920989960505
+,,qualquer duvida pode tamba c m nos conectar pelo whatsapp d,raw,duvida_tamanho,duvida_tamanho,0.5506432247788849
+,,qual o preco,raw,preco_pagamento,preco_pagamento,0.6233364134945814
+,,preco,raw,preco_pagamento,preco_pagamento,0.6233364134945814
+,,ja vi e amei esperando a virada do cartao pra perder os juazo,raw,preco_pagamento,preco_pagamento,0.7295273458642342
+,,chega quando no 04567-010?,raw,prazo_entrega,prazo_entrega,0.7296967580438757
+,,valor do frete pro 01255-022?,raw,prazo_entrega,prazo_entrega,0.8174411861246433
+,,bia gosto muito das suas bolsas poderia passar umas dicas na o encontrei no seu site a,raw,outros,outros,0.8207889757042868
+,,na verdade eu ja assisti ao vadeo do casaco no site curadobia va rias vezes para tentar chegar a essa conclusa o mas na o consegui,raw,outros,outros,0.7435999232305631
+,,o site esta passando por problemas,raw,outros,outros,0.66032030921098
+,,um dos meus modelos favoritos do site todinh,raw,outros,outros,0.6997432473480473
+,,na verdade eu ja assisti ao video do casaco no site curadobia varias vezes para tentar chegar a essa conclusao mas nao consegui,raw,outros,outros,0.6572843956525888
+,,que maximo marca a gente nos seus looks muito feliz que esta curtindo a selecao de pecas logo mais teremos muitas novidades bacanas,raw,pedido_sugestao,pedido_sugestao,0.77765681770256
+,,eu amo todos os seus looks combina <num> com o meu estilo queria ter todas as pecas para mim pena que moro do outro lado do mundo,raw,pedido_sugestao,pedido_sugestao,0.6794966056200133
+,,"quero um look casual para trabalho, uso PP",raw,duvida_tamanho,duvida_tamanho,0.8267478307217451
+,,sugestao,raw,pedido_sugestao,pedido_sugestao,0.7477242579736207
+,,ola muitissimo obrigada,raw,saudacao,saudacao,0.7931724123702902
+,,ola tudo bem estou apaixonada por essa jaqueta bacanuda da foto o prea o de <num> pula pra setecentos e tanto na hora de comprar a isso mesmo entra um valor de comissa o na hora da compra,raw,preco_pagamento,preco_pagamento,0.5996460480596344
+,,ola tudo bem sobre qual funcionamento deseja saber,raw,saudacao,saudacao,0.8490236590429048
+,,karyna bom dia tudo bem desculpe a demora para o esclarecimento da duvida como somos um marketolace trabalhamos com marcas unicas e diferentes como cada uma tem a sua producao optamos por entrar em contato com a marca parceira da calca ontem para confirmar sua duvida e te responder da melhor maneira possivel a marca nos confirmou que as medidas do tamanho <num> estao corretas com a cintura e o quadril com a mesma medida mesmo isso ocorre pois como e uma peca produzida com elastico na cintura ele acaba ficando na mesma medida do quadril se adequando ao formato do corpo que a usa a unica correcao que ja aproveitamos para fazer que a marca tambem nos informou foi que o tamanho <num> fa calca tambem deveria estar com a mesma medida na cintura e no quadril <num> cm pelo mesmo motivo ja vamos corrigir isso no site qualquer outra questao estamos a disposicao karyna,raw,duvida_tamanho,duvida_tamanho,0.8024878887509225
+,,oi sandra tudo bem passando aqui para te avisar que o jeans preto que vocaa se interessou no nosso reels um tempinho atra s esta disponavel d,raw,saudacao,saudacao,0.5600507414271491
+,,mas venho com boas notacias a partir de quarta feira teremos reposia a o dela d <num> se vocaa ainda tiver interesse me avisa pois ai assim que chegarem eu venho exclusivamente te avisaar,raw,outros,outros,0.5649658318921421
+,,ola tudo bem estou apaixonada por essa jaqueta bacanuda da foto o preco de <num> pula pra setecentos e tanto na hora de comprar e isso mesmo entra um valor de comissao na hora da compra,raw,preco_pagamento,preco_pagamento,0.7099575116179673
+,,ola sou o gerente de vendas da pg game platform quero falar com vocaa sobre parcerias nossa plataforma foi licenciada conjuntamente pelo governo federal brasileiro e pelo governo de curaa ao em outubro vocaa pode se juntar a na <num> s e lhe daremos altas comissaues entre em contato comigo pelo whatsapp <num>,raw,onde_comprar,onde_comprar,0.7278629490467396
+,,oi as compras sa o direto no site,raw,saudacao,saudacao,0.6348716348905296
+,,oi as compras sao direto no site,raw,saudacao,saudacao,0.7187356163236774
+,,bom dia beatriz tudo bem obrigada por ter entrado em contato conosco vamos entrar em contato com voce pelo nosso whatsapp oficial,raw,onde_comprar,onde_comprar,0.7434585794911932
+,,ola tudo bem e com vcs vi que vcs enviaram um e mail para na <num> s vou responder vcs por la ok um beijo e muito obrigada pelo contato < <num>,raw,saudacao,saudacao,0.6225507485485234
+,,ola boa tarde infelizmente na o enviamos para fora do pais mas aceitamos cartaues internacionais com entrega em todo o brasil d,raw,prazo_entrega,prazo_entrega,0.7080661493549311
+,,qualquer coisa seguimos a disposia a o por aqui ok,raw,outros,outros,0.7836936836963793
+,,oi fatima tudo bem bom dia obrigada pela sua mensagem e feedback e muito importante para nos estamos conversando por whatsapp podemos continuar nossa comunicacao por la,raw,onde_comprar,onde_comprar,0.5925545412578274
+,,bom dia maria luiza que bacana que se interessou por essa cala a ela a c muito especial mesmo o valor r <num> <num> caso tenha mais alguma duvida na o deixe de nos constatar equipe curadobia a,raw,preco_pagamento,preco_pagamento,0.6236329763782172
+,,oi esse conjunto marrom a c vendido tamba c m,raw,duvida_tamanho,duvida_tamanho,0.6565106832129726
+,,ola bom dia denize tudo bem estamos repondo o estoque da nossa calca quentinha e por isso ela esta temporariamente indisponivel no nosso site assim que ela retornar te avisamos estamos a disposicao para qualquer duvida obrigada por ter entrado em contato conosco,raw,disponibilidade,disponibilidade,0.6001634356505252
+,,ola karyna tudo bem obrigada por ter entrado em contato conosco,raw,saudacao,saudacao,0.7892260763089547
+,,oi adriana isso ainda nao esta disponivel pois ele e um modelo exclusivo de sao paulo fashion week inclusive fomos semana passada prestigiar a marca reptilia nossa previsao e que esteja disponivel na proxima semana,raw,disponibilidade,disponibilidade,0.6365547775229624
+,,bom dia gostei da cala a vai ter no site obrigada,raw,saudacao,saudacao,0.6821576775264558
+,,bom dia julienne o que achou da nossa selea a o,raw,saudacao,saudacao,0.7634360709640584
+,,ola caroline tudo bem obrigada pelo seu interesse em trabalhar conosco no momento nao estamos trabalhando com o contrato de novas pessoas no nosso time mas ja salvamos seus dados para futuras oportunidades caso tenha mais alguma duvida estamos a disposicao equipe curadobia,raw,saudacao,saudacao,0.7739074895289143
+,,ola anna bom dia seu produto vou enviado dia <num> <num> vocaa consegue acompanhar tudo pelo codigo de rastreio abaixo,raw,prazo_entrega,prazo_entrega,0.61483888300964
+,,ola bom dia roupas lindas aqui mas na o encontrei muitas opa aues de tamanhos maiores a isso mesmo tenho uma cliente que se enquadraria perfeita nesse estilo mais contempora neo mas a c um tamanho g gg <num> <num> poderiam me sugerir algumas opa aues,raw,duvida_tamanho,duvida_tamanho,0.7698378536413716
+,,mas paguei por uma coisa que nao recebi,raw,outros,outros,0.7524518607201246
+,,ele foi postando dia <num> com o ca <num> digo de rastreio aa <num> br,raw,prazo_entrega,prazo_entrega,0.5995769806804494
+,,ola emilia boa noite tudo bem agradecemos demais o feedback e pode ter certeza que uma das preocupaa aues que estamos tendo a c seguir na busca por marcas que tragam opa aues e grades que representam o maior naomero de corpos possavel sobre a tabela de medida estamos buscando ajustar obrigada por nos informar e seguiremos aprimorando cada vez mais bjos d,raw,duvida_tamanho,duvida_tamanho,0.6778137130632472
+,,boa noite havera reposia a o da saia aonica preta no tamanho <num>,raw,duvida_tamanho,duvida_tamanho,0.8137719937138905
+,,deixa eu tirar outra daovida vc faz consultoria de imagem estilo tb se sim como funciona,raw,outros,outros,0.8112504142451759
+,,a modelagem e grande pode ser tam <num>,raw,outros,outros,0.810644148783928
+,,porem e interessante frisar que a modelagem da calca e uma cintura no lugar nem cintura baixa e nem cintura alta,raw,duvida_tamanho,duvida_tamanho,0.7453963933399754
+,,acabei de comprar um conjunto se nao servir posso trocar pelo seu cep deve ser perto da minha casa o meu <num> <num>,raw,troca_devolucao,troca_devolucao,0.6553101350935235
+,,na o vou trocar vou tentar reduzir o gancho,raw,troca_devolucao,troca_devolucao,0.7766402202073006

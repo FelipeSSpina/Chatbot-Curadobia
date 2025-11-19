@@ -1,0 +1,10 @@
+{
+  "n_linhas": 974,
+  "n_colunas": 14,
+  "n_autores": 187,
+  "periodo": "2024-07-02 15:29:44.882 → 2025-05-19 14:24:34.886",
+  "pct_ruido": 0.0,
+  "pct_pt": 78.64,
+  "len_tokens_media": 9.79,
+  "len_tokens_p95": 32.0
+}

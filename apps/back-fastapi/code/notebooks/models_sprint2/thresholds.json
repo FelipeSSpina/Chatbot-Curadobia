@@ -1,0 +1,7 @@
+{
+  "saved_at": "2025-09-23 20:04:47",
+  "threshold": 0.3,
+  "gap_top2": 0.0,
+  "calibrated": true,
+  "embedder": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+}

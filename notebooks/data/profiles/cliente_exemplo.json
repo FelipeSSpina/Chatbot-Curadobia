@@ -1,0 +1,24 @@
+{
+  "user_id": "demo",
+  "tamanho_superior": "M",
+  "tamanho_inferior": "38",
+  "tamanhos_equivalentes": [
+    "M",
+    "38",
+    "40"
+  ],
+  "estilos_preferidos": [
+    "alfaiataria",
+    "minimalista"
+  ],
+  "cores_evitar": [
+    "amarelo"
+  ],
+  "ocasioes_frequentes": [
+    "jantar",
+    "trabalho"
+  ],
+  "tecidos_evitar": [
+    "poliéster"
+  ]
+}

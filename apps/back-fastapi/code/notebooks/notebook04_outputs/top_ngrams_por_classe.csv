@@ -1,0 +1,157 @@
+classe,term,weight
+agradecimento,obrigada,4.040762628459441
+agradecimento,perfeito,2.25624704408989
+agradecimento,agradeco,1.7211217497731854
+agradecimento,maravilhosa,1.3086136722079758
+agradecimento,muito obrigada,1.2065501960276082
+agradecimento,pelo retorno,1.1794831880466208
+agradecimento,ótimo,1.1484237546833205
+agradecimento,ajudar,1.1378387713863567
+agradecimento,abraço,1.082434618062142
+agradecimento,muito,1.0700730394944835
+agradecimento,retorno,1.0605647051245708
+agradecimento,calça,0.9746469391684468
+buscar_produto_por_categoria,quero,3.6329930488772644
+buscar_produto_por_categoria,verde,3.4806088636941843
+buscar_produto_por_categoria,preto,3.1578117792079636
+buscar_produto_por_categoria,tamanho,2.282285808325342
+buscar_produto_por_categoria,tem,2.0914756062256705
+buscar_produto_por_categoria,preto tamanho,1.8079592939563809
+buscar_produto_por_categoria,verde tamanho,1.7965223815668512
+buscar_produto_por_categoria,blazer,1.4168026771013236
+buscar_produto_por_categoria,vestido,1.3595439921467785
+buscar_produto_por_categoria,camisa,1.3100729212942812
+buscar_produto_por_categoria,body,1.3086360638475383
+buscar_produto_por_categoria,jaqueta,1.2080074848822484
+buscar_produto_por_nome,tem,3.020768729773433
+buscar_produto_por_nome,temos,1.5119617261015086
+buscar_produto_por_nome,ela,1.3967264080206774
+buscar_produto_por_nome,desconto,1.388188047524437
+buscar_produto_por_nome,na,1.3098602932952341
+buscar_produto_por_nome,loja,1.2308920615013283
+buscar_produto_por_nome,tem loja,1.2308920615013283
+buscar_produto_por_nome,cala,1.219922540984672
+buscar_produto_por_nome,ontem,1.1991766486499245
+buscar_produto_por_nome,nao tem,1.18408854046566
+buscar_produto_por_nome,no,1.1189007961061255
+buscar_produto_por_nome,na tem,1.109346503588458
+despedida,obrigada,3.674958247930248
+despedida,ate,1.419388443212655
+despedida,obrigada pelo,1.3125394791228693
+despedida,obrigada pela,1.3112621713677595
+despedida,pela,1.1386300904953175
+despedida,pelo,1.111818827352043
+despedida,categoria,0.8650911834167685
+despedida,pela presenca,0.8644088387782841
+despedida,presenca,0.8644088387782841
+despedida,pela presena,0.8636020928831806
+despedida,presena,0.8636020928831806
+despedida,muito obrigada,0.7869775202538893
+erros_plataforma,erro,3.9433444700334164
+erros_plataforma,plataforma,3.535666012793579
+erros_plataforma,tabela certinha,0.9809090563017571
+erros_plataforma,esse erro,0.9809090563017571
+erros_plataforma,corrigindo,0.9809090563017571
+erros_plataforma,corrigindo esse,0.9809090563017571
+erros_plataforma,certinha mas,0.9809090563017571
+erros_plataforma,aqui tabela,0.9809090563017571
+erros_plataforma,certinha,0.9809090563017571
+erros_plataforma,mas ja,0.9342402291468664
+erros_plataforma,estamos com,0.8987865303837156
+erros_plataforma,ja estamos,0.8931926347866115
+falar_com_humano,numero,3.3106263435496697
+falar_com_humano,whatsapp,2.227760749934844
+falar_com_humano,este meu,2.1741998247873706
+falar_com_humano,este,1.8862755313770283
+falar_com_humano,pessoal,1.5509148274362172
+falar_com_humano,meu,1.5078433932086381
+falar_com_humano,nao,1.2776348090088956
+falar_com_humano,entendermos,1.1997691263729269
+falar_com_humano,area,1.1746773122905767
+falar_com_humano,duvida pode,1.1710621984418852
+falar_com_humano,nos conectar,1.1710621984418852
+falar_com_humano,conectar pelo,1.1710621984418852
+formas_pagamento,preco,3.5854133781697453
+formas_pagamento,faz,2.6745316743582275
+formas_pagamento,valor,2.2612215452675284
+formas_pagamento,valor num,2.1502641471873156
+formas_pagamento,essa blusa,1.7171029332405698
+formas_pagamento,quanto,1.6834957878642531
+formas_pagamento,qual,1.5968937859933323
+formas_pagamento,tem cupom,1.5041577121334762
+formas_pagamento,cupom para,1.4883317940784764
+formas_pagamento,em,1.4022957335389874
+formas_pagamento,olá tudo,1.3420335500321008
+formas_pagamento,ta,1.2470902553040186
+frete_prazo,chega quando,2.62689147973157
+frete_prazo,quando no,2.62689147973157
+frete_prazo,chega,2.5048887872157173
+frete_prazo,quando,2.3696082137524535
+frete_prazo,frete pro,2.253581362607749
+frete_prazo,valor do,2.0984750675083292
+frete_prazo,do frete,2.052138109652378
+frete_prazo,pro,2.051784015896958
+frete_prazo,frete,1.8782070831195334
+frete_prazo,valor,1.7302488715851165
+frete_prazo,022,1.5753844561536725
+frete_prazo,no,1.17819443779419
+materiais_cuidados,passar,2.6880742407647293
+materiais_cuidados,poderia,2.45176566543627
+materiais_cuidados,contato dos,2.0437175834719987
+materiais_cuidados,passar contato,1.951611469902642
+materiais_cuidados,me passar,1.951611469902642
+materiais_cuidados,poderia me,1.81238782696719
+materiais_cuidados,dos,1.5131825638396896
+materiais_cuidados,contato,1.1409556696851533
+materiais_cuidados,seu site,1.126505428639695
+materiais_cuidados,suas bolsas,1.126505428639695
+materiais_cuidados,passar umas,1.126505428639695
+materiais_cuidados,dicas,1.126505428639695
+saudacao,ola,2.6124888052719406
+saudacao,oi,1.9787355989392392
+saudacao,dia,1.751837557919697
+saudacao,bom dia,1.711233991318993
+saudacao,bom,1.6384565170734462
+saudacao,boa,1.5821147897606282
+saudacao,tudo,1.5021908824548371
+saudacao,bem,1.4653038138623742
+saudacao,de,1.350962331189766
+saudacao,tudo bem,1.312388434982244
+saudacao,tarde,1.280540488579703
+saudacao,coisa,1.2569890470736036
+status_pedido,pedido,1.5337815171887024
+status_pedido,mail,1.414881810182872
+status_pedido,do,0.9891580142989527
+status_pedido,vcs deveriam,0.9701165255286334
+status_pedido,sempre vem,0.9701165255286334
+status_pedido,confirmar pedido,0.9701165255286334
+status_pedido,mais seguro,0.9701165255286334
+status_pedido,line sempre,0.9701165255286334
+status_pedido,mail do,0.9701165255286334
+status_pedido,construtiva,0.9701165255286334
+status_pedido,bastante on,0.9701165255286334
+status_pedido,on line,0.9701165255286334
+styling_sugestao_look,estilo,5.061890259865249
+styling_sugestao_look,tmb,1.769236182220855
+styling_sugestao_look,festa,1.0765410950769592
+styling_sugestao_look,se,0.9705024479512977
+styling_sugestao_look,muito,0.9689910213449827
+styling_sugestao_look,podera ser,0.9340901488879682
+styling_sugestao_look,baixado,0.9340901488879682
+styling_sugestao_look,online de,0.9340901488879682
+styling_sugestao_look,online,0.9340901488879682
+styling_sugestao_look,podera,0.9340901488879682
+styling_sugestao_look,mas tmb,0.9340901488879682
+styling_sugestao_look,lancarei um,0.9340901488879682
+tamanho_modelagem,calca,2.5736202822967584
+tamanho_modelagem,tamanho,1.3854750051429956
+tamanho_modelagem,comprar,1.206650570550677
+tamanho_modelagem,linda,1.0958565140494854
+tamanho_modelagem,modelagem,1.0869369247171488
+tamanho_modelagem,medidas,1.0579862555994444
+tamanho_modelagem,quadril,1.0293220015778268
+tamanho_modelagem,da,1.0291456331464892
+tamanho_modelagem,comprei,1.0084784105026452
+tamanho_modelagem,camisa,0.9743760543006331
+tamanho_modelagem,ficou,0.8874963394352483
+tamanho_modelagem,gostaria,0.8846299467614867

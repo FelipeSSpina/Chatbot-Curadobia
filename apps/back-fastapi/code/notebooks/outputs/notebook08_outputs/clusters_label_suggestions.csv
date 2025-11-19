@@ -1,0 +1,16 @@
+cluster,qtd,top_terms_list,top_intents_dict,label_sugerido,canonical,rule,label_final
+12,123,[],"{'outros': 48, 'preco_pagamento': 19, 'saudacao': 17}",outros_cluster,outros,default,outros_cluster
+2,107,[],"{'outros': 77, 'saudacao': 18, 'duvida_tamanho': 8}",outros_cluster,outros,default,outros_cluster
+0,103,[],"{'saudacao': 33, 'outros': 33, 'onde_comprar': 12}",outros_cluster,outros,default,outros_cluster
+9,94,[],"{'outros': 74, 'agradecimento': 8, 'disponibilidade': 5}",outros_cluster,outros,default,outros_cluster
+6,86,[],"{'outros': 40, 'disponibilidade': 16, 'saudacao': 12}",outros_cluster,outros,default,outros_cluster
+5,85,[],"{'agradecimento': 68, 'saudacao': 9, 'outros': 4}",outros_cluster,outros,default,outros_cluster
+3,83,[],"{'duvida_tamanho': 48, 'outros': 19, 'saudacao': 4}",outros_cluster,outros,default,outros_cluster
+11,75,[],"{'outros': 47, 'disponibilidade': 8, 'agradecimento': 6}",outros_cluster,outros,default,outros_cluster
+1,53,[],{'outros': 53},outros_cluster,outros,default,outros_cluster
+4,47,[],"{'outros': 43, 'agradecimento': 4}",outros_cluster,outros,default,outros_cluster
+10,45,[],"{'outros': 30, 'saudacao': 8, 'troca_devolucao': 6}",outros_cluster,outros,default,outros_cluster
+13,44,[],"{'agradecimento': 22, 'duvida_tamanho': 14, 'outros': 4}",outros_cluster,outros,default,outros_cluster
+7,30,[],{'onde_comprar': 30},outros_cluster,outros,default,outros_cluster
+14,30,[],{'saudacao': 30},outros_cluster,outros,default,outros_cluster
+8,20,[],{'outros': 20},outros_cluster,outros,default,outros_cluster

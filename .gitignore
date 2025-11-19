@@ -1,0 +1,51 @@
+﻿# --- Ambientes virtuais / Python ---
+.venv/
+**/.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Node / Next.js (ajustado p/ apps/front-next) ---
+apps/front-next/node_modules/
+apps/front-next/.next/
+apps/front-next/.turbo/
+apps/front-next/.vercel/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- OS / IDE ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Logs / temporários locais ---
+*.log
+.cache/
+debug/
+outputs/debug/
+outputs/*.log
+
+# --- Artefatos grandes (modelos) ---
+# Ignora tudo dentro de notebooks/outputs/models, mas mantém .gitkeep p/ versionar as pastas
+notebooks/outputs/models/**
+!notebooks/outputs/models/
+!notebooks/outputs/models/.gitkeep
+!notebooks/outputs/models/intents_calibrated/
+!notebooks/outputs/models/intents_calibrated/.gitkeep
+!notebooks/outputs/models/fashion_embeddings/
+!notebooks/outputs/models/fashion_embeddings/.gitkeep
+!notebooks/outputs/models/fashion_embeddings/catalog_index/
+!notebooks/outputs/models/fashion_embeddings/catalog_index/.gitkeep

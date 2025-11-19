@@ -1,0 +1,88 @@
+[
+  {
+    "query": "jaqueta jeans",
+    "relevant_indices": []
+  },
+  {
+    "query": "jaqueta jeans preta",
+    "relevant_indices": []
+  },
+  {
+    "query": "vestido midi preto",
+    "relevant_indices": [
+      1
+    ]
+  },
+  {
+    "query": "vestido midi evasê",
+    "relevant_indices": [
+      1
+    ]
+  },
+  {
+    "query": "blazer linho bege",
+    "relevant_indices": []
+  },
+  {
+    "query": "calça wide leg",
+    "relevant_indices": [
+      2
+    ]
+  },
+  {
+    "query": "saia plissada",
+    "relevant_indices": []
+  },
+  {
+    "query": "cardigan bege",
+    "relevant_indices": []
+  },
+  {
+    "query": "suéter tricot",
+    "relevant_indices": []
+  },
+  {
+    "query": "jaqueta puffer",
+    "relevant_indices": []
+  },
+  {
+    "query": "bota couro preta",
+    "relevant_indices": []
+  },
+  {
+    "query": "tênis branco",
+    "relevant_indices": []
+  },
+  {
+    "query": "sandália tiras",
+    "relevant_indices": []
+  },
+  {
+    "query": "mule feminina",
+    "relevant_indices": []
+  },
+  {
+    "query": "bolsa tiracolo",
+    "relevant_indices": []
+  },
+  {
+    "query": "macacão pantacourt",
+    "relevant_indices": []
+  },
+  {
+    "query": "short alfaiataria",
+    "relevant_indices": []
+  },
+  {
+    "query": "jaqueta couro",
+    "relevant_indices": []
+  },
+  {
+    "query": "chemise jeans",
+    "relevant_indices": []
+  },
+  {
+    "query": "polo feminina",
+    "relevant_indices": []
+  }
+]

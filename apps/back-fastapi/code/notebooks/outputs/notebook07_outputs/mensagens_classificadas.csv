@@ -1,0 +1,6 @@
+state_in,texto,intent,intent_raw,conf,gap_top2,heuristica,entities,action,state_out,resposta_sugerida
+START,quero saber formas de pagamento,formas_pagamento,formas_pagamento,0.9767,0.9656,rule:formas_pagamento,{},,CAPTURA_INTENCAO,"Oi! Eu sou a BIBI da Curadobia. Posso calcular frete, formas de pagamento, tamanho, estoque e mais. Em que te ajudo? ✨"
+START,qual o prazo de entrega para 01234-567?,frete_prazo,frete_prazo,0.7797,0.707,rule:frete_cep,{'geo.cep': '01234-567'},,CAPTURA_INTENCAO,"Oi! Eu sou a BIBI da Curadobia. Posso calcular frete, formas de pagamento, tamanho, estoque e mais. Em que te ajudo? ✨"
+START,tem vestido M em estoque?,disponibilidade,nao_entendi,0.3891,0.0256,rule:estoque_cat,"{'tamanho_ref': 'm', 'categoria': 'vestido'}",,CAPTURA_INTENCAO,"Oi! Eu sou a BIBI da Curadobia. Posso calcular frete, formas de pagamento, tamanho, estoque e mais. Em que te ajudo? ✨"
+START,não consigo finalizar a compra,outros,troca_devolucao_politica,0.3127,0.0402,,{},,CAPTURA_INTENCAO,"Oi! Eu sou a BIBI da Curadobia. Posso calcular frete, formas de pagamento, tamanho, estoque e mais. Em que te ajudo? ✨"
+START,"oi, tudo bem?",saudacao,saudacao,0.9783,0.9577,rule:saudacao,{},,CAPTURA_INTENCAO,"Oi! Eu sou a BIBI da Curadobia. Posso calcular frete, formas de pagamento, tamanho, estoque e mais. Em que te ajudo? ✨"

@@ -1,0 +1,236 @@
+schema_version: 1
+
+# ======================
+# Normalização de chaves
+# ======================
+normalize:
+  casefold: true
+  strip_accents: true
+  replace:
+    "-": "_"
+    " ": "_"
+
+# Para onde enviamos rótulos desconhecidos
+unknown_to: outros
+
+# ======================
+# Conjunto canônico (deve bater com fluxos.yaml:intents)
+# ======================
+canonical:
+  - saudacao
+  - despedida
+  - agradecimento
+  - duvida_tamanho
+  - pedido_sugestao
+  - disponibilidade
+  - onde_comprar
+  - cupom_primeira
+  - erros_plataforma
+  - falar_com_humano
+  - outros
+  - buscar_produto_por_nome
+  - buscar_produto_por_categoria
+  - frete_prazo
+  - formas_pagamento
+  - status_pedido
+  - tamanho_modelagem
+  - styling_sugestao_look
+  - materiais_cuidados
+  - troca_devolucao
+
+# ======================
+# Aliases de colunas (NB03/NB07/NB08)
+# ======================
+column_aliases:
+  texto:  [texto, mensagem, utterance, frase, message]
+  intent: [intent, intencao, intenção, label, rotulo, rótulo, classe, target, y, label_regra]
+
+# ======================
+# Mapeamentos (aliases → canônico)
+# ======================
+map:
+  saudacao: [saudacao, oi, ola, olá, oie, bom_dia, boa_tarde, boa_noite, hello, hi]
+  agradecimento: [agradecimento, obrigado, obrigada, valeu, agradeco, agradeço, obg, perfeito, show]
+  despedida: [despedida, tchau, ate_mais, até_mais, ate_logo, até_logo, flw, falou]
+
+  formas_pagamento:
+    - formas_pagamento
+    - preco_pagamento
+    - pagamento
+    - meios_pagamento
+    - condicoes_pagamento
+    - condicoes_de_pagamento
+    - cartao_boleto_pix
+    - cartao
+    - cartão
+    - pix
+    - boleto
+    - parcelar
+    - parcelas
+
+  frete_prazo:
+    - frete_prazo
+    - prazo_entrega
+    - frete
+    - entrega_prazo
+    - calcular_frete
+    - prazo
+    - envio
+    - rastreio_frete
+
+  disponibilidade:
+    - disponibilidade
+    - estoque
+    - tem_estoque
+    - disponibilidade_produto
+    - tem_no_tamanho
+    - tem_tamanho
+    - tem_cor
+    - tem_modelo
+
+  onde_comprar:
+    - onde_comprar
+    - como_comprar
+    - link_para_compra
+    - onde_vende
+    - link_produto
+    - comprar
+
+  status_pedido:
+    - status_pedido
+    - rastreio
+    - rastrear_pedido
+    - tracking
+    - status
+    - acompanhamento
+    - rastrear
+
+  troca_devolucao:
+    - troca_devolucao
+    - troca_devolucao_politica
+    - troca
+    - devolucao
+    - devolução
+    - defeito_troca
+    - politica_troca
+    - politica_devolucao
+
+  duvida_tamanho:
+    - duvida_tamanho
+    - duvidas_tamanho
+    - guia_tamanhos
+    - duvida_de_tamanho
+
+  tamanho_modelagem:
+    - tamanho_modelagem
+    - modelagem
+    - sugestao_tamanho
+    - tabela_de_medidas
+    - veste_como
+    - caimento
+
+  styling_sugestao_look:
+    - styling_sugestao_look
+    - sugestao_look
+    - combinar_pecas
+    - styling
+    - look
+    - ideia_de_look
+    - montar_look
+
+  materiais_cuidados:
+    - materiais_cuidados
+    - tecido
+    - material
+    - composicao
+    - composição
+    - cuidados
+    - cuidados_lavagem
+    - lavar
+    - passar
+    - linho_cuidado
+
+  erros_plataforma:
+    - erros_plataforma
+    - checkout_erro
+    - erro_checkout
+    - erro_pagamento
+    - nao_consigo_finalizar
+    - não_consigo_finalizar
+    - bug
+    - problema_site
+    - erro_site
+    - trava_no_checkout
+
+  falar_com_humano:
+    - falar_com_humano
+    - atendimento_humano
+    - humano
+    - atendente
+    - falar_com_pessoa
+    - falar_com_atendente
+    - falar_com_humano_por_favor
+
+  buscar_produto_por_nome:
+    - buscar_produto_por_nome
+    - busca_nome
+    - procurar_por_nome
+    - nome_do_produto
+
+  buscar_produto_por_categoria:
+    - buscar_produto_por_categoria
+    - busca_categoria
+    - procurar_por_categoria
+    - categoria_produto
+
+  pedido_sugestao:
+    - pedido_sugestao
+    - recomendacao_produto
+    - recomendação_produto
+    - sugestao
+    - pedir_sugestao_produto
+    - sugestao_de_produto
+    - recomendacao
+
+  cupom_primeira:
+    - cupom_primeira
+    - cupom_primeira_compra
+    - desconto_primeira_compra
+    - cupom
+
+  # Itens diversos e B2B/out of scope → OUTROS
+  outros:
+    - outros
+    - nao_entendi
+    - não_entendi
+    - smalltalk
+    - ruido
+    - ruído
+    - spam
+    - cliente_loja_b2b
+    - b2b
+    - atacado
+    - revenda
+    - pos_venda
+    - posvenda
+    - pos_vendas
+    - pos-venda
+    - como_comprar        # antigo rótulo → hoje cai em onde_comprar via collapse_to
+    - trocar_politica     # variantes soltas
+    - politica            # genérico demais
+
+# Rótulos a descartar explicitamente (vazios etc.)
+drop: ["", "n/a", "none", "null"]
+
+# ======================
+# Colapsos explícitos (apelidos antigos → canônico)
+# ======================
+collapse_to:
+  onde_comprar:
+    - como_comprar
+  pedido_sugestao:
+    - pedir_sugestao_produto
+  troca_devolucao:
+    - troca_devolucao_politica
+  outros:
+    - outros_cluster
