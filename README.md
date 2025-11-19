@@ -1,8 +1,4 @@
 ﻿<div align="justify">
-
-# 2025-2A-T07-CC11-G04
-Repositório do grupo 04 - Curadobot
-
 <table width="100%">
   <tr>
     <td width="50%" align="center">
